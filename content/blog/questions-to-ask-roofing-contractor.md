@@ -2,7 +2,7 @@
 title: "Questions to Ask a Roofing Contractor Before You Sign Anything"
 slug: questions-to-ask-roofing-contractor
 date: 2026-05-14
-published: false
+published: true
 scheduled_date: 2026-05-22
 meta_title: "Questions to Ask a Roofing Contractor (2026)"
 meta_description: "Before you hire a roofer, ask these 10 questions. Covers licensing, insurance, warranties, permits, and the red flags Arizona homeowners face most often."
