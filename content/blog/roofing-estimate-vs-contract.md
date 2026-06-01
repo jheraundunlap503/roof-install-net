@@ -1,7 +1,7 @@
 ---
 title: "Roofing Estimate vs Contract: What Changes When You Sign"
 slug: roofing-estimate-vs-contract
-date: 2026-05-25
+date: 2026-06-01
 published: true
 scheduled_date: 2026-05-25
 meta_title: "Roofing Estimate vs Contract: Homeowner Guide"
