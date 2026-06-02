@@ -2,7 +2,7 @@
 title: "Tile vs Shingle Roof in Arizona: Which One Actually Makes Sense for Your Home"
 slug: tile-vs-shingle-roof-arizona
 date: 2026-05-18
-published: false
+published: true
 scheduled_date: 2026-05-18
 meta_title: "Tile vs Shingle Roof Arizona: Which Makes More Sense?"
 meta_description: "Tile costs more upfront but costs less per year in Arizona. Shingle is faster and cheaper to replace. Here's the full comparison for Phoenix metro homeowners."

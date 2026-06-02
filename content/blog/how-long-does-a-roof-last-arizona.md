@@ -2,7 +2,7 @@
 title: "How Long Does a Roof Last in Arizona? Lifespans by Material, Honestly"
 slug: how-long-does-a-roof-last-arizona
 date: 2026-05-19
-published: false
+published: true
 scheduled_date: 2026-05-19
 meta_title: "How Long Does a Roof Last in Arizona? By Material"
 meta_description: "Arizona roofs last less than national averages. Shingles run 15–20 years, tile 40–50+, metal 50+. Here's why, and the signs your roof is near the end."
