@@ -8,7 +8,7 @@ meta_description: Learn what metal roofing costs in Arizona, which types perform
 primary_keyword: metal roof arizona
 keyword_cluster: standing seam metal roof arizona, metal roof cost arizona, stone coated steel roof arizona, cool metal roof arizona
 type: blog
-image_url: https://images.pexels.com/photos/17870967/pexels-photo-17870967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+image_url: https://images.pexels.com/photos/17870967/pexels-photo-17870967.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 image_alt: modern home with standing seam metal roof and white stone facade under clear blue sky
 ---
 
