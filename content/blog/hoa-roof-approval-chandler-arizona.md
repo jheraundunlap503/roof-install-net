@@ -8,8 +8,8 @@ meta_description: Step-by-step guide to getting HOA approval for a roof replacem
 primary_keyword: hoa roof approval chandler arizona
 keyword_cluster: chandler hoa roof replacement, arizona hoa roofing rules, arc approval roof arizona, hoa roof chandler
 type: blog
-image_url: https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-image_alt: suburban Arizona neighborhood with tile roofs typical of Chandler HOA communities
+image_url: https://images.pexels.com/photos/29952462/pexels-photo-29952462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+image_alt: suburban homes with white stucco and red tile roofs in an Arizona HOA community
 ---
 
 # HOA Roof Approval in Chandler, Arizona: What Homeowners Need to Know
