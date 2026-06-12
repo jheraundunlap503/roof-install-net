@@ -93,6 +93,42 @@ export function getContentItem(type: ContentType, slug: string) {
   return getContentItems(type).find((item) => item.slug === slug);
 }
 
+export function getContentItemsRaw(type: ContentType): ContentItem[] {
+  const dir = path.join(contentRoot, type);
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .filter((file) => file.endsWith(".md"))
+    .map((file) => {
+      const slug = file.replace(/\.md$/, "");
+      const raw = fs.readFileSync(path.join(dir, file), "utf8");
+      const { data, body } = parseFrontmatter(raw);
+      const description = data.meta_description || data.description || data.metaDescription || "";
+      const published = data.published === undefined ? true : data.published !== "false";
+      return {
+        slug,
+        title: data.title || slug.replace(/-/g, " "),
+        description,
+        meta_title: data.meta_title || data.title || "",
+        meta_description: description,
+        image_url: data.image_url || "",
+        image_alt: data.image_alt || "",
+        date: data.date,
+        published,
+        type,
+        primaryKeyword: data.primary_keyword || data.primaryKeyword,
+        city: data.city,
+        service: data.service,
+        body,
+      };
+    })
+    .sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+}
+
+export function getContentItemRaw(type: ContentType, slug: string) {
+  return getContentItemsRaw(type).find((item) => item.slug === slug);
+}
+
 export function getAllStaticPaths() {
   const blog = getContentItems("blog").map((item) => `/blog/${item.slug}/`);
   const services = getContentItems("services").map(
