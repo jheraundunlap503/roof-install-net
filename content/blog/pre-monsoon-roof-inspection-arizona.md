@@ -2,7 +2,7 @@
 title: "Pre-Monsoon Roof Inspection Arizona: What to Check Before July"
 slug: pre-monsoon-roof-inspection-arizona
 date: 2026-05-21
-published: false
+published: true
 scheduled_date: 2026-05-21
 meta_title: "Pre-Monsoon Roof Inspection Arizona: Full Checklist"
 meta_description: "Arizona monsoon season starts July 1. Here's what to check on your roof in May or June, what you can inspect yourself, and what needs a licensed roofer."
