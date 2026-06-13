@@ -2,7 +2,7 @@
 title: "HOA Roof Replacement in Gilbert, Arizona: What You Need to Approve Before You Start"
 slug: hoa-roof-replacement-gilbert-arizona
 date: 2026-05-17
-published: false
+published: true
 scheduled_date: 2026-05-17
 meta_title: "HOA Roof Replacement Gilbert AZ: Approval Process Explained"
 meta_description: "Replacing your roof in a Gilbert, AZ HOA community? Learn the ARC approval process, material restrictions, timelines, and what happens if you skip the paperwork."
@@ -32,7 +32,7 @@ Knowing the process before you call a roofer saves weeks of delays and protects 
 
 Yes, in most Gilbert and East Valley HOA communities. Governing documents — the CC&Rs (Covenants, Conditions, and Restrictions) and the community Architectural Standards — typically specify the approved roofing material (usually concrete tile or a specific tile profile), color range (often referenced by manufacturer color code, not just a general description), and in some cases the manufacturer.
 
-If your community was built with S-curve concrete tile in a specific blend, your replacement must match that profile. Installing flat tile, clay tile in a different shade, or asphalt shingle — even temporarily — can trigger a violation notice and a requirement to redo the work at your expense.
+If your community was built with S-curve concrete tile in a specific blend, your replacement must match that profile. Installing flat tile, clay tile in a different shade, or asphalt shingle — even temporarily — can trigger a violation notice and a requirement to redo the work at your expense. See our [tile roof replacement guide for Gilbert](/services/tile-roof-replacement-gilbert-az/) for cost ranges and what the ARC submission process looks like from the contractor side.
 
 ## What is the ARC and how does the approval process work?
 
