@@ -5,7 +5,7 @@ city: Gilbert
 service: Tile Roof Replacement
 date: 2026-06-11
 scheduled_date: 2026-06-13
-published: false
+published: true
 meta_title: Tile Roof Replacement Gilbert AZ | Cost & HOA Guide
 meta_description: Tile roof replacement in Gilbert, AZ costs $12,000–$25,000. Learn HOA requirements for Power Ranch, Morrison Ranch, permit rules, and how to choose a contractor.
 primary_keyword: tile roof replacement gilbert az
