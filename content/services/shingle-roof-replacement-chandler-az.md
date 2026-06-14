@@ -5,7 +5,7 @@ city: Chandler
 service: Shingle Roof Replacement
 date: 2026-06-11
 scheduled_date: 2026-06-14
-published: false
+published: true
 meta_title: Shingle Roof Replacement Chandler AZ | Cost & HOA Rules
 meta_description: Shingle roof replacement in Chandler, AZ costs $8,000–$14,000. Learn which Chandler HOAs allow shingles, what affects price, and what class of shingle holds up in Arizona heat.
 primary_keyword: shingle roof replacement chandler az
