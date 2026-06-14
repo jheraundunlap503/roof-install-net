@@ -2,7 +2,7 @@
 title: "Does a New Roof Increase Home Value in Arizona? The Honest Numbers"
 slug: new-roof-home-value-arizona
 date: 2026-05-16
-published: false
+published: true
 scheduled_date: 2026-05-16
 meta_title: "Does a New Roof Increase Home Value in Arizona?"
 meta_description: "A new roof returns 60–68% at resale nationally. In Arizona, roof age also affects buyer insurance eligibility and offer terms. Here's the honest breakdown."
