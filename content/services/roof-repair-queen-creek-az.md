@@ -5,7 +5,7 @@ city: Queen Creek
 service: Roof Repair
 date: 2026-06-11
 scheduled_date: 2026-06-15
-published: false
+published: true
 meta_title: Roof Repair Queen Creek AZ | Cost, Permits & Contractors
 meta_description: Roof repair in Queen Creek, AZ costs $200–$3,500 depending on damage type. Learn when repair beats replacement, permit rules, and how to vet a contractor for Harvest, Encanterra, and Ironwood Crossing homes.
 primary_keyword: roof repair queen creek az
