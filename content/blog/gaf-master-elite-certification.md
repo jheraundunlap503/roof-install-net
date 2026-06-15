@@ -2,7 +2,7 @@
 title: "GAF Master Elite Certification: What It Means and Whether It Matters in Arizona"
 slug: gaf-master-elite-certification
 date: 2026-05-20
-published: false
+published: true
 scheduled_date: 2026-05-20
 meta_title: "GAF Master Elite Certification: Does It Matter in Arizona?"
 meta_description: "GAF Master Elite is the top contractor tier from North America's largest shingle manufacturer. Here's what it actually requires, what the warranties cover, and the honest caveats."
