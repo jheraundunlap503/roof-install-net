@@ -5,7 +5,7 @@ city: Gilbert
 service: Storm Damage Roofing
 date: 2026-06-11
 scheduled_date: 2026-06-17
-published: false
+published: true
 meta_title: Storm Damage Roofing Gilbert AZ | Hail, Wind & Insurance
 meta_description: Storm damage roofing in Gilbert, AZ — learn how to assess hail and wind damage on tile roofs, navigate the insurance claim process, and avoid storm chasers targeting Power Ranch and Morrison Ranch after a storm event.
 primary_keyword: storm damage roofing gilbert az
