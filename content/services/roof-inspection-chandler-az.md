@@ -5,7 +5,7 @@ city: Chandler
 service: Roof Inspection
 date: 2026-06-11
 scheduled_date: 2026-06-18
-published: false
+published: true
 meta_title: Roof Inspection Chandler AZ | What It Covers & When to Get One
 meta_description: Roof inspections in Chandler, AZ cost $0–$300 depending on who you hire. Learn when to schedule one, what a thorough inspection covers on a Chandler tile roof, and what to do with the findings.
 primary_keyword: roof inspection chandler az
