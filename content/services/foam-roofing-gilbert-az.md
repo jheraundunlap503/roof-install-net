@@ -5,7 +5,7 @@ city: Gilbert
 service: Foam Roofing
 date: 2026-06-12
 scheduled_date: 2026-06-19
-published: false
+published: true
 meta_title: Foam Roofing Gilbert AZ | SPF Cost, HOA Rules & Contractors
 meta_description: Foam roofing in Gilbert, AZ costs $5–$9 per sq ft installed. Learn how Power Ranch and Morrison Ranch HOAs handle foam, what the Town of Gilbert requires for permits, and how to evaluate SPF contractors.
 primary_keyword: foam roofing gilbert az
