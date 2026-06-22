@@ -5,7 +5,7 @@ city: Mesa
 service: Tile Roof Replacement
 date: 2026-06-12
 scheduled_date: 2026-06-20
-published: false
+published: true
 meta_title: Tile Roof Replacement Mesa AZ | Cost, HOA & Contractor Guide
 meta_description: Tile roof replacement in Mesa, AZ costs $12,000–$24,000 for most homes. Learn what drives price, what Dobson Ranch and Red Mountain Ranch HOAs require, and how to vet contractors in Mesa's large market.
 primary_keyword: tile roof replacement mesa az
