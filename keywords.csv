@@ -30,9 +30,9 @@ roofer damaged my property,blog,informational,low,queued,Week 5 - FAQ
 replace roof before selling house,blog,commercial,high,published,Week 5
 how to tell if roof has hail damage,blog,informational,high,published,Week 5
 roof replacement cost by square footage arizona,blog,commercial,high,published,Month 2
-arizona roofing materials lifespan,blog,informational,medium,queued,Month 2
+arizona roofing materials lifespan,blog,informational,medium,skip-duplicate,Month 2 - covered by how-long-does-a-roof-last-arizona
 what causes roof failure arizona,blog,informational,medium,published,Month 2
-how to read roofing warranty,blog,informational,medium,queued,Month 2
+how to read roofing warranty,blog,informational,medium,published,Month 2
 permits required roof replacement arizona,blog,informational,medium,published,Month 2
 solar panel roof replacement arizona,blog,informational,medium,queued,Month 2
 cool roof coating arizona,blog,informational,medium,published,Month 2
