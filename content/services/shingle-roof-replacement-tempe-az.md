@@ -5,7 +5,7 @@ city: Tempe
 service: Shingle Roof Replacement
 date: 2026-06-12
 scheduled_date: 2026-06-21
-published: false
+published: true
 meta_title: Shingle Roof Replacement Tempe AZ | Cost & What to Expect
 meta_description: Shingle roof replacement in Tempe, AZ costs $8,000–$14,000 for most homes. Learn what drives price on older Tempe homes, what deck surprises to expect, permit requirements, and how to choose a contractor.
 primary_keyword: shingle roof replacement tempe az
