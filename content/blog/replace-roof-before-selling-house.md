@@ -3,8 +3,8 @@ title: Should You Replace Your Roof Before Selling Your House in Arizona?
 slug: replace-roof-before-selling-house
 date: 2026-06-09
 published: true
-meta_title: Replace Roof Before Selling in Arizona? What Sellers Should Know
-meta_description: Learn when replacing a roof before selling an Arizona home makes financial sense, how inspectors and lenders view older roofs, and when a credit beats replacement.
+meta_title: "Should You Replace Your Roof Before Selling Your House in Arizona? | roofinstall.net"
+meta_description: Whether to replace your roof before selling your Arizona house depends on its condition, your buyer pool, and your lender. Here's how to decide.
 primary_keyword: replace roof before selling house
 keyword_cluster: sell house new roof arizona, roof before listing home arizona, roof replacement before sale arizona
 type: blog

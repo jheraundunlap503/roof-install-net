@@ -3,8 +3,8 @@ title: "Roofing Scams in Arizona: What Every Homeowner Needs to Know"
 slug: roofing-scams-arizona
 date: 2026-05-12
 published: true
-meta_title: "Roofing Scams in Arizona: How to Spot and Avoid Them"
-meta_description: "Roofing fraud costs Arizona homeowners thousands every year. Learn the 5 most common scams, the AOB trap, and how to verify any contractor in 2 minutes."
+meta_title: "Roofing Scams in Arizona: How to Spot and Avoid Them | roofinstall.net"
+meta_description: "Spot and avoid Arizona's most common roofing scams: storm chasers, the AOB trap, and large deposit fraud. Verify any contractor's license in 2 minutes."
 primary_keyword: roofing scam arizona
 keyword_cluster: storm chaser roofer arizona, assignment of benefits roofing, arizona roofing contractor license, roc.az.gov contractor lookup, BBB roofing complaints
 type: blog

@@ -4,7 +4,7 @@ slug: questions-to-ask-roofing-contractor
 date: 2026-05-14
 published: true
 scheduled_date: 2026-05-22
-meta_title: "Questions to Ask a Roofing Contractor (2026)"
+meta_title: "Questions to Ask Before Signing a Roofing Contract in Arizona | roofinstall.net"
 meta_description: "Before you hire a roofer, ask these 10 questions. Covers licensing, insurance, warranties, permits, and the red flags Arizona homeowners face most often."
 primary_keyword: questions to ask roofing contractor
 keyword_cluster: how to hire a roofing contractor, roofing contractor checklist, arizona roofing contractor license, roofing estimate questions, roofing warranty questions
@@ -14,9 +14,9 @@ image_alt: homeowner reviewing estimate with roofing contractor
 pexels_photo_id: 6285155
 ---
 
-# Questions to Ask a Roofing Contractor Before You Sign Anything
+# Questions to Ask Before Signing a Roofing Contract in Arizona
 
-**TLDR:** Most homeowners spend less than 20 minutes vetting a roofer before signing a contract worth $10,000–$30,000. These 10 questions cover every protection point before money changes hands: Arizona license verification, insurance requirements, permit responsibility, what the written estimate must include, and how warranty terms actually work. Print them out before your first contractor meeting.
+**TLDR:** The questions to ask before signing a roofing contract come down to verifying five things in writing. Most homeowners spend less than 20 minutes vetting a roofer before signing a roofing contract worth $10,000–$30,000. These 10 questions cover every protection point before money changes hands: Arizona license verification, insurance requirements, permit responsibility, what the written estimate must include, and how warranty terms actually work. Print them out before your first contractor meeting.
 
 ---
 
@@ -25,6 +25,12 @@ Most roofing bids arrive as a single number on a one-page form. The homeowner si
 The [Arizona Registrar of Contractors](https://roc.az.gov/before-hire) identifies two steps most homeowners skip and most commonly regret: getting written estimates from at least three contractors and verifying each contractor's license status before any money changes hands.
 
 These questions cover both — and everything in between.
+
+---
+
+## What Should You Ask Before Signing a Roofing Contract?
+
+Before signing a roofing contract, confirm five things in writing: the contractor holds an active Arizona R-42 license, carries general liability and workers' compensation insurance, states who pulls the permit, provides a line-item estimate, and supplies both the workmanship and manufacturer warranty documents. Each question below pins down one of those five before any deposit changes hands.
 
 ---
 
