@@ -1,0 +1,35 @@
+name: GSC Auto-Indexing
+
+on:
+  push:
+    branches: [main]
+    paths: ['content/**']
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Comma-separated full URLs to force-index'
+        required: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install google-auth requests
+
+      - name: Submit URLs to GSC
+        env:
+          GSC_SERVICE_ACCOUNT_KEY: ${{ secrets.GSC_SERVICE_ACCOUNT_KEY }}
+          MANUAL_URLS: ${{ inputs.urls }}
+        run: python .github/scripts/gsc_index.py

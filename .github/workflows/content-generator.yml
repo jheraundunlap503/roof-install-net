@@ -1,0 +1,69 @@
+name: Weekly Content Generator
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'   # Every Monday — 7:00 AM Arizona MST
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Generate files but do not commit or email'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Generate content drafts
+        id: generate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PEXELS_API_KEY:    ${{ secrets.PEXELS_API_KEY }}
+          SITE_LAUNCH_DATE:  ${{ vars.SITE_LAUNCH_DATE }}
+          DRY_RUN:           ${{ inputs.dry_run }}
+        run: python .github/scripts/generate_content.py
+
+      - name: Commit drafts
+        if: |
+          steps.generate.outputs.article_count != '0' &&
+          inputs.dry_run != 'true'
+        run: |
+          git config user.name  "roofinstall-bot"
+          git config user.email "bot@roofinstall.net"
+          git add content/ keywords.csv
+          git commit -m "auto: add ${{ steps.generate.outputs.article_count }} draft article(s)"
+          git push
+
+      - name: Email summary
+        if: steps.generate.outputs.article_count != '0'
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTIFY_EMAIL:   ${{ vars.NOTIFY_EMAIL }}
+          SUMMARY:        ${{ steps.generate.outputs.summary }}
+        run: |
+          curl -sf https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"from\": \"bot@roofinstall.net\",
+              \"to\":   \"$NOTIFY_EMAIL\",
+              \"subject\": \"roofinstall.net — Draft articles ready for review\",
+              \"html\": \"<pre style='font-family:monospace'>$SUMMARY</pre>\"
+            }"

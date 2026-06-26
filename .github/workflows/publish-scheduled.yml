@@ -1,0 +1,40 @@
+name: Daily Auto-Publisher
+
+on:
+  schedule:
+    - cron: '0 16 * * *'   # Primary  — 9:00 AM Arizona MST
+    - cron: '0 17 * * *'   # Backup   — 10:00 AM Arizona MST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    outputs:
+      files_changed: ${{ steps.flip.outputs.files_changed }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Flip scheduled content
+        id: flip
+        run: python .github/scripts/flip_scheduled.py
+
+      - name: Commit and push
+        if: steps.flip.outputs.files_changed == 'true'
+        run: |
+          git config user.name  "roofinstall-bot"
+          git config user.email "bot@roofinstall.net"
+          git add content/
+          git commit -m "auto: publish scheduled content $(date -u +%Y-%m-%d)"
+          git push
