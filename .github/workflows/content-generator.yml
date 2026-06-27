@@ -2,7 +2,7 @@ name: Weekly Content Generator
 
 on:
   schedule:
-    - cron: '0 14 * * 1'   # Every Monday — 7:00 AM Arizona MST
+    - cron: '0 14 * * *'   # Every day — 7:00 AM Arizona MST
   workflow_dispatch:
     inputs:
       dry_run:
