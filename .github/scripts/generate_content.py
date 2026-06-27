@@ -17,7 +17,7 @@ from anthropic import Anthropic
 ARIZONA_TZ       = timezone(timedelta(hours=-7))
 KEYWORDS_CSV     = 'keywords.csv'
 ARTICLES_PER_RUN = 2
-SCHEDULE_DAYS    = 14
+SCHEDULE_DAYS    = 0
 DRY_RUN          = os.environ.get('DRY_RUN', 'false').lower() == 'true'
 GITHUB_OUTPUT    = os.environ.get('GITHUB_OUTPUT', '')
 
