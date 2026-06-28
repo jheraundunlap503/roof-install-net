@@ -52,13 +52,13 @@ jobs:
           git push
 
       - name: Email summary
-        if: steps.generate.outputs.article_count != '0'
+        if: steps.generate.outputs.article_count != '0' && secrets.RESEND_API_KEY != ''
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           NOTIFY_EMAIL:   ${{ vars.NOTIFY_EMAIL }}
           SUMMARY:        ${{ steps.generate.outputs.summary }}
         run: |
-          curl -sf https://api.resend.com/emails \
+          curl -s https://api.resend.com/emails \
             -H "Authorization: Bearer $RESEND_API_KEY" \
             -H "Content-Type: application/json" \
             -d "{
@@ -66,4 +66,4 @@ jobs:
               \"to\":   \"$NOTIFY_EMAIL\",
               \"subject\": \"roofinstall.net — Draft articles ready for review\",
               \"html\": \"<pre style='font-family:monospace'>$SUMMARY</pre>\"
-            }"
+            }" || true
