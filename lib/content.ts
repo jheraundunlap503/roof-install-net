@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-export type ContentType = "blog" | "services";
+export type ContentType = "blog" | "services" | "cities";
 
 export type ContentItem = {
   slug: string;
@@ -134,8 +134,11 @@ export function getAllStaticPaths() {
   const services = getContentItems("services").map(
     (item) => `/services/${item.slug}/`
   );
+  const cities = getContentItems("cities").map(
+    (item) => `/cities/${item.slug}/`
+  );
 
-  return [...blog, ...services];
+  return [...blog, ...services, ...cities];
 }
 
 export function markdownToBlocks(markdown: string) {
