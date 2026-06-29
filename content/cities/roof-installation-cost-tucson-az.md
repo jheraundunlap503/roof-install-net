@@ -2,7 +2,7 @@
 title: "Roof Installation Cost Tucson AZ: 2026 Pricing Guide"
 slug: roof-installation-cost-tucson-az
 date: 2026-06-29
-published: false
+published: true
 scheduled_date: 2026-06-29
 meta_title: "Roof Installation Cost Tucson AZ: 2026 Prices"
 meta_description: "What does a new roof cost in Tucson AZ? Real price ranges by material, plus what Tucson's UV and monsoon climate means for your roofing choice."

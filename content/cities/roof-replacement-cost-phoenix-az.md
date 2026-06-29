@@ -3,7 +3,7 @@
 title: "Roof Replacement Cost in Phoenix, AZ: What Homeowners Actually Pay"
 slug: roof-replacement-cost-phoenix-az
 date: 2026-06-29
-published: false
+published: true
 scheduled_date: 2026-06-29
 meta_title: "Roof Replacement Cost Phoenix AZ | 2026 Prices"
 meta_description: "What does roof replacement cost in Phoenix AZ? See real 2026 price ranges for shingle, tile, and flat roofs in the East Valley."
