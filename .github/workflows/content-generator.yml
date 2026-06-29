@@ -52,7 +52,7 @@ jobs:
           git push
 
       - name: Email summary
-        if: steps.generate.outputs.article_count != '0' && secrets.RESEND_API_KEY != ''
+        if: steps.generate.outputs.article_count != '0'
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           NOTIFY_EMAIL:   ${{ vars.NOTIFY_EMAIL }}
