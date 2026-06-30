@@ -13,44 +13,17 @@ export default function ContactPage() {
         <span className="label">Contact</span>
         <h1>Send a note about a roofing guide or local coverage request.</h1>
         <p className="lede">
-          This form is visual only in Phase 1. The live workflow connects after
-          Supabase, Beehiiv, and Brevo approval gates.
+          Useful notes: corrections or source suggestions for existing guides,
+          requests for Phoenix metro city coverage, or questions homeowners keep
+          asking about bids or claims.
         </p>
       </section>
 
-      <section className="section split">
-        <div>
-          <h2>Useful notes to send</h2>
-          <ul className="list">
-            <li>Corrections or source suggestions for roofing articles.</li>
-            <li>Requests for Phoenix metro city coverage.</li>
-            <li>Questions homeowners keep asking about bids or claims.</li>
-          </ul>
-          <div className="callout">
-            <p>
-              No message is sent from this preview. Email activation requires
-              explicit Brevo template approval.
-            </p>
-          </div>
-        </div>
-
-        <form className="tool-card form-shell">
-          <label>
-            Name
-            <input className="input" name="name" type="text" />
-          </label>
-          <label>
-            Email
-            <input className="input" name="email" type="email" />
-          </label>
-          <label>
-            Message
-            <textarea className="textarea" name="message" />
-          </label>
-          <button className="button" disabled type="button">
-            Connects later
-          </button>
-        </form>
+      <section className="section">
+        <p>
+          Email us at{" "}
+          <a href="mailto:hello@roofinstall.net">hello@roofinstall.net</a>.
+        </p>
       </section>
     </div>
   );

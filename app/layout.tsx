@@ -13,7 +13,6 @@ const navGroups = [
         label: "How Much Does a New Roof Cost in Arizona",
         href: "/blog/roof-replacement-cost-arizona-2026/"
       },
-      { label: "Roof Cost by City", href: "/cities/" },
       { label: "Free Cost Estimator", href: "/estimator/" }
     ]
   },

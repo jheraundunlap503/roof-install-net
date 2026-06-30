@@ -23,26 +23,17 @@ export default function AboutPage() {
         <div>
           <h2>What this site is</h2>
           <p>
-            This is a standalone homeowner education and lead generation asset
-            for the U.S. roofing industry. It is not a contractor website and it
-            does not share infrastructure or branding with unrelated businesses.
+            This is a standalone homeowner education resource for the U.S.
+            roofing industry. It is not a contractor website and it has no
+            affiliation with any roofing company.
           </p>
           <h2>Editorial standards</h2>
           <p>
-            Guides should use specific numbers, local context, source-backed
-            claims, and plain language. The site should tell homeowners when
-            they may not need a new roof.
+            Every guide uses specific numbers, local climate context,
+            source-backed claims, and plain language. The site tells homeowners
+            when they may not need a new roof.
           </p>
         </div>
-        <aside className="data-box">
-          <span className="label">Rules that matter</span>
-          <ul className="list">
-            <li>No bulk publishing.</li>
-            <li>No email sends before approval.</li>
-            <li>No content pages that depend on client-side fetching.</li>
-            <li>No contractor-first sales language.</li>
-          </ul>
-        </aside>
       </section>
     </div>
   );
