@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Roof Installation Cost Denver CO: What Homeowners Should Know"
 slug: roof-installation-cost-denver-co
@@ -199,4 +198,3 @@ Yes, demand-driven pricing spikes are real after large storm events. Contractor 
 **What is the lifespan of a new roof installed in Denver?**
 
 A standard architectural asphalt shingle roof installed correctly in Denver typically lasts 20 to 30 years. Impact-resistant Class 4 shingles can extend that to 25 to 35 years depending on hail frequency and maintenance. Metal roofing installed in Denver can last 40 to 70 years. Compare that to Arizona, where asphalt shingles often last only 15 to 20 years due to extreme UV exposure, making tile or metal a stronger long-term investment in that climate.
-```

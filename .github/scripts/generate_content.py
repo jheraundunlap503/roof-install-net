@@ -157,6 +157,16 @@ image_alt: "{image_alt}"
 Return ONLY the markdown. No preamble, no explanation after."""
 
 
+def strip_code_fence(text):
+    text = text.strip()
+    if text.startswith('```'):
+        first_newline = text.index('\n')
+        text = text[first_newline + 1:]
+    if text.endswith('```'):
+        text = text[:text.rfind('```')].rstrip()
+    return text
+
+
 def generate_article(keyword, ktype, slug, image_url, image_alt):
     client = Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
     prompt = build_prompt(keyword, ktype, slug, image_url, image_alt)
@@ -165,7 +175,7 @@ def generate_article(keyword, ktype, slug, image_url, image_alt):
         max_tokens=4096,
         messages=[{'role': 'user', 'content': prompt}],
     )
-    return msg.content[0].text
+    return strip_code_fence(msg.content[0].text)
 
 
 def save_article(ktype, slug, content):
