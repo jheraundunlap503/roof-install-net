@@ -3,7 +3,7 @@
 title: "Roof Installation Cost Denver CO: What Homeowners Should Know"
 slug: roof-installation-cost-denver-co
 date: 2026-06-30
-published: false
+published: true
 scheduled_date: 2026-06-30
 meta_title: "Roof Installation Cost Denver CO | 2026 Guide"
 meta_description: "What does roof installation cost in Denver CO? Get real price ranges, material breakdowns, and tips to avoid overpaying in 2026."

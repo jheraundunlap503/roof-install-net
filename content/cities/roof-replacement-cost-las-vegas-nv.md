@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost Las Vegas NV: 2026 Pricing Guide"
 slug: roof-replacement-cost-las-vegas-nv
 date: 2026-06-30
-published: false
+published: true
 scheduled_date: 2026-06-30
 meta_title: "Roof Replacement Cost Las Vegas NV (2026)"
 meta_description: "What does roof replacement cost in Las Vegas NV? Get real 2026 price ranges by material, roof size, and contractor type before you hire anyone."
