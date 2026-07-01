@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Chandler, AZ: 2026 Pricing Guide"
 slug: roof-replacement-cost-chandler-az
 date: 2026-07-01
-published: false
+published: true
 scheduled_date: 2026-07-01
 meta_title: "Roof Replacement Cost Chandler AZ | 2026 Prices"
 meta_description: "See real 2026 roof replacement costs in Chandler, AZ. Asphalt, tile, and foam pricing, plus when you may NOT need a full replacement."

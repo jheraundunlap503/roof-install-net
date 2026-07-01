@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Gilbert, AZ: 2026 Pricing Guide"
 slug: roof-replacement-cost-gilbert-az
 date: 2026-07-01
-published: false
+published: true
 scheduled_date: 2026-07-01
 meta_title: "Roof Replacement Cost Gilbert AZ (2026)"
 meta_description: "Real roof replacement costs for Gilbert, AZ homes. Asphalt, tile, foam, and metal pricing plus what actually drives your quote."
