@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Scottsdale, AZ: What Homeowners Pay in 2026"
 slug: roof-replacement-cost-scottsdale-az
 date: 2026-07-02
-published: false
+published: true
 scheduled_date: 2026-07-02
 meta_title: "Roof Replacement Cost Scottsdale AZ (2026 Guide)"
 meta_description: "See what Scottsdale homeowners actually pay for roof replacement in 2026. Tile, shingle & foam pricing with Arizona-specific tips."

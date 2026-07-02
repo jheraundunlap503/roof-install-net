@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Queen Creek, AZ (2026 Guide)"
 slug: roof-replacement-cost-queen-creek-az
 date: 2026-07-02
-published: false
+published: true
 scheduled_date: 2026-07-02
 meta_title: "Roof Replacement Cost Queen Creek AZ (2026)"
 meta_description: "How much does roof replacement cost in Queen Creek, AZ? Get real price ranges, material breakdowns, and tips to avoid overpaying in 2026."
