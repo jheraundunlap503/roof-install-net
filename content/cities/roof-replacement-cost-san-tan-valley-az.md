@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost San Tan Valley AZ: 2026 Homeowner Guide"
 slug: roof-replacement-cost-san-tan-valley-az
 date: 2026-07-03
-published: false
+published: true
 scheduled_date: 2026-07-03
 meta_title: "Roof Replacement Cost San Tan Valley AZ (2026)"
 meta_description: "Real roof replacement costs for San Tan Valley AZ homeowners. Shingles, tile, flat roofs — plus honest advice on when you don't need a full replacement."

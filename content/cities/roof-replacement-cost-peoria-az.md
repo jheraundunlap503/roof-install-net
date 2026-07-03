@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Peoria AZ: 2026 Pricing Guide"
 slug: roof-replacement-cost-peoria-az
 date: 2026-07-03
-published: false
+published: true
 scheduled_date: 2026-07-03
 meta_title: "Roof Replacement Cost Peoria AZ (2026 Guide)"
 meta_description: "Find out what roof replacement costs in Peoria AZ. Real price ranges for shingles, tile, and foam roofs — plus when you DON'T need a full replacement."
