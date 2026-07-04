@@ -30,5 +30,6 @@ export const staticRoutes = [
   "/blog/",
   "/services/",
   "/cities/",
-  "/estimator/"
+  "/estimator/",
+  "/calculators/roof-cost-estimator/"
 ];
