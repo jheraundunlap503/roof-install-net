@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Glendale AZ (2026 Guide)"
 slug: roof-replacement-cost-glendale-az
 date: 2026-07-04
-published: false
+published: true
 scheduled_date: 2026-07-04
 meta_title: "Roof Replacement Cost Glendale AZ (2026)"
 meta_description: "Real roof replacement costs for Glendale AZ homeowners. Prices by material, what drives them up, and when you don't need a full replacement."

@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Tempe, AZ: 2026 Pricing Guide"
 slug: roof-replacement-cost-tempe-az
 date: 2026-07-04
-published: false
+published: true
 scheduled_date: 2026-07-04
 meta_title: "Roof Replacement Cost Tempe AZ (2026 Prices)"
 meta_description: "Real roof replacement costs in Tempe, AZ. Average price ranges, material breakdowns, and honest advice on when you may not need a full replacement."
