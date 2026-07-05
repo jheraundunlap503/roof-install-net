@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Ahwatukee AZ: 2026 Pricing Guide"
 slug: roof-replacement-cost-ahwatukee-az
 date: 2026-07-05
-published: false
+published: true
 scheduled_date: 2026-07-05
 meta_title: "Roof Replacement Cost Ahwatukee AZ | 2026 Guide"
 meta_description: "What does roof replacement cost in Ahwatukee AZ? Get real 2026 price ranges, material breakdowns, and tips to avoid overpaying."
