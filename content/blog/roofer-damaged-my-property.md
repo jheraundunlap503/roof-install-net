@@ -2,7 +2,7 @@
 title: "Roofer Damaged My Property: What to Do Next"
 slug: roofer-damaged-my-property
 date: 2026-07-07
-published: false
+published: true
 scheduled_date: 2026-07-07
 meta_title: "Roofer Damaged My Property: What to Do"
 meta_description: "A roofer damaged your property? Learn your rights, how to document damage, file claims, and get paid back. Arizona homeowner guidance."

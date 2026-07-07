@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Goodyear, AZ (2026 Guide)"
 slug: roof-replacement-cost-goodyear-az
 date: 2026-07-07
-published: false
+published: true
 scheduled_date: 2026-07-07
 meta_title: "Roof Replacement Cost Goodyear AZ (2026)"
 meta_description: "How much does roof replacement cost in Goodyear, AZ? Get real price ranges by material, size, and local factors before you hire a contractor."
