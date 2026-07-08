@@ -2,7 +2,7 @@
 title: "Solar Panel Roof Replacement Arizona: What Homeowners Need to Know"
 slug: solar-panel-roof-replacement-arizona
 date: 2026-07-08
-published: false
+published: true
 scheduled_date: 2026-07-08
 meta_title: "Solar Panel Roof Replacement Arizona Guide"
 meta_description: "Planning solar panel roof replacement in Arizona? Learn when you need a new roof first, what it costs, and how to protect your warranty."
