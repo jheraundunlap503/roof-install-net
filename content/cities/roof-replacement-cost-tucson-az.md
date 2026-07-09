@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Tucson, AZ: 2026 Pricing Guide"
 slug: roof-replacement-cost-tucson-az
 date: 2026-07-09
-published: false
+published: true
 scheduled_date: 2026-07-09
 meta_title: "Roof Replacement Cost Tucson AZ (2026 Prices)"
 meta_description: "How much does a roof replacement cost in Tucson, AZ? Get real 2026 price ranges by material, size, and contractor type before you hire."

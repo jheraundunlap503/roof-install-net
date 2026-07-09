@@ -2,7 +2,7 @@
 title: "Arizona Roofing Materials & Climate: What Works and What Fails"
 slug: arizona-roofing-materials-climate
 date: 2026-07-09
-published: false
+published: true
 scheduled_date: 2026-07-09
 meta_title: "Arizona Roofing Materials & Climate Guide"
 meta_description: "Learn which roofing materials survive Arizona's UV index 11+, monsoon season, and extreme heat — and which ones fail fast in the Phoenix East Valley."
