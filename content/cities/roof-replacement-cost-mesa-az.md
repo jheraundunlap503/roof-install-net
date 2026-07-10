@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Mesa, AZ: What Homeowners Should Expect"
 slug: roof-replacement-cost-mesa-az
 date: 2026-07-10
-published: false
+published: true
 scheduled_date: 2026-07-10
 meta_title: "Roof Replacement Cost Mesa AZ | 2026 Pricing Guide"
 meta_description: "How much does roof replacement cost in Mesa, AZ? Real price ranges for shingle, tile, and flat roofs plus what drives costs up or down."

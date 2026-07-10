@@ -2,7 +2,7 @@
 title: "Attic Ventilation Roof Arizona: What Homeowners Need to Know"
 slug: attic-ventilation-roof-arizona
 date: 2026-07-10
-published: false
+published: true
 scheduled_date: 2026-07-10
 meta_title: "Attic Ventilation Roof Arizona: Complete Homeowner Guide"
 meta_description: "Arizona attic ventilation explained for Phoenix East Valley homeowners. Learn what you need, what it costs, and when you don't need a new roof."
