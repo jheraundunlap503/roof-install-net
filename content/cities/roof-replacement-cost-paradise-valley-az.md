@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Paradise Valley AZ"
 slug: roof-replacement-cost-paradise-valley-az
 date: 2026-07-11
-published: false
+published: true
 scheduled_date: 2026-07-11
 meta_title: "Roof Replacement Cost Paradise Valley AZ 2026"
 meta_description: "See what homeowners actually pay for roof replacement in Paradise Valley AZ. Tile, shingle, and flat roof pricing plus honest advice on when to skip the replacement."

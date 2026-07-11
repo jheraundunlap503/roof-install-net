@@ -2,7 +2,7 @@
 title: "How to Find a Roof Leak: A Step-by-Step Homeowner Guide"
 slug: how-to-find-a-roof-leak
 date: 2026-07-11
-published: false
+published: true
 scheduled_date: 2026-07-11
 meta_title: "How to Find a Roof Leak | Phoenix Homeowner Guide"
 meta_description: "Learn how to find a roof leak yourself before calling a pro. Step-by-step tips for Arizona homeowners, including monsoon season troubleshooting."
