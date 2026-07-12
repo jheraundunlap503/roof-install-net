@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Fountain Hills AZ: 2026 Homeowner Pricing Guide"
 slug: roof-replacement-cost-fountain-hills-az
 date: 2026-07-12
-published: false
+published: true
 scheduled_date: 2026-07-12
 meta_title: "Roof Replacement Cost Fountain Hills AZ (2026)"
 meta_description: "Find out what roof replacement costs in Fountain Hills AZ. Real price ranges for tile, shingle & flat roofs plus local factors that move the number."

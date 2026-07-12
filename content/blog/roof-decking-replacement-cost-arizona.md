@@ -2,7 +2,7 @@
 title: "Roof Decking Replacement Cost in Arizona"
 slug: roof-decking-replacement-cost-arizona
 date: 2026-07-12
-published: false
+published: true
 scheduled_date: 2026-07-12
 meta_title: "Roof Decking Replacement Cost Arizona (2026)"
 meta_description: "How much does roof decking replacement cost in Arizona? Get real price ranges, what drives costs up, and when you can skip it entirely."
