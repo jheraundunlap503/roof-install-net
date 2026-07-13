@@ -66,7 +66,7 @@ Here is a practical breakdown of the main options:
 
 ### Ridge Vents
 
-Ridge vents run the full length of the ridge and provide continuous low-profile exhaust. They work best on gable and standard hip roofs with adequate ridge length. Look for products with external weather filters rated for wind-driven rain, since monsoon storms can push horizontal rain at ridge openings. Brands like GAF Cobra and Owens Corning VentSure publish manufacturer installation documentation specifying net free area per linear foot, which you can use to calculate whether a proposed installation meets code.
+Ridge vents run the full length of the ridge and provide continuous low-profile exhaust. They work best on gable and standard hip roofs with adequate ridge length. Look for products with external weather filters rated for wind-driven rain, since monsoon storms can push horizontal rain at ridge openings. Brands like [GAF Cobra and Owens Corning VentSure publish manufacturer installation documentation specifying net free area per linear foot](https://www.gaf.com/en-us/document-library/documents/technical-bulletins-&-notes/r-120-proper-attic-ventilation.pdf), which you can use to calculate whether a proposed installation meets code.
 
 ### Solar-Powered Attic Fans
 
@@ -91,7 +91,7 @@ The most common signs are high summer utility bills, a second-floor that never c
 Walk through this checklist:
 
 - **Touch test.** On a hot afternoon, go into the attic. If the temperature feels immediately oppressive and you cannot feel any airflow near soffit vents or ridge vents, the system is not moving air.
-- **Shingle cupping.** Shingles that curl upward at the edges from the underside are often a sign of excessive deck heat, not just age. The NRCA's technical guidance on shingle failure modes distinguishes between age-related granule loss and heat-accelerated degradation.
+- **Shingle cupping.** Shingles that curl upward at the edges from the underside are often a sign of excessive deck heat, not just age. The [NRCA's technical guidance on shingle failure modes distinguishes between age-related granule loss and heat-accelerated degradation](https://www.nrca.net/roofingguidelines/pdf?id=145172&k=2872704).
 - **Soffit blockage.** In many East Valley homes built in the 1990s and early 2000s, blown-in insulation has covered the soffit vent baffles, effectively eliminating intake air. This is a $200-$400 fix, not a $15,000 roof replacement.
 - **Dark staining on decking.** Brown or black staining on plywood sheathing near the ridge indicates moisture condensation. During monsoon season, humidity can hit 50-60% in Phoenix attics — without exhaust, that moisture has nowhere to go.
 - **Pest entry.** Damaged or missing soffit vents are a primary entry point for roof rats, which are a documented issue in [Maricopa County communities according to Maricopa County Environmental Services](https://www.maricopa.gov/3815/Roof-Rats).
@@ -130,7 +130,7 @@ Here is a rough cost matrix for East Valley homeowners:
 | Full ridge vent replacement | $600-$1,200 | Homes with old box vents or no ridge ventilation |
 | Under-tile ventilation upgrade | $800-$2,000 | Tile roofs being re-laid or replaced |
 
-Get at least two quotes and ask each contractor to provide a ventilation calculation showing the net free area being installed against your attic floor square footage. Any contractor who cannot or will not provide that number is guessing.
+Get at least two quotes and ask each contractor to provide a ventilation calculation showing the net free area being installed against your attic floor square footage. [Any contractor who cannot or will not provide that number is guessing](https://www.gaf.com/en-us/resources/ventilation-calculator).
 
 ---
 

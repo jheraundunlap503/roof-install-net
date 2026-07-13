@@ -27,7 +27,7 @@ This guide covers what the products actually are, what they cost in Arizona, how
 
 A cool roof coating is a liquid-applied membrane that goes over an existing roofing substrate — flat foam, modified bitumen, built-up roofing, or metal. It cures to a flexible, reflective surface that reduces heat absorption and provides a waterproofing layer over the existing roof.
 
-The defining characteristic is solar reflectance: how much sunlight the coating reflects rather than absorbs. The [Cool Roof Rating Council](https://coolroofs.org/) (CRRC) measures and certifies products on a 0–1 scale. Products rated above 0.65 solar reflectance qualify as "cool roofs" under most energy codes. White silicone and acrylic coatings in Arizona typically achieve 0.75–0.90 solar reflectance.
+The defining characteristic is solar reflectance: how much sunlight the coating reflects rather than absorbs. The [Cool Roof Rating Council](https://coolroofs.org/) (CRRC) [measures and certifies products on a 0–1 scale](https://coolroofs.org/programs/roof-rating-program). [Products rated above 0.65 solar reflectance qualify as](https://coolroofs.org/resources/what-is-a-cool-roof) "cool roofs" under most energy codes. White silicone and acrylic coatings in Arizona typically achieve 0.75–0.90 solar reflectance.
 
 A cool roof coating is not the same as foam roofing (SPF). Foam is a structural system that provides both insulation and waterproofing in a single application. A cool roof coating goes over an existing substrate — it improves reflectivity and extends the existing roof's life but does not add meaningful insulation or replace a failing structural layer. See our guide on [foam roofing in Arizona](/blog/foam-roofing-arizona/) for how the two compare on flat and low-slope sections.
 
@@ -92,7 +92,7 @@ Use our [free estimator](/estimator/) to get a baseline replacement cost to comp
 
 ## How much can a cool roof save on energy in Arizona?
 
-The U.S. Department of Energy documents that reflective roof coatings can reduce roof surface temperatures by 50–60°F on a peak summer day. For a Phoenix metro home with flat roof sections over living space, that temperature reduction translates to a meaningful cooling load reduction.
+The U.S. Department of Energy documents that [reflective roof coatings can reduce roof surface temperatures by 50–60°F](https://www.energy.gov/sites/prod/files/2013/10/f3/coolroofguide.pdf) on a peak summer day. For a Phoenix metro home with flat roof sections over living space, that temperature reduction translates to a meaningful cooling load reduction.
 
 Realistic Arizona energy savings from cool roof coating:
 
@@ -102,7 +102,7 @@ Realistic Arizona energy savings from cool roof coating:
 
 The savings are most significant on single-story homes where the flat roof sits directly above living space with no attic buffer. Two-story homes with flat garage sections or entryways see smaller overall savings because the affected area is a smaller fraction of the total conditioned space.
 
-ENERGY STAR certifies cool roof products that meet minimum solar reflectance and thermal emittance standards. ENERGY STAR certified products typically qualify for utility rebate programs.
+[ENERGY STAR certifies cool roof products that meet minimum solar reflectance and thermal emittance standards](https://www.energystar.gov/products/building_products/roof_products/cool_roofs_emissivity). ENERGY STAR certified products typically qualify for utility rebate programs.
 
 ## Do SRP or APS offer cool roof rebates in Arizona?
 
@@ -117,7 +117,7 @@ Always verify current rebate programs directly with your utility before purchasi
 
 ## Does Arizona building code require cool roofs?
 
-Arizona has adopted the 2018 International Energy Conservation Code (IECC) with state amendments. The code includes prescriptive cool roof requirements for low-slope roofing (2:12 pitch and below) in Climate Zone 2B, which covers the Phoenix metro and most of Maricopa County. Qualifying cool roof products must meet minimum solar reflectance and thermal emittance levels as rated by the [CRRC](https://coolroofs.org/).
+[Arizona has adopted the 2018 International Energy Conservation Code](https://codes.iccsafe.org/codes/arizona) (IECC) with state amendments. The code includes prescriptive cool roof requirements for low-slope roofing (2:12 pitch and below) in Climate Zone 2B, which covers the Phoenix metro and most of Maricopa County. Qualifying cool roof products must meet minimum solar reflectance and thermal emittance levels as rated by the [CRRC](https://coolroofs.org/).
 
 For residential replacement roofing, these requirements apply to new construction and full replacement projects — not maintenance recoats. A foam recoat or elastomeric coating applied over an existing substrate as routine maintenance typically does not trigger the full code compliance review that a new roof system would.
 
