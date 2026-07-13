@@ -22,7 +22,7 @@ image_alt: "Roofer using nail gun for shingle installation on residential roof."
 
 **What is the average price range for a full roof replacement in Surprise?**
 
-For a 1,800 to 2,400 sq ft home common in Surprise subdivisions like Marley Park or Surprise Farms, expect to pay $9,000 to $18,500 for asphalt shingles and $14,000 to $28,000 for concrete or clay tile. Total cost depends heavily on roof pitch, decking condition, and material grade.
+For a 1,800 to 2,400 sq ft home common in Surprise subdivisions like Marley Park or Surprise Farms, expect to pay $9,000 to $18,500 for [asphalt shingles and $14,000 to $28,000 for concrete or clay tile](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator). Total cost depends heavily on roof pitch, decking condition, and material grade.
 
 ### Breaking Down the Numbers by Material
 
@@ -95,7 +95,7 @@ This is the section most roofing companies skip because repairs pay less. Here i
 - Shingles curling or cupping roof-wide
 - Age: architectural shingles past 18 years in Surprise's climate deserve a close inspection at minimum
 
-The National Roofing Contractors Association recommends professional inspections every two years in high-UV climates. In Surprise, a $150 to $250 inspection from a licensed inspector with no replacement agenda is money well spent before committing to a $15,000 project.
+[The National Roofing Contractors Association recommends professional inspections every two years in high-UV climates](https://www.nrca.net/roofing-guidelines/roofing-materials). In Surprise, a $150 to $250 inspection from a licensed inspector with no replacement agenda is money well spent before committing to a $15,000 project.
 
 See our [roof repair vs. replacement decision guide](/blog/roof-repair-vs-replacement/) for a more detailed walkthrough.
 
@@ -105,7 +105,7 @@ See our [roof repair vs. replacement decision guide](/blog/roof-repair-vs-replac
 
 **Tile is the dominant roofing material in Surprise HOA neighborhoods. What should homeowners expect to pay?**
 
-A concrete tile re-roof on a 2,000 sq ft Surprise home typically lands between $16,000 and $24,000 installed. Clay tile runs $20,000 to $32,000 for the same footprint. The higher price reflects heavier material, skilled labor for proper interlocking, and longer service life that ultimately lowers cost per year.
+A [concrete tile re-roof on a 2,000 sq ft Surprise home typically lands between $16,000 and $24,000 installed](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). Clay tile runs $20,000 to $32,000 for the same footprint. The higher price reflects heavier material, skilled labor for proper interlocking, and longer service life that ultimately lowers cost per year.
 
 ### Why Tile Lasts Longer in Arizona Than Asphalt
 
@@ -119,7 +119,7 @@ One important note: tile is often not the full "roof." The waterproofing is prov
 
 **What should a legitimate roofing estimate include in Surprise, AZ?**
 
-A complete written estimate should specify: total squares being replaced, material brand and product line, number of layers being torn off, underlayment type, flashing scope, permit responsibility, warranty terms, payment schedule, and start/completion dates. Verbal estimates are not estimates.
+[A complete written estimate should specify: total squares being replaced, material brand and product line](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost), number of layers being torn off, underlayment type, flashing scope, permit responsibility, warranty terms, payment schedule, and start/completion dates. Verbal estimates are not estimates.
 
 ### Red Flags to Watch For
 
@@ -162,7 +162,7 @@ October through February is ideal. Temperatures are manageable for crews, monsoo
 
 **Can I put new shingles over my existing ones to save money?**
 
-Arizona residential code allows up to two layers of shingles. Adding a second layer saves roughly $500 to $1,000 in tear-off costs but adds weight, can trap heat, and masks underlying decking issues. Most experienced contractors in Surprise recommend a full tear-off to inspect the deck. If you are replacing tile, a tear-off is always required.
+[Arizona residential code allows up to two layers of shingles](https://roc.az.gov/files/minimum_workmanship_standards.pdf). Adding a second layer saves roughly $500 to $1,000 in tear-off costs but adds weight, can trap heat, and masks underlying decking issues. Most experienced contractors in Surprise recommend a full tear-off to inspect the deck. If you are replacing tile, a tear-off is always required.
 
 **How do I verify a roofer's license in Arizona?**
 

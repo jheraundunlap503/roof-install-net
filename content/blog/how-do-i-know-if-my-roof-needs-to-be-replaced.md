@@ -42,7 +42,7 @@ Age past the lifespan benchmark alone does not automatically mean replacement �
 
 ## What visual signs on the roof indicate replacement is needed?
 
-**Granule loss exposing the asphalt mat**: Asphalt shingles have a granule surface that protects the asphalt layer from UV. When granules shed at scale — visible as bald patches on shingles or heavy granule accumulation in gutters after rain — the asphalt is directly exposed to UV and heat. Once the mat is exposed, deterioration accelerates rapidly. Granule loss across more than 20% of the roof surface is a replacement indicator, not a repair situation. The [National Roofing Contractors Association](https://www.nrca.net/) identifies granule loss as a primary end-of-life indicator for asphalt shingle systems.
+**Granule loss exposing the asphalt mat**: Asphalt shingles have a granule surface that protects the asphalt layer from UV. When granules shed at scale — visible as bald patches on shingles or heavy granule accumulation in gutters after rain — the asphalt is directly exposed to UV and heat. Once the mat is exposed, deterioration accelerates rapidly. [Granule loss across more than 20% of the roof surface is a replacement indicator](https://www.owenscorning.com/en-us/roofing/blog/do-i-need-a-new-roof), not a repair situation. The [National Roofing Contractors Association](https://www.nrca.net/) identifies granule loss as a primary end-of-life indicator for asphalt shingle systems.
 
 **Widespread curling or cupping**: Shingles that curl upward at the edges (cupping) or bow up in the middle (clawing) have lost moisture and are at or past end of life. A few curled shingles in one area can be repaired. Curling across multiple roof planes is a replacement indicator.
 
@@ -60,13 +60,13 @@ Tile roofs fail differently than shingle roofs. The tile itself rarely fails in 
 
 **Signs that only repair is needed**: One or two cracked or missing tiles with an otherwise dry attic and no water staining. Tile replacement and spot underlayment repair can handle this.
 
-**The underlayment test**: A contractor should inspect the underlayment from the attic side and by lifting tile sections in multiple areas. Felt underlayment in Arizona becomes brittle and crumbles when touched after 15 to 20 years. If your tile was installed before 2008 and has original felt underlayment, a re-tile (remove tile, replace underlayment, reinstall tile) is likely overdue even without active leaks.
+**The underlayment test**: A contractor should inspect the underlayment from the attic side and by lifting tile sections in multiple areas. [Felt underlayment in Arizona becomes brittle and crumbles when touched after 15 to 20 years](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf). If your tile was installed before 2008 and has original felt underlayment, a re-tile (remove tile, replace underlayment, reinstall tile) is likely overdue even without active leaks.
 
 See [roof repair vs. replacement](/blog/roof-repair-vs-replacement/) for a cost comparison and decision framework by material type.
 
 ## What interior signs indicate the roof system is failing?
 
-**Water stains on ceilings or walls**: Dark rings or discoloration on drywall indicate moisture has been entering consistently — not from a single storm event, but over time. Stains in multiple rooms, or stains that have grown across multiple seasons, are a serious indicator.
+**[Water stains on ceilings or walls](https://www.gaf.com/en-us/blog/your-home/understanding-residential-roof-repairs-how-do-i-know-if-my-roof-needs-to-be-replaced-734dcc7e-9074-4ef7-8ad4-e5297f93a8da)**: Dark rings or discoloration on drywall indicate moisture has been entering consistently — not from a single storm event, but over time. Stains in multiple rooms, or stains that have grown across multiple seasons, are a serious indicator.
 
 **Mold or mildew in the attic**: Visible mold growth indicates sustained moisture from a roof penetration. [NOAA data](https://www.weather.gov/psr/) shows Phoenix metro receives 90% of its annual rainfall between June 15 and September 30 — a concentrated moisture window that accelerates attic mold growth when the roof is compromised.
 

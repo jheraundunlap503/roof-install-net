@@ -73,7 +73,7 @@ Do not rush this. Homeowners commonly skip to the ridge first and soak the whole
 
 ## Where do roof leaks most commonly start?
 
-**The majority of residential roof leaks originate at penetrations, transitions, and flashings — not in the middle of intact shingle or tile fields. Knowing the highest-probability failure points saves you time during inspection.**
+**The [majority of residential roof leaks originate at penetrations, transitions, and flashings](https://www.iko.com/na/blog/how-to-find-roof-leaks/) — not in the middle of intact shingle or tile fields. Knowing the highest-probability failure points saves you time during inspection.**
 
 Field shingles or tiles rarely leak unless they are cracked, missing, or severely degraded. The weak points are almost always at the edges of things: where the roof meets a wall, where a pipe goes through the deck, or where two roof planes meet.
 
@@ -86,7 +86,7 @@ Field shingles or tiles rarely leak unless they are cracked, missing, or severel
 - **Ridge caps** that have lifted due to wind or thermal expansion
 - **Drip edge** that has separated from the fascia, allowing water to wick back
 
-In Phoenix metro and the East Valley, [UV index regularly hits 11 or above](https://www.epa.gov/sunsafety/uv-index-scale-0) from April through September. Neoprene and EPDM pipe boots degrade significantly faster here than in cooler climates, typically requiring replacement every 8 to 12 years regardless of the surrounding roof condition. If your pipe boots are cracking, you do not need a new roof — you need $50 in materials and two hours of labor.
+In Phoenix metro and the East Valley, [UV index regularly hits 11 or above](https://www.epa.gov/sunsafety/uv-index-scale-0) from April through September. Neoprene and EPDM [pipe boots degrade significantly faster here than in cooler climates](https://www.owenscorning.com/en-us/roofing/blog/leaks), typically requiring replacement every 8 to 12 years regardless of the surrounding roof condition. If your pipe boots are cracking, you do not need a new roof — you need $50 in materials and two hours of labor.
 
 ---
 
@@ -110,7 +110,7 @@ According to Owens Corning's installation documentation, shingles in high-UV cli
 
 ## What is the role of flashing in roof leaks, and how do I inspect it?
 
-**Flashing is the metal (usually galvanized steel or aluminum) that seals joints and transitions on your roof. Flashing failures cause a disproportionate share of all residential leaks, and most flashing problems are repairable without replacing any shingles or tiles.**
+**Flashing is the metal (usually galvanized steel or aluminum) that seals joints and transitions on your roof. [Flashing failures cause a disproportionate share of all residential leaks](https://www.gaf.com/en-us/blog/your-home/how-to-detect-and-address-a-roof-leak-a-homeowners-guide-281474980357723), and most flashing problems are repairable without replacing any shingles or tiles.**
 
 Flashing is installed in layers — base flashing, step flashing, and counter flashing work together to redirect water. When one layer fails, water finds its way behind the others. Improper original installation is a frequent cause, especially on older homes that had reroofing work done without replacing the flashings.
 
@@ -153,7 +153,7 @@ This is the question contractors will not always answer honestly, because replac
 
 **Repair is likely the right answer if:**
 
-- The leak traces to a single penetration, flashing, or isolated damaged section
+- The [leak traces to a single penetration, flashing, or isolated damaged section](https://www.gaf.com/en-us/blog/your-home/do-you-have-a-roof-leak-heres-how-to-determine-if-you-need-a-roof-repair-281474980110750)
 - The rest of the roof surface is in reasonable condition (no widespread granule loss, no multiple cracked tiles)
 - Your roof is within the first half to two-thirds of its expected lifespan (asphalt: 15 to 20 years in Arizona; tile: 30 to 50 years)
 - Only one area of the attic shows moisture damage
@@ -217,7 +217,7 @@ No. A roof leak will not seal itself. Once a gap exists in the roofing system, i
 
 ### How long does it take for a roof leak to cause ceiling damage?
 
-Significant ceiling damage can occur within 24 to 48 hours of sustained water intrusion. Drywall begins to absorb moisture immediately and loses structural integrity within days. Mold can begin colonizing wet materials within 24 to 72 hours under warm, humid conditions, which describes Arizona attic conditions during monsoon season almost exactly.
+Significant ceiling damage can occur within 24 to 48 hours of sustained water intrusion. Drywall begins to absorb moisture immediately and loses structural integrity within days. [Mold can begin colonizing wet materials within 24 to 72 hours](https://www.nachi.org/blog/2010/02/11/roof-and-ceiling-leak-detection/) under warm, humid conditions, which describes Arizona attic conditions during monsoon season almost exactly.
 
 ### Is it safe to stay in a house with an active roof leak?
 

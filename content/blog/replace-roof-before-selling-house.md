@@ -18,7 +18,7 @@ image_alt: southwestern stucco home in a sunny Tucson Arizona suburb ready for s
 
 ---
 
-Deciding whether to replace a roof before selling is one of the more expensive pre-listing decisions an Arizona homeowner faces. A concrete tile re-roof in the Phoenix metro runs $15,000 to $30,000. A shingle replacement runs $8,000 to $14,000. That is real money to spend on a home you are leaving.
+Deciding whether to replace a roof before selling is one of the more expensive pre-listing decisions an Arizona homeowner faces. [A concrete tile re-roof in the Phoenix metro runs $15,000 to $30,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). [A shingle replacement runs $8,000 to $14,000](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost). That is real money to spend on a home you are leaving.
 
 But the alternative — listing with a roof that has 2 to 5 years of life left — creates its own costs. Buyers discount aging roofs. Inspectors flag them. Lenders can refuse to finance homes where the appraiser notes roof condition as a risk. And negotiations that drag over roof condition delay closings, sometimes fatally.
 
@@ -26,7 +26,7 @@ Understanding how Arizona buyers, inspectors, appraisers, and lenders each view 
 
 ## What do buyers and agents look for on an Arizona roof?
 
-Experienced buyers and their agents in the Phoenix metro know the lifespan of Arizona roofing materials. A concrete tile roof from 2002 is 24 years old. A shingle roof from 2010 is 16 years old. Buyers in this market are aware that shingles in Arizona UV and heat typically last 15 to 20 years — shorter than the national average — and that tile underlayment fails on a similar or shorter timeline.
+Experienced buyers and their agents in the Phoenix metro know the lifespan of Arizona roofing materials. A concrete tile roof from 2002 is 24 years old. A shingle roof from 2010 is 16 years old. Buyers in this market are aware that [shingles in Arizona UV and heat typically last 15 to 20 years](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time) — shorter than the national average — and that tile underlayment fails on a similar or shorter timeline.
 
 When a buyer's agent walks a property, roof age is one of the first questions after HVAC age. In a competitive market, a newer roof is a selling point. In a soft market, an aging roof gives buyers leverage to negotiate down or request credits.
 
@@ -94,7 +94,7 @@ A pre-listing roof report that says the roof has 7 to 10 years of life remaining
 
 See [roof replacement cost in Arizona for 2026](/blog/roof-replacement-cost-arizona-2026) for current ranges by material. A summary for pre-sale planning:
 
-- Architectural shingles: $8,000 to $14,000 for a 2,000 sq ft home
+- [Architectural shingles: $8,000 to $14,000 for a 2,000 sq ft home](https://www.iko.com/na/blog/how-much-does-a-new-roof-cost/)
 - Concrete or clay tile: $14,000 to $28,000
 - Foam re-coat or full replacement: $4,000 to $14,000 depending on scope
 
@@ -117,4 +117,4 @@ In most Arizona neighborhoods, roofs are visible from the street and in listing 
 Run the numbers specifically. If the expected buyer concession on an aging roof is $10,000 to $15,000, and a replacement costs $12,000, the financial difference is small — but the replacement gives you a cleaner transaction. If the expected concession is $5,000 and replacement costs $18,000, the credit is the better economic choice.
 
 **How long does a new roof last for the buyer after purchase?**
-That depends on material type. A new shingle roof in Arizona realistically lasts 15 to 20 years. New concrete tile with synthetic underlayment can last 30 to 40 years. Providing the buyer with the contractor's warranty documents, permit records, and material specs adds value and reduces post-sale disputes.
+That depends on material type. [A new shingle roof in Arizona realistically lasts 15 to 20 years](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). [New concrete tile with synthetic underlayment can last 30 to 40 years](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost). Providing the buyer with the contractor's warranty documents, permit records, and material specs adds value and reduces post-sale disputes.

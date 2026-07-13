@@ -37,13 +37,13 @@ Foam handles the flat-to-low-slope rooflines common across Phoenix, Scottsdale, 
 - Conforms to irregular surfaces and covers flashings without mechanical fasteners
 - Can often be applied over an existing single-layer roof when the substrate is sound
 
-The U.S. Department of Energy notes that improving roof insulation directly reduces HVAC demand, which matters in Arizona where cooling can run eight to nine months of the year. Closed-cell SPF provides roughly R-6 per inch, meaning a 2-inch application adds approximately R-12 to the roof assembly.
+The U.S. Department of Energy notes that improving roof insulation directly reduces HVAC demand, which matters in Arizona where cooling can run eight to nine months of the year. [Closed-cell SPF provides roughly R-6 per inch](https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/spray_foam_guide.pdf), meaning a 2-inch application adds approximately R-12 to the roof assembly.
 
 [NOAA's climate data](https://www.ncei.noaa.gov/cdo-web/) shows Phoenix averages about 299 sunny days per year, one of the highest totals in the United States. Every additional point of R-value in that environment translates to measurable cooling savings.
 
 ## How long does a foam roof last in Arizona?
 
-A foam roof with a quality topcoat and regular maintenance lasts 20 to 30 years, and some well-maintained installations exceed that range. The foam itself is durable under normal conditions. What wears out is the topcoat, not the foam beneath it.
+[A foam roof with a quality topcoat and regular maintenance lasts 20 to 30 years](https://sfb.az.gov/sites/default/files/2022-04/07%2057%2013%20-%20Foam%20FINAL.pdf), and some well-maintained installations exceed that range. The foam itself is durable under normal conditions. What wears out is the topcoat, not the foam beneath it.
 
 Most Arizona foam contractors recommend recoating every 5 to 10 years depending on the original coating system, solar exposure, and observed surface wear. Recoating restores UV protection and waterproofing at a fraction of replacement cost. Homeowners who skip recoating risk exposing foam to UV rays, which causes surface chalking, foam oxidation, and eventually water intrusion into the building.
 
@@ -53,7 +53,7 @@ For a comparison of foam lifespan against tile, shingle, and metal under Arizona
 
 Foam roofing on an average Arizona flat or low-slope home typically costs between $5 and $9 per square foot installed. A 1,500-square-foot flat roof might run $7,500 to $13,500 depending on foam thickness, substrate condition, coating system, and the number of penetrations that need sealing.
 
-Recoating an existing foam roof in good condition typically costs $1.50 to $3.50 per square foot. That maintenance cost spread over a 25-year lifespan is still significantly less than full roof replacement, which is why staying on a recoating schedule is the smarter financial decision.
+[Recoating an existing foam roof in good condition typically costs $1.50 to $3.50 per square foot](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). That maintenance cost spread over a 25-year lifespan is still significantly less than full roof replacement, which is why staying on a recoating schedule is the smarter financial decision.
 
 For context on how foam cost compares to tile and shingle replacement across the Phoenix metro, see [roof replacement cost in Arizona for 2026](/blog/roof-replacement-cost-arizona-2026).
 
@@ -67,7 +67,7 @@ Foam is not the right solution for every Arizona homeowner. Limitations include:
 - Blistering occurs when moisture is trapped in the substrate during installation
 - The pool of experienced SPF installers in Arizona is smaller than the pool of general roofing contractors
 
-That last point is the most significant risk. Poor surface preparation, inconsistent foam thickness, or a thin topcoat are the causes of most early foam roof failures. Before signing any contract, verify the contractor's active license through the [Arizona Registrar of Contractors](https://roc.az.gov/). Only hire contractors with documented SPF experience, not general roofers who added foam as a secondary service.
+That last point is the most significant risk. Poor surface preparation, inconsistent foam thickness, or a thin topcoat are the causes of most early foam roof failures. Before signing any contract, [verify the contractor's active license through the](https://roc.az.gov/) [Arizona Registrar of Contractors](https://roc.az.gov/). [Only hire contractors with documented SPF experience](https://roc.az.gov/license-classifications), not general roofers who added foam as a secondary service.
 
 For a full checklist of what to ask before you hire, see [questions to ask a roofing contractor](/blog/questions-to-ask-roofing-contractor).
 
@@ -75,13 +75,13 @@ For a full checklist of what to ask before you hire, see [questions to ask a roo
 
 Yes. Foam's R-value reduces conductive heat transfer through the roof deck, and a reflective topcoat reduces solar absorption at the surface. ENERGY STAR certifies roofing products, including reflective coatings, that meet minimum solar reflectance thresholds.
 
-The [EPA's cool roof and heat island reduction program](https://www.epa.gov/heatislands/using-cool-roofs-reduce-heat-islands) notes that cool roof surfaces can run 50 to 60 degrees Fahrenheit cooler than dark conventional surfaces on a hot sunny day. In Arizona, where roof surface temperatures regularly exceed 155 to 165 degrees Fahrenheit in July, a reflective foam coating reduces radiant heat load into the attic and cuts air conditioning demand.
+The [EPA's cool roof and heat island reduction program](https://www.epa.gov/heatislands/using-cool-roofs-reduce-heat-islands) notes that [cool roof surfaces can run 50 to 60 degrees Fahrenheit cooler than dark conventional surfaces](https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/moisture_safe_unvented_roofs.pdf) on a hot sunny day. In Arizona, where roof surface temperatures regularly exceed 155 to 165 degrees Fahrenheit in July, a reflective foam coating reduces radiant heat load into the attic and cuts air conditioning demand.
 
 ## Can foam roofing go over an existing Arizona roof?
 
 Sometimes. SPF can be applied over a single existing layer if the substrate is structurally sound, dry, and properly prepared. Soft spots, wet insulation, or significant damage must be addressed before foam is sprayed. Foam applied over a wet or compromised substrate will blister and fail early.
 
-Arizona's local building jurisdictions, including the City of Phoenix and Maricopa County, govern when roof-over applications are permitted versus when full tear-off is required. A reputable contractor will inspect the substrate before quoting. Ask specifically whether a permit will be pulled, as foam roofing typically requires one under Arizona building codes.
+Arizona's local building jurisdictions, including the City of Phoenix and Maricopa County, govern when roof-over applications are permitted versus when full tear-off is required. A reputable contractor will inspect the substrate before quoting. Ask specifically whether a permit will be pulled, as [foam roofing typically requires one under Arizona building codes](https://codes.iccsafe.org/content/ICC11002019P1/chapter-3-physical-and-performance-requirements).
 
 ## How do you maintain a foam roof in Arizona?
 

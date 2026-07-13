@@ -31,11 +31,11 @@ The 50% threshold is a guide, not a hard rule. A roof at year 5 with localized s
 
 ## When does repairing an Arizona roof make sense?
 
-Repair is the right call when:
+[Repair is the right call when](https://www.gaf.com/en-us/blog/your-home/should-you-repair-or-replace-your-roof-f9159362-f4d7-4eb4-9918-0799595582e5):
 
 **Damage is localized.** A single cracked tile, a failed pipe jack, lifted flashing at a single penetration, or a small shingle blowout covering less than 10% of the roof surface are repair-grade problems. These are isolated failures, not indicators of systemic roof deterioration.
 
-**The roof is under 15 years old.** Arizona shingles have a realistic lifespan of 15–20 years — shorter than the 25–30 year warranty printed on the package, because [Arizona's solar exposure and temperature extremes](/blog/how-long-does-a-roof-last-arizona/) degrade materials faster than warranty conditions assume. Under 15 years, repair extends a roof that still has meaningful service life remaining.
+**The roof is under 15 years old.** [Arizona shingles have a realistic lifespan of 15–20 years](https://www.owenscorning.com/en-us/roofing/blog/reroof-vs-roof-repair) — shorter than the 25–30 year warranty printed on the package, because [Arizona's solar exposure and temperature extremes](/blog/how-long-does-a-roof-last-arizona/) degrade materials faster than warranty conditions assume. Under 15 years, repair extends a roof that still has meaningful service life remaining.
 
 **The repair cost is well below the 50% threshold.** A $400 pipe jack replacement on a roof with a $16,000 replacement cost is an obvious repair. The math is clear.
 
@@ -45,9 +45,9 @@ Repair is the right call when:
 
 Replace when:
 
-**Damage covers more than 25–30% of the roof surface.** At that scale, patching creates a two-tier roof: new material in repaired areas and degraded material everywhere else. The repaired sections perform differently, create differential drainage, and the overall roof does not perform as a unified system.
+**[Damage covers more than 25–30% of the roof surface](https://www.gaf.com/en-us/blog/your-home/understanding-residential-roof-repairs-how-do-i-know-if-my-roof-needs-to-be-replaced-734dcc7e-9074-4ef7-8ad4-e5297f93a8da).** At that scale, patching creates a two-tier roof: new material in repaired areas and degraded material everywhere else. The repaired sections perform differently, create differential drainage, and the overall roof does not perform as a unified system.
 
-**The underlayment has failed.** On tile roofs, the tile itself often lasts 30–50 years. The felt underlayment beneath it typically lasts 15–20 years in Arizona's UV environment. When underlayment fails — indicated by leaks in areas where tile is intact — there is no repair short of a full tile lift, underlayment replacement, and tile reinstallation. That scope is functionally equivalent to replacement.
+**The underlayment has failed.** On tile roofs, the tile itself often lasts 30–50 years. The [felt underlayment beneath it typically lasts 15–20 years in Arizona's UV environment](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time). When underlayment fails — indicated by leaks in areas where tile is intact — there is no repair short of a full tile lift, underlayment replacement, and tile reinstallation. That scope is functionally equivalent to replacement.
 
 **The roof is past its material lifespan.** An 18-year-old shingle roof in Mesa or Chandler is at or near the end of its realistic service life regardless of visible condition. Spending repair money on it extends a roof that will require full replacement within a few years.
 
@@ -80,9 +80,9 @@ Common Arizona roof repair costs:
 - **Foam roof recoat**: $1.50–$3.00 per square foot on sound existing foam
 - **Full repair scope (multiple issues, 10–20% surface)**: $1,500–$3,500
 
-Full replacement costs in Arizona by material:
+[Full replacement costs in Arizona by material](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost):
 
-- **Asphalt shingles**: $8,000–$16,000 for a standard 2,000–2,500 sq ft home
+- **[Asphalt shingles**: $8,000–$16,000 for a standard 2,000–2,500 sq ft home](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost)
 - **Concrete tile**: $12,000–$22,000
 - **Clay tile**: $18,000–$30,000
 - **Metal roofing**: $15,000–$28,000
@@ -109,7 +109,7 @@ Insurance covers damage caused by a sudden covered peril — hail, wind, falling
 Key facts for Arizona homeowners:
 
 - **Hail damage** is the most common trigger for replacement-level insurance claims in Arizona. The [Arizona Department of Insurance](https://insurance.az.gov/) recommends getting an independent assessment from a licensed contractor before signing anything with a storm-chaser who showed up after a storm.
-- **ACV policies** deduct depreciation from the payout. On a 15-year-old shingle roof, depreciation can reduce a $14,000 replacement claim to $6,000 or less.
+- **[ACV policies** deduct depreciation from the payout](https://difi.az.gov/consumers/homeowners-insurance). On a 15-year-old shingle roof, depreciation can reduce a $14,000 replacement claim to $6,000 or less.
 - **RCV policies** pay the full replacement cost after you complete the work and submit documentation.
 - **Repair-only settlements** are offered when damage is below the insurer's replacement threshold. You can dispute that assessment with a licensed public adjuster or an independent contractor report.
 

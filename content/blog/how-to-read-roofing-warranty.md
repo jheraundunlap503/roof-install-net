@@ -52,7 +52,7 @@ This is why [Arizona roofing materials last 15–20 years in practice](/blog/how
 
 ## What is prorated vs. non-prorated manufacturer coverage?
 
-Most manufacturer warranties have two phases:
+[Most manufacturer warranties have two phases](https://www.owenscorning.com/en-us/roofing/blog/roofing-warranties-explained):
 
 **Non-prorated period**: The manufacturer covers 100% of material replacement cost (and sometimes labor, on enhanced warranties). This typically covers the first 10–25 years depending on the warranty tier.
 
@@ -66,7 +66,7 @@ Major shingle manufacturers offer tiered warranty programs. GAF's tiers are repr
 
 **GAF Standard Limited Warranty**: Comes automatically with any GAF shingle. Covers manufacturing defects. Non-prorated for the first 10 years.
 
-**GAF Silver Pledge**: Requires installation by a GAF Certified Contractor. Extends coverage and improves labor terms. Non-prorated coverage extends to 25 years on qualifying products.
+**[GAF Silver Pledge](https://www.gaf.com/en-us/resources/warranties/residential)**: Requires installation by a GAF Certified Contractor. Extends coverage and improves labor terms. Non-prorated coverage extends to 25 years on qualifying products.
 
 **GAF Golden Pledge**: Requires installation by a [GAF Master Elite contractor](/blog/gaf-master-elite-certification/) — the top 2% of GAF's contractor network. Covers materials and labor. 25-year non-prorated, 50-year prorated. Transferable once to a subsequent homeowner.
 

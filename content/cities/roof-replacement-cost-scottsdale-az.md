@@ -148,7 +148,7 @@ Be aware that older roofs may be settled on actual cash value rather than replac
 
 Yes, in several ways. Homes in areas like DC Ranch, McCormick Ranch, and Gainey Ranch tend to have larger footprints, steeper pitches, and HOA-mandated materials that limit contractor flexibility and add cost. Homes in South Scottsdale's older neighborhoods often have more deferred maintenance and underlayment replacement needs that inflate total project cost.
 
-HOA requirements in many Scottsdale master-planned communities specify approved tile colors or profiles, which can limit your ability to source lower-cost materials. Before signing a contract, confirm your HOA's roofing guidelines and submit the required approval documentation. Some HOAs require pre-approval before a permit is even filed, and delays in that approval can push your project start date past the monsoon season window.
+HOA requirements in many Scottsdale master-planned communities specify approved tile colors or profiles, which can limit your ability to source lower-cost materials. Before signing a contract, [confirm your HOA's roofing guidelines and submit the required approval documentation](https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/forms/re-roofinghandout.pdf?sfvrsn=12be0afa_1). Some HOAs require pre-approval before a permit is even filed, and delays in that approval can push your project start date past the monsoon season window.
 
 ---
 
@@ -178,11 +178,11 @@ Concrete tile typically lasts 30-50 years in Scottsdale's climate. Clay tile can
 
 **Is a permit required for roof replacement in Scottsdale?**
 
-Yes. The City of Scottsdale requires a building permit for full roof replacement. Pulling a permit protects you as a homeowner: it ensures an inspection happens, confirms the work meets current building codes, and creates a documented record that matters at resale. Any contractor who suggests skipping the permit should be disqualified immediately.
+Yes. The [City of Scottsdale requires a building permit for full roof replacement](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf). Pulling a permit protects you as a homeowner: it ensures an inspection happens, confirms the work meets current building codes, and creates a documented record that matters at resale. Any contractor who suggests skipping the permit should be disqualified immediately.
 
 **Can I get a tax credit for a new roof in Scottsdale?**
 
-Certain Energy Star-certified roofing products may qualify for a federal residential energy tax credit under current IRS provisions. This includes qualifying metal and asphalt shingle products with appropriate solar reflectance ratings. The credit is applied to the cost of materials, not labor. Confirm eligibility with your tax advisor and verify the specific product's Energy Star status before purchase.
+[Certain Energy Star-certified roofing products may qualify for a federal residential energy tax credit](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost) under current IRS provisions. This includes qualifying metal and asphalt shingle products with appropriate solar reflectance ratings. The credit is applied to the cost of materials, not labor. Confirm eligibility with your tax advisor and verify the specific product's Energy Star status before purchase.
 
 **How do I know if my Scottsdale roof needs replacement or just repairs?**
 

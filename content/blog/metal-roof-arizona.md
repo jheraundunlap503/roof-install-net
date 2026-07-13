@@ -68,7 +68,7 @@ Divided across a 50-year lifespan, metal's annualized cost can be competitive or
 
 ## Does metal roofing handle Arizona heat?
 
-Yes, when specified with the right coating. Solar reflectance is the key performance metric. ENERGY STAR certifies metal roofing products that meet minimum solar reflectance and thermal emittance thresholds. Certified products reflect a larger share of incoming solar energy rather than absorbing it.
+Yes, when specified with the right coating. Solar reflectance is the key performance metric. [ENERGY STAR certifies metal roofing products that meet minimum solar reflectance and thermal emittance thresholds](https://www.energystar.gov/products/spec/roof_products_specification_version_3_0_pd). Certified products reflect a larger share of incoming solar energy rather than absorbing it.
 
 The U.S. Department of Energy notes that cool roofs can reduce rooftop temperatures by up to 50 degrees Fahrenheit compared to conventional dark roofing. In Arizona, where summer roof surface temperatures routinely reach 155 to 165 degrees Fahrenheit, even a 30-degree reduction cuts radiant heat load into the attic and reduces air conditioning cycling.
 
@@ -94,11 +94,11 @@ Metal roofing has real trade-offs:
 
 The noise concern is frequently overstated. A standing seam system installed on a solid decked substrate with a quality underlayment is not noticeably louder than other residential roofing materials during rain. The common association of loud metal roofs comes from older exposed-fastener corrugated systems installed over open purlins, which are a different product and application.
 
-Before hiring, verify any metal roofing contractor through the [Arizona Registrar of Contractors](https://roc.az.gov/). Metal panel work requires different skills than tile or shingle installation, and experience matters for long-term performance. See [what a roofing contractor license in Arizona covers](/blog/arizona-roofing-contractor-license) for what to verify before you sign.
+Before hiring, verify any metal roofing contractor through the [Arizona Registrar of Contractors](https://roc.az.gov/). [Metal panel work requires different skills than tile or shingle installation](https://www.nrca.net/procertification/certifications/metal-shingle-systems-installer), and experience matters for long-term performance. See [what a roofing contractor license in Arizona covers](/blog/arizona-roofing-contractor-license) for what to verify before you sign.
 
 ## Does metal roofing qualify for energy credits in Arizona?
 
-Some products may qualify. The federal Energy Efficient Home Improvement Credit covers certain roofing upgrades under specific conditions tied to ENERGY STAR certification. Arizona utility companies and the Arizona Department of Environmental Quality also offer rebate programs for qualifying energy efficiency improvements.
+Some products may qualify. The [federal Energy Efficient Home Improvement Credit covers certain roofing upgrades under specific conditions tied to ENERGY STAR certification](https://www.energystar.gov/about/federal-tax-credits). Arizona utility companies and the Arizona Department of Environmental Quality also offer rebate programs for qualifying energy efficiency improvements.
 
 Consult a tax professional to confirm whether your specific product and installation qualifies before making the purchase decision based on expected credits. The qualifying criteria depend on the certified solar reflectance value of the installed product, and requirements can change year to year.
 

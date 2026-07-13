@@ -56,7 +56,7 @@ If your existing shingle roof is under 12 years old, is not actively leaking, an
 
 ### Metal Roofing
 
-**Is metal roofing a good choice for Arizona's heat and monsoon season?** Metal roofing is an excellent choice for Arizona when properly installed with reflective coatings. Standing seam metal with a cool-roof coating can reflect up to 70% of solar radiation, significantly reducing attic temperatures.
+**Is metal roofing a good choice for Arizona's heat and monsoon season?** Metal roofing is an excellent choice for Arizona when properly installed with reflective coatings. Standing seam metal with a [cool-roof coating can reflect up to 70% of solar radiation](https://coolroofs.org/resources/codes-programs-standards-2), significantly reducing attic temperatures.
 
 Metal expands and contracts with temperature swings, which is manageable with concealed fastener systems. Exposed fastener panels can develop leaks over time as rubber grommets degrade from UV exposure. The U.S. Department of Energy's Energy Efficiency resources confirm that cool metal roofing can reduce cooling energy use by 10 to 25% in hot climates like Arizona's.
 
@@ -76,7 +76,7 @@ Foam roofing (spray polyurethane foam) has a loyal following among some Arizona 
 
 **What does a UV index of 11+ actually do to roofing materials over time?** At UV index levels of 11 and above, which are routine in the Phoenix metro from April through September, organic compounds in roofing materials break down significantly faster than manufacturer testing reflects. Granule loss accelerates on shingles, sealants around flashings crack, and polymer membranes chalk and become brittle.
 
-[NOAA's UV Index data](https://www.noaa.gov/education/resource-collections/climate) places Phoenix among the top U.S. cities for cumulative annual UV exposure. This is not just a cosmetic issue. UV degradation compromises waterproofing integrity before physical storm damage occurs.
+[NOAA's UV Index data](https://www.noaa.gov/education/resource-collections/climate) places Phoenix among the top U.S. cities for cumulative annual UV exposure. This is not just a cosmetic issue. [UV degradation compromises waterproofing integrity before physical storm damage occurs](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time).
 
 This is why material selection matters more than in moderate climates. A product with a 30-year rating in Minneapolis may deliver 15 to 18 years of performance in Scottsdale. Ask any contractor you hire to provide local project references, not just national warranty literature.
 
@@ -86,7 +86,7 @@ This is why material selection matters more than in moderate climates. A product
 
 **Does attic ventilation actually extend roofing material life in Arizona?** Yes, significantly. Without adequate ventilation, attic temperatures can reach 150°F to 160°F, which accelerates shingle degradation from below while UV attacks from above. Proper ridge and soffit ventilation keeps attic temperatures closer to 100°F to 110°F, meaningfully extending material lifespan.
 
-The [National Roofing Contractors Association](https://www.nrca.net) recommends a minimum of 1 square foot of net free ventilation area per 150 square feet of attic floor space. Many older East Valley homes fall short of this standard. When ventilation is inadequate, even premium materials underperform.
+The [National Roofing Contractors Association](https://www.nrca.net) recommends a [minimum of 1 square foot of net free ventilation area per 150 square feet of attic floor space](https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/coolroofguide.pdf). Many older East Valley homes fall short of this standard. When ventilation is inadequate, even premium materials underperform.
 
 If you are getting a re-roof estimate, ask specifically whether the contractor will assess and address ventilation. It should not be an upsell — it should be part of any responsible East Valley roofing job. Learn more at [our ventilation and roofing overview](/blog/attic-ventilation-arizona/).
 
@@ -146,4 +146,4 @@ Concrete tile and metal roofing (Class 4 impact-rated) offer the strongest hail 
 Twice per year is the standard recommendation: once in late April or May before monsoon season begins, and once in October after monsoon season ends. Tile systems also benefit from a more detailed inspection every 5 years to check underlayment condition at valleys, ridges, and penetrations. Do not wait for an active leak to schedule an inspection.
 
 **Can I install a new roof over my existing shingles in Arizona?**
-Building codes in most Arizona municipalities permit one layer of shingles over an existing layer. However, doing so traps heat between layers, accelerating degradation of both the new and old material. Given Arizona's extreme heat environment, most experienced local roofers recommend a full tear-off. The cost difference is real, but so is the performance difference over time.
+[Building codes in most Arizona municipalities permit one layer of shingles over an existing layer](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf). However, doing so traps heat between layers, accelerating degradation of both the new and old material. Given Arizona's extreme heat environment, most experienced local roofers recommend a full tear-off. The cost difference is real, but so is the performance difference over time.

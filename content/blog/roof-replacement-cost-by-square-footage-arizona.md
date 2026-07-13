@@ -31,7 +31,7 @@ Arizona roof replacement cost by material in 2026:
 |---|---|---|
 | Asphalt 3-tab shingles | $4.00 – $5.50 | Rarely used in new construction; common on older Tempe and central Mesa homes |
 | Architectural (dimensional) shingles | $5.00 – $7.00 | Most common shingle choice in Arizona HOA communities that permit shingles |
-| Class 4 impact-resistant shingles | $6.50 – $9.00 | Recommended for Arizona monsoon hail exposure; may reduce insurance premium |
+| [Class 4 impact-resistant shingles](https://www.owenscorning.com/en-us/roofing/blog/types-of-roofing-shingles) | $6.50 – $9.00 | Recommended for Arizona monsoon hail exposure; may reduce insurance premium |
 | Concrete tile | $9.65 – $13.00 | Standard material in Gilbert, Chandler, and Queen Creek master-planned communities |
 | Clay tile | $12.65 – $16.00 | Premium material; longer lifespan than concrete but higher upfront cost |
 | Spray polyurethane foam (SPF) | $5.00 – $9.00 | Flat and low-slope sections only; recoat required every 7–10 years |
@@ -69,7 +69,7 @@ Use our [free cost estimator](/estimator/) to calculate a baseline for your spec
 
 ## What is a roofing square and how does it affect your quote?
 
-Contractors quote in **roofing squares**, not square feet. One roofing square equals 100 square feet. A 2,200 sq ft roof is 22 squares.
+Contractors quote in **roofing squares**, not square feet. [One roofing square equals 100 square feet](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost). A 2,200 sq ft roof is 22 squares.
 
 This matters because material pricing in quotes is typically listed per square, not per square foot. When a contractor quotes "$195 per square for architectural shingles," that translates to $1.95 per square foot — on the low end of the range, which should prompt questions about underlayment quality and what's included.
 
@@ -79,7 +79,7 @@ The [National Roofing Contractors Association](https://www.nrca.net/) uses the r
 
 Several factors push the installed cost above the base range:
 
-**Roof complexity.** A simple gable roof with two slopes is the least expensive to install. Hip roofs with multiple slopes, valleys, and angles require more cutting, more flashing, and more labor time. The complex rooflines common in Gilbert, Chandler, and Scottsdale master-planned communities typically add $1–$2 per square foot over a simple gable.
+**Roof complexity.** A simple gable roof with two slopes is the least expensive to install. [Hip roofs with multiple slopes, valleys, and angles](https://www.gaf.com/en-us/blog/your-home/7-common-roof-types-complete-guide-to-shapes-styles--materials-d5ce2cd0-69b2-4cec-91d2-6f837978323f) require more cutting, more flashing, and more labor time. The complex rooflines common in Gilbert, Chandler, and Scottsdale master-planned communities typically add $1–$2 per square foot over a simple gable.
 
 **Multiple tear-off layers.** Arizona building code allows up to two layers of shingles. Homes that already have two layers require full tear-off before a new roof goes down — adding $0.75–$1.50 per square foot in labor and disposal. Older Tempe and central Mesa homes frequently have two layers from prior re-roofs.
 
@@ -105,9 +105,9 @@ See [what a roofing estimate vs. contract should include](/blog/roofing-estimate
 
 ## Does the permit factor into per-square-foot cost?
 
-Yes, and contractors typically include it in the base quote rather than listing it separately. Maricopa County city permit fees for residential re-roofing typically run $150–$450 depending on project scope and city. The permit triggers a mandatory inspection that verifies underlayment installation and deck condition before the roof is closed — a protection for the homeowner, not just a bureaucratic requirement.
+Yes, and contractors typically include it in the base quote rather than listing it separately. Maricopa County city permit fees for residential re-roofing typically run $150–$450 depending on project scope and city. The [permit triggers a mandatory inspection that verifies underlayment installation](https://www.maricopa.gov/391/Fee-Schedule-and-Estimators) and deck condition before the roof is closed — a protection for the homeowner, not just a bureaucratic requirement.
 
-A contractor who offers to skip the permit to reduce the bid is offering to remove the only third-party check on their work. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what the permit process involves and typical timelines by city.
+[A contractor who offers to skip the permit to reduce the bid](https://roc.az.gov/) is offering to remove the only third-party check on their work. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what the permit process involves and typical timelines by city.
 
 ## How does Arizona's climate affect per-square-foot value?
 

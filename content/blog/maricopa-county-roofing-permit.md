@@ -52,7 +52,7 @@ Each incorporated city in Maricopa County issues its own permits. Key contacts f
 - **Scottsdale**: City of Scottsdale Building Safety
 - **Tempe**: City of Tempe Community Development
 
-Unincorporated Maricopa County areas fall under Maricopa County Building and Safety, which is a separate department from the city-level offices.
+[Unincorporated Maricopa County areas fall under Maricopa County Building and Safety](https://www.maricopa.gov/1629/Construction-Permit-Information), which is a separate department from the city-level offices.
 
 ## Who pulls the roofing permit — the contractor or the homeowner?
 
@@ -66,17 +66,17 @@ A contractor who tells you they will handle the permit but then pressures you to
 
 For most residential re-roofing projects in Maricopa County, the inspection process involves:
 
-1. **Permit issuance** — contractor submits scope of work, material specs, and license documentation
+1. **Permit issuance** — [contractor submits scope of work, material specs, and license documentation](https://www.maricopa.gov/2384/Obtain-a-Building-Permit)
 2. **Deck or underlayment inspection** — an inspector visits the site after the old material is removed and underlayment is installed, but before tile or shingles cover it
 3. **Final inspection** — inspector confirms the completed installation matches the permitted scope
 
-The deck/underlayment inspection is the most important step in the process. The [International Code Council](https://www.iccsafe.org/), which publishes the IRC that Arizona cities enforce, requires that inspectors can verify required components before they are concealed. Once tile or shingles go down, there is no practical way to inspect the underlayment without removing the outer material.
+The deck/underlayment inspection is the most important step in the process. The [International Code Council](https://www.iccsafe.org/), which publishes the IRC that Arizona cities enforce, requires that [inspectors can verify required components before they are concealed](https://codes.iccsafe.org/content/IRC2018/chapter-9-roof-assemblies). Once tile or shingles go down, there is no practical way to inspect the underlayment without removing the outer material.
 
 Ask your contractor to notify you when the underlayment inspection is scheduled. A short visit during that window lets you see the condition of your roof deck before everything is covered.
 
 ## How much does a roofing permit cost in Maricopa County cities?
 
-Permit fees are set by each city and are typically based on the valuation of the work. For a standard residential re-roofing project in the Phoenix metro, permit fees generally run between $150 and $500 depending on the city, the total project value, and whether plan review is required.
+Permit fees are set by each city and are typically based on the valuation of the work. For a standard residential re-roofing project in the Phoenix metro, [permit fees generally run between $150 and $500 depending on the city](https://www.maricopa.gov/1682/Additional-Permit-Information), the total project value, and whether plan review is required.
 
 These fees are a small fraction of a full roofing project cost and should be included in your contractor's written estimate. A contractor who asks you to pay permit fees separately in cash — rather than including them in the project total — is a warning sign. See [roof replacement cost in Arizona for 2026](/blog/roof-replacement-cost-arizona-2026) for current market cost ranges.
 
@@ -108,7 +108,7 @@ For a full checklist of what to verify before signing a roofing contract, see [w
 In unincorporated Maricopa County and some cities, homeowners can pull an owner-builder permit for their primary residence. However, this approach removes contractor warranty protections, can affect insurance coverage, and requires disclosure at resale. Check with your specific city's building department before proceeding.
 
 **Does a roofing permit expire?**
-Yes. Most Maricopa County city permits expire if work does not begin within 180 days or if the project stalls without inspection activity for an extended period. Confirm the permit timeline with your contractor when the project starts.
+Yes. Most [Maricopa County city permits expire if work does not begin within 180 days](https://www.maricopa.gov/5241/FAQs) or if the project stalls without inspection activity for an extended period. Confirm the permit timeline with your contractor when the project starts.
 
 **Do I need a permit to install a new skylight during re-roofing?**
 Yes. Skylight installation involves cutting through the roof structure and deck, which requires a separate or combined permit covering both the roofing and the structural modification.

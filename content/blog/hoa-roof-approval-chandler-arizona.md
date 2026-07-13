@@ -18,13 +18,13 @@ image_alt: suburban homes with white stucco and red tile roofs in an Arizona HOA
 
 ---
 
-Chandler is one of the most HOA-dense cities in the Phoenix metro. Fulton Ranch, Ocotillo, Dobson Ranch, Layton Lakes, and dozens of smaller subdivisions all have active governing bodies with architectural standards that cover exterior improvements — including roofs.
+[Chandler is one of the most HOA-dense cities in the Phoenix metro](https://www.chandleraz.gov/residents/neighborhood-resources/neighborhood-preservation/neighborhood-programs/hoa-information). Fulton Ranch, Ocotillo, Dobson Ranch, Layton Lakes, and dozens of smaller subdivisions all have active governing bodies with architectural standards that cover exterior improvements — including roofs.
 
-Replacing a roof without HOA approval can result in a mandatory removal and reinstallation order at your expense, accumulating daily fines, and an open violation that appears on a title search when you sell. On a $15,000 to $25,000 roofing project, skipping the approval process is not worth the risk.
+Replacing a roof without HOA approval can result in a mandatory removal and reinstallation order at your expense, accumulating daily fines, and an open violation that appears on a title search when you sell. On a [$15,000 to $25,000 roofing project](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost), skipping the approval process is not worth the risk.
 
 ## Do you need HOA approval for a roof replacement in Chandler?
 
-Almost certainly yes. Most Chandler HOA CC&Rs require Architectural Review Committee (ARC) approval for any exterior change to the home, including roofing material, color, and tile profile. Some HOAs require approval even for like-for-like replacements where you are matching the existing product exactly.
+Almost certainly yes. Most Chandler [HOA CC&Rs require Architectural Review Committee](https://www.superiorcourt.maricopa.gov/LawLibrary/Docs/PDF/Guides/HOA.pdf) (ARC) approval for any exterior change to the home, including roofing material, color, and tile profile. Some HOAs require approval even for like-for-like replacements where you are matching the existing product exactly.
 
 Check your CC&Rs and the ARC guidelines (sometimes called Architectural Standards) first. If those documents are not readily available, contact your HOA management company directly — most Chandler communities are managed by companies like FirstService Residential or Brown Community Management and maintain homeowner portals where forms are available.
 
@@ -85,13 +85,13 @@ For context on how neighboring Gilbert HOAs handle roof replacement approvals in
 
 ## Can your HOA require a specific roofing contractor?
 
-No. Arizona law does not permit HOAs to mandate a specific contractor. They can require that contractors be licensed, bonded, and insured — which is standard verification any responsible homeowner should do regardless. They can require compliance with approved materials and color specs. They cannot direct you to a particular company.
+No. Arizona law does not permit HOAs to mandate a specific contractor. They can [require that contractors be licensed, bonded, and insured](https://roc.az.gov/sites/default/files/2024-09/2024%20Statute%20and%20Rules%20Book.pdf) — which is standard verification any responsible homeowner should do regardless. They can require compliance with approved materials and color specs. They cannot direct you to a particular company.
 
 See our full guide on [questions to ask a roofing contractor](/blog/questions-to-ask-roofing-contractor) for independent evaluation criteria beyond HOA preference.
 
 ## Does Chandler also require a city permit?
 
-Yes — HOA approval and a city building permit are two separate requirements from two separate entities. The City of Chandler Development Services department governs permit requirements and inspections for roofing work. A properly licensed contractor pulls the permit before work begins.
+Yes — [HOA approval and a city building permit are two separate requirements](https://www.chandleraz.gov/government/departments/city-clerks-office/city-code-and-charter/directory-regulatory-documents) from two separate entities. The [City of Chandler Development Services department governs permit requirements](https://www.chandleraz.gov/government/departments/development-services/building-safety-plan-review-permits-and-inspections) and inspections for roofing work. A properly licensed contractor pulls the permit before work begins.
 
 Do not allow any contractor to start without confirming the permit is active. The permit ensures code-compliant installation and protects your roof warranty, insurance coverage, and resale title. See our [Arizona roofing contractor license guide](/blog/arizona-roofing-contractor-license) for what to verify before signing.
 

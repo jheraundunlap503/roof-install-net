@@ -23,7 +23,7 @@ pexels_photo_id: 8961065
 
 ## What is a fair price for a roof replacement?
 
-For asphalt shingles, a fair installed price is $3.50 to $8.00 per square foot, or about $350 to $900 per roofing square (one square equals 100 square feet of roof surface). For a typical 2,000 square foot roof, that puts a fair total around $9,000 to $17,000 depending on material grade and roof complexity. Premium materials carry higher fair ranges.
+For asphalt shingles, a fair installed price is $3.50 to $8.00 per square foot, or about $350 to $900 per roofing square (one square equals 100 square feet of roof surface). For [a typical 2,000 square foot roof, that puts a fair total around $9,000 to $17,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator) depending on material grade and roof complexity. Premium materials carry higher fair ranges.
 
 ## How do roofers price a roof?
 
@@ -50,15 +50,15 @@ Two honest contractors can quote the same roof and land $4,000 apart, and both c
 
 ## How much does tear-off and disposal add?
 
-A standard single-layer asphalt tear-off runs about $100 to $180 per square, including labor, debris removal, and dump fees. A second layer of old shingles adds roughly $50 to $100 per square because of the extra labor and the disposal weight. If a quote skips tear-off and proposes laying new shingles over the old roof, the price drops, but so does the lifespan, and many manufacturers limit warranty coverage on overlay installs.
+[A standard single-layer asphalt tear-off runs about $100 to $180 per square](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost), including labor, debris removal, and dump fees. A second layer of old shingles adds roughly $50 to $100 per square because of the extra labor and the disposal weight. If a quote skips tear-off and proposes laying new shingles over the old roof, the price drops, but so does the lifespan, and [many manufacturers limit warranty coverage on overlay installs](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost).
 
 ## Does roof pitch and complexity change a fair price?
 
-Yes, significantly. A steep roof that crews cannot walk safely requires fall protection, slows installation, and pushes the per-square labor up. Every valley, dormer, skylight, and chimney adds cut waste and flashing labor. Roofers add a waste factor of 10 to 15 percent on material for a simple gable roof and more for cut-up roofs, so a complex roof of the same square footage is legitimately more expensive than a simple one.
+Yes, significantly. A steep roof that crews cannot walk safely requires fall protection, slows installation, and pushes the per-square labor up. Every valley, dormer, skylight, and chimney adds cut waste and flashing labor. Roofers add a [waste factor of 10 to 15 percent on material for a simple gable roof](https://www.iko.com/na/blog/how-much-does-a-new-roof-cost/) and more for cut-up roofs, so a complex roof of the same square footage is legitimately more expensive than a simple one.
 
 ## What share of the price is labor vs materials?
 
-On a typical replacement, materials account for roughly 60 percent of the cost and labor about 40 percent, though that split shifts with material choice. Premium materials raise the material share; steep or complex roofs raise the labor share. A fair quote reflects real labor for a properly sized, insured crew, which is part of why a rock-bottom bid often signals corners being cut on crew quality or insurance.
+On a typical replacement, [materials account for roughly 60 percent of the cost and labor about 40 percent](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost), though that split shifts with material choice. Premium materials raise the material share; steep or complex roofs raise the labor share. A fair quote reflects real labor for a properly sized, insured crew, which is part of why a rock-bottom bid often signals corners being cut on crew quality or insurance.
 
 ## When is a roof quote too low?
 

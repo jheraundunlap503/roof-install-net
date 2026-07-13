@@ -20,7 +20,7 @@ image_alt: roofer installing underlayment on Arizona roof deck during replacemen
 
 Most homeowners think about their roof in terms of what is visible from the street: tile, shingles, or foam. The layer that often matters most is the one you cannot see from the ground.
 
-Roofing underlayment sits between the structural roof deck and the exterior roofing material. A contractor rolls it across the plywood or OSB sheathing before tiles or shingles are installed. On a tile roof, it covers 100 percent of the deck area. On an asphalt shingle roof, code requires it at minimum along the eaves and valleys, and most quality contractors install it across the full surface.
+[Roofing underlayment sits between the structural roof deck and the exterior roofing material](https://www.gaf.com/en-us/blog/your-home/what-is-roof-underlayment-e369622d-4be3-4a4f-9392-6a8eb3f5ad27). A contractor rolls it across the plywood or OSB sheathing before tiles or shingles are installed. On a tile roof, it covers 100 percent of the deck area. On an asphalt shingle roof, code requires it at minimum along the eaves and valleys, and most quality contractors install it across the full surface.
 
 When an outer roofing material fails — a tile cracks, a shingle tears back in a monsoon wind, or a vent flashing separates — the underlayment is the secondary barrier that prevents water from reaching the deck and the living space below.
 
@@ -28,7 +28,7 @@ When an outer roofing material fails — a tile cracks, a shingle tears back in 
 
 Underlayment is a water-resistant or waterproof sheet material installed on top of the roof deck beneath the primary roofing material. It is not the same as the roof deck (the structural wood or OSB layer), and it is not the outer roofing material. It is the layer between them.
 
-The [NRCA](https://www.nrca.net/) defines underlayment as a component that provides secondary protection against water infiltration on steep-slope roofing systems. On tile and shingle roofs, underlayment is required under the International Residential Code. On low-slope roofing like spray foam or single-ply membrane, the system itself typically serves as the primary waterproofing layer, making a separate underlayment unnecessary.
+The [NRCA](https://www.nrca.net/) defines underlayment as a component that provides secondary protection against water infiltration on steep-slope roofing systems. On tile and shingle roofs, [underlayment is required under the International Residential Code](https://codes.iccsafe.org/content/IRC2018/chapter-9-roof-assemblies). On low-slope roofing like spray foam or single-ply membrane, the system itself typically serves as the primary waterproofing layer, making a separate underlayment unnecessary.
 
 ## Why does underlayment matter more in Arizona than in other climates?
 
@@ -42,7 +42,7 @@ A roofer who relays tile over a failed underlayment has not repaired the roof. T
 
 ## What types of roofing underlayment are used in Arizona?
 
-Three types are common on Arizona residential roofs:
+[Three types are common on Arizona residential roofs](https://www.nachi.org/underlayment-types.htm):
 
 **Asphalt-saturated felt (15lb or 30lb)**: The traditional option. Made from a cellulose or polyester mat saturated with asphalt. Less expensive and widely available, but degrades under sustained heat and UV exposure. Most Arizona roofing contractors no longer recommend felt as the primary underlayment on full roof replacements.
 
@@ -83,7 +83,7 @@ Yes. Concrete and clay tile are water-shedding materials, not waterproof membran
 
 The International Residential Code, which Arizona jurisdictions enforce, requires underlayment under tile roofing. The [International Code Council](https://www.iccsafe.org/), which publishes the IRC, provides the technical standard that local Arizona building departments adopt and enforce.
 
-Skipping underlayment or using substandard material on a tile roof violates building code and voids most tile manufacturer warranties. Any permitted re-roofing project will include an inspection of underlayment installation before the tile covers it.
+Skipping underlayment or using substandard material on a tile roof violates building code and voids most tile manufacturer warranties. [Any permitted re-roofing project will include an inspection of underlayment installation](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf) before the tile covers it.
 
 For a full comparison of how tile and shingle roofs handle Arizona conditions — including underlayment requirements for each — see [tile vs shingle roof in Arizona](/blog/tile-vs-shingle-roof-arizona).
 
@@ -109,7 +109,7 @@ When getting bids, ask each contractor to specify the exact underlayment product
 Sometimes. If the tile is in structurally sound condition, a roofer can carefully remove it, replace the underlayment, and relay the tile. This is called a re-underlayment or felt replacement job. It is labor-intensive and not suited to all tile profiles, but it is a legitimate option when the tile itself is newer or high-quality and only the underlayment has failed.
 
 **What is the difference between 15lb and 30lb felt?**
-The numbers approximate the weight per 100 square feet. 30lb felt is thicker, heavier, and more durable than 15lb. For Arizona tile roofing, 30lb is the code minimum, and synthetic is increasingly preferred over both grades because it handles heat and UV significantly better over the long term.
+The numbers approximate the weight per 100 square feet. 30lb felt is thicker, heavier, and more durable than 15lb. For Arizona tile roofing, [30lb is the code minimum](https://sfb.az.gov/sites/default/files/2022-04/07%2032%2016%20-%20Concrete%20Tile%20FINAL.pdf), and synthetic is increasingly preferred over both grades because it handles heat and UV significantly better over the long term.
 
 **Should I ask for synthetic underlayment when getting quotes?**
 Yes. In Arizona, requesting synthetic underlayment rather than felt is a reasonable specification that protects your investment. Ask for the specific product name and manufacturer in the written estimate so you know exactly what will be installed — not just "synthetic underlayment."
