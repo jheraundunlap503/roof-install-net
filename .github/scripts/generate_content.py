@@ -21,6 +21,43 @@ SCHEDULE_DAYS    = 0
 DRY_RUN          = os.environ.get('DRY_RUN', 'false').lower() == 'true'
 GITHUB_OUTPUT    = os.environ.get('GITHUB_OUTPUT', '')
 
+MODEL      = 'claude-sonnet-4-6'
+MAX_TOKENS = 8000
+USER_AGENT = 'Mozilla/5.0 (compatible; roofinstall-bot/1.0)'
+
+# Tier 1-2 sources only (CLAUDE.md source-backed-claims standard).
+# The model may ONLY cite pages it actually retrieved from these domains.
+ALLOWED_SOURCE_DOMAINS = [
+    # Trade / standards bodies
+    'nrca.net', 'iibhs.org', 'asphaltroofing.org', 'tileroofing.org',
+    'iccsafe.org', 'nachi.org', 'coolroofs.org',
+    # Federal
+    'energy.gov', 'epa.gov', 'noaa.gov', 'weather.gov', 'nist.gov',
+    'fema.gov', 'hud.gov', 'census.gov', 'bls.gov', 'osha.gov',
+    'energystar.gov', 'nrel.gov',
+    # Arizona state / municipal
+    'az.gov', 'roc.az.gov', 'maricopa.gov', 'phoenix.gov', 'mesaaz.gov',
+    'chandleraz.gov', 'gilbertaz.gov', 'tempe.gov', 'scottsdaleaz.gov',
+    # NOTE: azcentral.com blocks Anthropic's crawler and is rejected by the API.
+    # Trade press / consumer protection
+    'remodeling.hw.net', 'bbb.org',
+    # Manufacturers
+    'gaf.com', 'owenscorning.com', 'certainteed.com', 'iko.com', 'tamko.com',
+]
+
+# Basic variant on purpose. The _20260209 "dynamic filtering" variant runs code
+# execution under the hood, which forces container_id plumbing on every pause_turn
+# resume and fires dozens of extra server-tool calls per article. We only need real
+# retrieved sources, which this does without the overhead.
+WEB_SEARCH_TOOL = {
+    'type': 'web_search_20250305',
+    'name': 'web_search',
+    'max_uses': 12,
+    'allowed_domains': ALLOWED_SOURCE_DOMAINS,
+}
+
+MARKDOWN_LINK = re.compile(r'\[([^\]]+)\]\((https?://[^)\s]+)\)')
+
 CONTENT_DIR = {
     'blog':    'content/blog',
     'service': 'content/services',
@@ -108,13 +145,24 @@ def fetch_pexels_image(keyword):
         return '', ''
 
 
-def build_prompt(keyword, ktype, slug, image_url, image_alt):
+def build_prompt(keyword, ktype, slug, image_url, image_alt, sources):
     today_str = now().strftime('%Y-%m-%d')
     scheduled = sched_date()
+    source_block = '\n'.join(f'- {title}: {url}' for url, title in sources)
 
     return f"""You are writing content for roofinstall.net — an independent homeowner resource for the U.S. roofing industry. Primary focus: Arizona / Phoenix metro East Valley.
 
 Write a complete, publish-ready markdown article for this keyword: "{keyword}"
+
+VERIFIED SOURCES — these were retrieved by a live web search and are the ONLY URLs you may cite:
+{source_block}
+
+CITATION RULES (non-negotiable):
+- Cite 7-10 of the verified URLs above as inline markdown links, embedded in contextual anchor text. Example: the [Arizona ROC workmanship standards](https://roc.az.gov/...) require flashing at every penetration.
+- Copy each URL EXACTLY as written above. Do not edit, shorten, or "clean up" a URL.
+- NEVER cite a URL that is not in the list above. Do not write a URL from memory, do not guess a path, do not invent a homepage. A fabricated citation is the single worst thing you can produce.
+- Every citation must be load-bearing: it supports a specific number, code requirement, or factual claim in that sentence. Do not decorate.
+- If a claim has no matching source above, state it plainly with no citation rather than inventing one.
 
 CONTENT RULES (non-negotiable):
 - No em-dashes anywhere
@@ -122,7 +170,7 @@ CONTENT RULES (non-negotiable):
 - One H1 only
 - TLDR (3-4 sentences) immediately after H1, before any H2
 - Content capsule format: every H2/H3 opens with the question, then a 30-60 word direct answer, then expanded detail
-- 7-10 inline source citations embedded in contextual anchor text (Tier 1-2 only: .gov sites, nrca.net, manufacturer docs, NOAA, Remodeling Magazine, AZ Central)
+- 7-10 inline source citations, drawn only from the VERIFIED SOURCES list above
 - Primary keyword "{keyword}" within the first 100 words
 - 4-6 FAQ questions at the close
 - 3-5 internal links using relative paths (e.g. /blog/slug/ or /services/slug/)
@@ -167,15 +215,131 @@ def strip_code_fence(text):
     return text
 
 
-def generate_article(keyword, ktype, slug, image_url, image_alt):
-    client = Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'])
-    prompt = build_prompt(keyword, ktype, slug, image_url, image_alt)
-    msg = client.messages.create(
-        model='claude-sonnet-4-6',
-        max_tokens=4096,
-        messages=[{'role': 'user', 'content': prompt}],
+def extract_article(msg):
+    """Join the text blocks and drop any preamble before the frontmatter."""
+    text = '\n'.join(
+        b.text for b in msg.content if getattr(b, 'type', '') == 'text'
+    ).strip()
+    text = strip_code_fence(text)
+    start = text.find('---')
+    if start > 0:
+        text = text[start:]
+    return text.strip()
+
+
+def research(client, keyword):
+    """Pass 1: live web search. Returns the (url, title) pairs actually retrieved.
+
+    The API attaches citations to text blocks as structured metadata rather than
+    having the model write markdown links, and those blocks split mid-sentence.
+    So we harvest the retrieved URLs here and hand them to the writer in pass 2,
+    which is what lets the article carry real inline links.
+    """
+    prompt = (
+        f'Research the topic "{keyword}" for an Arizona homeowner roofing article.\n'
+        'Search thoroughly and from several angles: installed costs, material specs, '
+        'building code and permit requirements, contractor licensing and workmanship '
+        'standards, and Arizona climate (UV load, monsoon). Run at least 6 searches.\n'
+        'Then list the key facts you found. Do not write an article.'
     )
-    return strip_code_fence(msg.content[0].text)
+    with client.messages.stream(
+        model=MODEL,
+        max_tokens=3000,
+        tools=[WEB_SEARCH_TOOL],
+        messages=[{'role': 'user', 'content': prompt}],
+    ) as stream:
+        msg = stream.get_final_message()
+
+    sources, seen = [], set()
+    for block in msg.content:
+        if getattr(block, 'type', '') != 'web_search_tool_result':
+            continue
+        results = block.content
+        if not isinstance(results, list):
+            print(f'  search error: {results}')   # error blocks come back as objects
+            continue
+        for r in results:
+            url = getattr(r, 'url', None)
+            if not url or url in seen:
+                continue
+            # An allowed domain can still serve user-generated content. A forum
+            # thread is not a Tier 1-2 source, so never let one become a citation.
+            if re.search(r'//forum\.|/forum/|/forums/|/community/', url, re.I):
+                print(f'  skipped user-generated source: {url}')
+                continue
+            seen.add(url)
+            title = re.sub(r'\s+', ' ', (getattr(r, 'title', '') or 'Source')).strip()
+            sources.append((url, title[:80]))
+
+    searches = sum(
+        1 for b in msg.content if getattr(b, 'type', '') == 'server_tool_use'
+    )
+    print(f'  researched: {searches} searches, {len(sources)} unique sources')
+    return sources[:30]
+
+
+def generate_article(keyword, ktype, slug, image_url, image_alt):
+    # Streaming is required: live search plus a long article blows past the
+    # default non-streaming HTTP read timeout and raises APITimeoutError.
+    client = Anthropic(api_key=os.environ['ANTHROPIC_API_KEY'], timeout=900.0)
+
+    sources = research(client, keyword)
+    if len(sources) < 3:
+        raise RuntimeError(f'only {len(sources)} sources found for "{keyword}"')
+
+    # Pass 2: write with no tools, citing only the verified URLs from pass 1.
+    prompt = build_prompt(keyword, ktype, slug, image_url, image_alt, sources)
+    with client.messages.stream(
+        model=MODEL,
+        max_tokens=MAX_TOKENS,
+        messages=[{'role': 'user', 'content': prompt}],
+    ) as stream:
+        msg = stream.get_final_message()
+
+    return extract_article(msg), {u for u, _ in sources}
+
+
+def check_url(url):
+    """Return an HTTP status, or 0 if the request failed entirely."""
+    headers = {'User-Agent': USER_AGENT}
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=12, headers=headers)
+        if r.status_code >= 400:
+            # Some hosts reject HEAD; confirm with a GET before condemning it.
+            r = requests.get(url, allow_redirects=True, timeout=15,
+                             headers=headers, stream=True)
+        return r.status_code
+    except requests.RequestException:
+        return 0
+
+
+def validate_links(markdown, verified=None):
+    """Unwrap any outbound link that is unverified or does not resolve.
+
+    Two gates, both of which keep the prose and drop only the link:
+      1. Whitelist. If the URL was not returned by the live search, it was
+         invented. Strip it, even if it happens to resolve.
+      2. Liveness. Fetch what remains. 403/405/429 mean the host is blocking a
+         bot, not that the page is missing, so those are left alone.
+
+    A fabricated or dead citation therefore cannot reach the site.
+    """
+    seen, dead = {}, []
+
+    def resolve(match):
+        anchor, url = match.group(1), match.group(2)
+        if verified is not None and url not in verified:
+            dead.append((url, 'not in verified sources'))
+            return anchor
+        if url not in seen:
+            seen[url] = check_url(url)
+        code = seen[url]
+        if code == 0 or (code >= 400 and code not in (403, 405, 429)):
+            dead.append((url, code or 'no response'))
+            return anchor
+        return match.group(0)
+
+    return MARKDOWN_LINK.sub(resolve, markdown), dead
 
 
 def save_article(ktype, slug, content):
@@ -216,8 +380,15 @@ def main():
 
         print(f'\nGenerating [{kt}]: {kw}')
         image_url, image_alt = fetch_pexels_image(kw)
-        content = generate_article(kw, kt, slug, image_url, image_alt)
-        path    = save_article(kt, slug, content)
+        content, verified = generate_article(kw, kt, slug, image_url, image_alt)
+
+        content, dead = validate_links(content, verified)
+        live = len(set(m.group(2) for m in MARKDOWN_LINK.finditer(content)))
+        for url, reason in dead:
+            print(f'  LINK STRIPPED ({reason}): {url}')
+        print(f'  Citations: {live} live, {len(dead)} stripped')
+
+        path = save_article(kt, slug, content)
         generated.append(path)
 
         for r in rows:
@@ -229,6 +400,7 @@ def main():
             f'    slug:      {slug}',
             f'    file:      {path}',
             f'    image:     {image_url[:60] if image_url else "(none)"}',
+            f'    citations: {live} live, {len(dead)} dead links stripped',
             '',
         ]
         print(f'  Saved: {path}')
