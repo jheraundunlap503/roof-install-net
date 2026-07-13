@@ -79,6 +79,25 @@ The automated pipeline (`.github/scripts/generate_content.py`) restricts `allowe
 5. Before any article is published live to the site
 6. Before any email is sent from Brevo
 
+## CONTENT WORKFLOW — REVIEW FIRST
+
+Articles are generated locally in batches, reviewed by a human, and only then scheduled. Nothing auto-generates and nothing auto-publishes.
+
+1. **Generate a batch locally:** `python .github/scripts/generate_content.py --count=15`
+2. **Review each article** in `/content/blog/` — read it, check every citation, check accuracy
+3. **Approve:** delete the `review_flags:` line from the frontmatter
+4. **Schedule:** `python scripts/schedule-approved.py` — assigns publish dates and commits
+5. **GitHub Actions cron publishes one per day** automatically
+6. **Repeat every 1-2 weeks**
+
+- NEVER push articles without running `schedule-approved` first.
+- NEVER remove `review_flags` without actually reading the article.
+- Generation cron is disabled — generation is always local and manual.
+
+**How the approval signal works:** every generated draft carries a `review_flags:` line and `published: false`. While `review_flags:` is present, both the scheduler and the daily publisher skip the article. Deleting that one line is the only approval signal.
+
+`schedule-approved.py` stamps a staggered `scheduled_date` (one per day, starting tomorrow) and leaves `published: false`. It does **not** publish. The daily cron (`flip_scheduled.py`) flips exactly one article to `published: true` on its scheduled day. Setting `published: true` at schedule time would push the whole batch live at once, which is the thing this workflow exists to prevent.
+
 ## Content Generation Instructions
 
 When writing articles:

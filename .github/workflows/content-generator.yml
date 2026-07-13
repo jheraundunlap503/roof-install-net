@@ -1,8 +1,14 @@
-name: Weekly Content Generator
+name: Content Generator (manual only)
+
+# Generation is LOCAL and MANUAL. The schedule trigger is deliberately removed:
+# articles are generated in batches on a workstation, reviewed by a human, and
+# only then scheduled. Nothing auto-generates and nothing auto-publishes.
+#
+#   python .github/scripts/generate_content.py --count=15
+#
+# This workflow_dispatch entry is kept only as a break-glass path.
 
 on:
-  schedule:
-    - cron: '0 14 * * *'   # Every day — 7:00 AM Arizona MST
   workflow_dispatch:
     inputs:
       dry_run:

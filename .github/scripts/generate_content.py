@@ -6,6 +6,7 @@ calls Claude API to write drafts, schedules them 14 days out.
 Fetches a Pexels image for each article.
 """
 
+import argparse
 import csv
 import os
 import re
@@ -102,12 +103,12 @@ def write_csv(rows):
         w.writerows(rows)
 
 
-def pick_keywords(rows, allowed):
+def pick_keywords(rows, allowed, count=ARTICLES_PER_RUN):
     queued = [r for r in rows
               if r['status'] == 'queued' and r['type'] in allowed]
     order = {'high': 0, 'medium': 1, 'low': 2}
     queued.sort(key=lambda r: order.get(r.get('priority', 'low'), 99))
-    return queued[:ARTICLES_PER_RUN]
+    return queued[:count]
 
 
 def to_slug(keyword):
@@ -183,7 +184,8 @@ title: "[Article title]"
 slug: {slug}
 date: {today_str}
 published: false
-scheduled_date: {scheduled}
+scheduled_date:
+review_flags: unreviewed - verify every citation, all numbers, and voice before approving
 meta_title: "[Under 60 chars]"
 meta_description: "[Under 155 chars]"
 primary_keyword: {keyword}
@@ -353,11 +355,18 @@ def save_article(ktype, slug, content):
 
 
 def main():
+    parser = argparse.ArgumentParser(
+        description='Generate review-first article drafts. Nothing auto-publishes.'
+    )
+    parser.add_argument('--count', type=int, default=ARTICLES_PER_RUN,
+                        help='how many drafts to generate this session')
+    args = parser.parse_args()
+
     allowed = allowed_types()
     print(f"Site age: {site_age_days()} days | Allowed types: {allowed}")
 
     rows  = read_csv()
-    picks = pick_keywords(rows, allowed)
+    picks = pick_keywords(rows, allowed, args.count)
 
     if not picks:
         print('No queued keywords for current phase.')
@@ -366,47 +375,63 @@ def main():
                 f.write('article_count=0\nfiles_generated=\nsummary=No queued keywords.\n')
         return
 
-    generated = []
+    print(f'Generating {len(picks)} draft(s). All land as unreviewed drafts.\n')
+
+    generated, failed = [], []
     lines = [
         f'roofinstall.net — content drafts {now().strftime("%Y-%m-%d")}',
-        f'Scheduled to publish: {sched_date()}',
+        'All drafts are unreviewed. Nothing publishes until you delete the',
+        'review_flags line and run scripts/schedule-approved.py.',
         '',
     ]
 
-    for row in picks:
+    for i, row in enumerate(picks, 1):
         kw   = row['keyword']
         kt   = row['type']
         slug = to_slug(kw)
 
-        print(f'\nGenerating [{kt}]: {kw}')
-        image_url, image_alt = fetch_pexels_image(kw)
-        content, verified = generate_article(kw, kt, slug, image_url, image_alt)
+        print(f'[{i}/{len(picks)}] Generating [{kt}]: {kw}')
+        try:
+            image_url, image_alt = fetch_pexels_image(kw)
+            content, verified = generate_article(kw, kt, slug, image_url, image_alt)
 
-        content, dead = validate_links(content, verified)
-        live = len(set(m.group(2) for m in MARKDOWN_LINK.finditer(content)))
-        for url, reason in dead:
-            print(f'  LINK STRIPPED ({reason}): {url}')
-        print(f'  Citations: {live} live, {len(dead)} stripped')
+            content, dead = validate_links(content, verified)
+            live = len(set(m.group(2) for m in MARKDOWN_LINK.finditer(content)))
+            for url, reason in dead:
+                print(f'  LINK STRIPPED ({reason}): {url}')
+            print(f'  Citations: {live} live, {len(dead)} stripped')
 
-        path = save_article(kt, slug, content)
+            path = save_article(kt, slug, content)
+        except Exception as e:
+            # One bad article must not kill a 15-article batch.
+            print(f'  FAILED: {e}\n')
+            failed.append((kw, str(e)))
+            continue
+
         generated.append(path)
-
         for r in rows:
             if r['keyword'] == kw:
                 r['status'] = 'drafted'
 
         lines += [
             f'  [{kt.upper()}] {kw}',
-            f'    slug:      {slug}',
             f'    file:      {path}',
-            f'    image:     {image_url[:60] if image_url else "(none)"}',
-            f'    citations: {live} live, {len(dead)} dead links stripped',
+            f'    citations: {live} live, {len(dead)} stripped',
             '',
         ]
-        print(f'  Saved: {path}')
+        print(f'  Saved: {path}\n')
 
     if not DRY_RUN:
         write_csv(rows)
+
+    print('=' * 60)
+    print(f'{len(generated)} draft(s) written, {len(failed)} failed.')
+    for kw, err in failed:
+        print(f'  FAILED  {kw}: {err}')
+    if generated:
+        print('\nNext: review each draft, delete its review_flags line to approve,')
+        print('then run  python scripts/schedule-approved.py')
+    print('=' * 60)
 
     summary = '\\n'.join(lines)
 

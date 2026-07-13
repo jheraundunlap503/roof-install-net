@@ -24,6 +24,11 @@ def get_field(content, field):
     return m.group(1).strip() if m else None
 
 
+def has_review_flags(content):
+    """True while the article is unreviewed. Deleting the line approves it."""
+    return re.search(r'^review_flags:', content, re.MULTILINE) is not None
+
+
 def flip_published(content):
     return re.sub(
         r'^(published:\s*)false(\s*$)',
@@ -45,6 +50,13 @@ def main():
                 continue
             path = os.path.join(d, fn)
             text = open(path, encoding='utf-8').read()
+
+            # An unreviewed draft must never publish, whatever its date says.
+            # Deleting the review_flags line is the human approval signal.
+            if has_review_flags(text):
+                if get_field(text, 'scheduled_date') == today:
+                    print(f"  SKIPPED (still unreviewed): {path}")
+                continue
 
             if get_field(text, 'published') == 'false' \
                     and get_field(text, 'scheduled_date') == today:
