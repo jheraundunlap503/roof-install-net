@@ -23,6 +23,28 @@ Every article you write must include:
 - Primary keyword in first 100 words
 - One H1 only
 
+### Approved Sources
+
+Never cite a URL you did not actually retrieve. A fabricated citation is worse than no citation. If you cannot find a source for a claim, state the claim without one or leave it out. Real domain plus an invented path is the most common failure — cite the exact page you retrieved, never a homepage you assume exists.
+
+**Confirmed crawler-accessible — usable by BOTH the automated pipeline and manual sessions:**
+- NRCA (nrca.net)
+- EPA (epa.gov)
+- NOAA (noaa.gov)
+- National Weather Service (weather.gov)
+- Maricopa County (maricopa.gov)
+- Department of Energy (energy.gov)
+- Remodeling Magazine (remodeling.hw.net)
+- BBB (bbb.org)
+- GAF (gaf.com)
+- Owens Corning (owenscorning.com)
+- CertainTeed (certainteed.com)
+
+**Manual-session only — NOT usable by the automated pipeline:**
+- AZ Central (azcentral.com) — reachable via Firecrawl in manual sessions, but permanently blocked to Anthropic's web search crawler. Their robots.txt carries an AI blocklist that disallows `anthropic-ai`, `ClaudeBot`, and `Claude-Web`, and the API rejects the domain outright. This is a policy block, not a bug, and it cannot be worked around in the cron. Do not add azcentral.com to the generator's `allowed_domains` — it will fail the request with a 400.
+
+The automated pipeline (`.github/scripts/generate_content.py`) restricts `allowed_domains` to the confirmed-accessible list above and strips any outbound link that does not resolve, so a dead citation cannot reach the site.
+
 ### Voice Rules
 - No em-dashes anywhere
 - No AI-sounding phrases: no "delve", "comprehensive guide", "in today's world", "it's worth noting"
@@ -62,7 +84,7 @@ Every article you write must include:
 When writing articles:
 1. Search for the keyword in Google to find top 3 ranking pages
 2. Note their average word count, H2 structure, and question coverage
-3. Find credible sources before writing a single word — articles 1-10: 3-5 sources; articles 11+: 7-10 sources (Tier 1-2 per source-backed-claims.skill: .gov, manufacturer docs, NRCA, NRCA, BBB, Remodeling Magazine, NOAA, AZ Central)
+3. Find credible sources before writing a single word — articles 1-10: 3-5 sources; articles 11+: 7-10 sources. Tier 1-2 only, per the Approved Sources section below. Never cite a URL you did not actually retrieve.
 4. Write TLDR first
 5. Write body in content capsule format
 6. Add internal links to existing site pages
