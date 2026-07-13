@@ -59,7 +59,7 @@ Sun exposure and monsoon moisture cycles create wood rot and delamination in roo
 
 ### Permit Costs
 
-The [City of Avondale Building Services](https://www.avondaleaz.gov/government/departments/community-development/building-safety) requires permits for full roof replacements. Permit fees in Avondale typically run $150 to $400 depending on valuation. Any contractor who tells you a permit is unnecessary is a red flag.
+The City of Avondale Building Services requires permits for full roof replacements. Permit fees in Avondale typically run $150 to $400 depending on valuation. Any contractor who tells you a permit is unnecessary is a red flag.
 
 ---
 
@@ -176,7 +176,7 @@ Common financing paths:
 - **Contractor financing:** Many Avondale roofers offer 12-month same-as-cash or multi-year installment plans through GreenSky, Hearth, or similar platforms. Read the fine print on deferred interest products carefully.
 - **Home equity line of credit (HELOC):** If you have significant equity built up, a HELOC typically offers the lowest interest rate. Closing costs apply.
 - **Personal loan:** Faster approval with no collateral required, but rates are higher. Best for smaller projects under $10,000.
-- **FHA Title I Home Improvement Loan:** The [U.S. Department of Housing and Urban Development](https://www.hud.gov/program_offices/housing/sfh/title/title-i) insures loans for home improvements including roofing. Useful for homeowners with limited equity.
+- **FHA Title I Home Improvement Loan:** The U.S. Department of Housing and Urban Development insures loans for home improvements including roofing. Useful for homeowners with limited equity.
 
 Avoid putting a roof on a high-interest credit card unless you can pay it off within a billing cycle.
 

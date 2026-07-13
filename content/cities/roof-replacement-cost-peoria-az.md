@@ -50,7 +50,7 @@ National averages frequently undercount the real cost of Arizona roofing because
 Additional regional factors:
 
 - **Cool roof requirements.** The City of Peoria enforces Title 24-aligned energy codes that require minimum solar reflectance on re-roofing projects. This affects product selection and adds cost.
-- **Monsoon preparation.** The [National Weather Service defines the Arizona monsoon season](https://www.weather.gov/psr/Monsoon) as June 15 through September 30. Contractors price in additional flashing and sealant work to handle the abrupt shift from dry heat to heavy, wind-driven rain.
+- **Monsoon preparation.** The National Weather Service defines the Arizona monsoon season as June 15 through September 30. Contractors price in additional flashing and sealant work to handle the abrupt shift from dry heat to heavy, wind-driven rain.
 - **Permit fees.** Peoria building permits for residential re-roofing are required and typically add $150 to $400 to project cost depending on scope.
 
 ---
@@ -95,7 +95,7 @@ Clay tile is more expensive than concrete but lighter per unit and more resistan
 
 ### Architectural Asphalt Shingles
 
-Asphalt shingles cost significantly less upfront but carry a shorter lifespan in this climate. [The Department of Energy's roofing research](https://www.energy.gov/energysaver/energy-efficient-home-design/cool-roofs) confirms that dark-colored asphalt roofs in high-solar-gain climates absorb heat that transfers into living spaces, increasing cooling loads. If you choose asphalt, select a Class 4 impact-resistant product rated for high-wind and UV exposure, and budget for replacement within 15 to 20 years.
+Asphalt shingles cost significantly less upfront but carry a shorter lifespan in this climate. The Department of Energy's roofing research confirms that dark-colored asphalt roofs in high-solar-gain climates absorb heat that transfers into living spaces, increasing cooling loads. If you choose asphalt, select a Class 4 impact-resistant product rated for high-wind and UV exposure, and budget for replacement within 15 to 20 years.
 
 ### Spray Polyurethane Foam (SPF)
 

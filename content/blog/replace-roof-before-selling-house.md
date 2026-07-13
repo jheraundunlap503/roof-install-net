@@ -50,9 +50,9 @@ Getting a pre-listing roof inspection from a licensed contractor before your hom
 
 ## Do lenders require a certain roof condition to approve a loan?
 
-Yes, in some cases. FHA and VA loans have specific property condition standards that appraisers must assess. [HUD's Single Family Housing Policy Handbook](https://www.hud.gov/program_offices/housing/sfh/handbook_references) requires that roofs have a remaining physical life of at least 2 years to be eligible for FHA financing. If an FHA appraiser determines the roof has less than 2 years of remaining life, the loan cannot close until the roof is repaired or replaced.
+Yes, in some cases. FHA and VA loans have specific property condition standards that appraisers must assess. HUD's Single Family Housing Policy Handbook requires that roofs have a remaining physical life of at least 2 years to be eligible for FHA financing. If an FHA appraiser determines the roof has less than 2 years of remaining life, the loan cannot close until the roof is repaired or replaced.
 
-[Fannie Mae's Selling Guide](https://www.fanniemae.com/guidance/selling-guide) similarly requires that the property be in a condition that does not jeopardize the health and safety of occupants or the security of the property. Appraisers marking a roof as near end-of-life or actively leaking can result in a required repair condition on a conventional loan.
+Fannie Mae's Selling Guide similarly requires that the property be in a condition that does not jeopardize the health and safety of occupants or the security of the property. Appraisers marking a roof as near end-of-life or actively leaking can result in a required repair condition on a conventional loan.
 
 If your buyer pool is likely to include FHA or VA borrowers — common for homes in the $300,000 to $500,000 range in Maricopa County — a roof in poor condition is a real financing risk, not just an aesthetic objection.
 

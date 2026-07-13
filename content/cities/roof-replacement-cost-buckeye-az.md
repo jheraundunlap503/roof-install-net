@@ -108,7 +108,7 @@ Arizona building code requires a minimum of 30-pound felt or synthetic underlaym
 
 Manufacturers like [GAF](https://www.gaf.com) and [Owens Corning](https://www.owenscorning.com) publish heat and UV performance specifications for their shingle lines. Arizona homeowners should verify their chosen shingle carries at least a Class 3 impact rating to handle hail that accompanies monsoon thunderstorms.
 
-Reflective or "cool roof" products are worth considering in Buckeye. [ENERGY STAR's cool roof program](https://www.energystar.gov/products/building_products/roof_products/key_product_criteria) rates products that reflect more solar energy, which can reduce attic temperatures by 10 to 15 degrees Fahrenheit and lower cooling costs meaningfully in a city where summer electric bills are already high.
+Reflective or "cool roof" products are worth considering in Buckeye. ENERGY STAR's cool roof program rates products that reflect more solar energy, which can reduce attic temperatures by 10 to 15 degrees Fahrenheit and lower cooling costs meaningfully in a city where summer electric bills are already high.
 
 For tile roofs, ask contractors about foam-set versus mortar-set hip and ridge caps. Foam-set systems have become standard in new Buckeye construction because they resist moisture intrusion during monsoon-driven wind-driven rain better than traditional mortar.
 

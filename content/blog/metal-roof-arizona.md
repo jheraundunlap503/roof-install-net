@@ -68,9 +68,9 @@ Divided across a 50-year lifespan, metal's annualized cost can be competitive or
 
 ## Does metal roofing handle Arizona heat?
 
-Yes, when specified with the right coating. Solar reflectance is the key performance metric. [ENERGY STAR](https://www.energystar.gov/products/building_products) certifies metal roofing products that meet minimum solar reflectance and thermal emittance thresholds. Certified products reflect a larger share of incoming solar energy rather than absorbing it.
+Yes, when specified with the right coating. Solar reflectance is the key performance metric. ENERGY STAR certifies metal roofing products that meet minimum solar reflectance and thermal emittance thresholds. Certified products reflect a larger share of incoming solar energy rather than absorbing it.
 
-The [U.S. Department of Energy](https://www.energy.gov/energysaver/roofs) notes that cool roofs can reduce rooftop temperatures by up to 50 degrees Fahrenheit compared to conventional dark roofing. In Arizona, where summer roof surface temperatures routinely reach 155 to 165 degrees Fahrenheit, even a 30-degree reduction cuts radiant heat load into the attic and reduces air conditioning cycling.
+The U.S. Department of Energy notes that cool roofs can reduce rooftop temperatures by up to 50 degrees Fahrenheit compared to conventional dark roofing. In Arizona, where summer roof surface temperatures routinely reach 155 to 165 degrees Fahrenheit, even a 30-degree reduction cuts radiant heat load into the attic and reduces air conditioning cycling.
 
 Metal also releases absorbed heat quickly after sunset. Concrete tile retains heat well into evening hours. A metal roof cools rapidly once direct sun exposure ends, which provides a marginal advantage for nighttime comfort in homes with limited attic insulation.
 

@@ -47,7 +47,7 @@ Labor in the Phoenix metro East Valley typically runs $150–$250 per square on 
 
 Not every damaged or aging roof needs to come off. If less than 30% of your shingles are damaged, flashing is intact, and there is no deck rot, targeted repairs often extend roof life by five or more years at a fraction of replacement cost.
 
-The [National Roofing Contractors Association](https://www.nrca.net/roofing-knowledge/11/reroofing-considerations) recommends a full replacement when any of the following are present:
+The National Roofing Contractors Association recommends a full replacement when any of the following are present:
 
 - The roof has reached the end of its rated lifespan. In Apache Junction's climate, asphalt shingles typically last **15–20 years** rather than the 25–30 years rated in milder markets. Clay and concrete tile typically last **30–50 years** but require periodic mortar and underlayment attention.
 - Multiple leak points exist in different roof sections.
@@ -69,7 +69,7 @@ Several local factors push costs higher:
 
 **Pitch and complexity.** The Superstition Mountains backdrop means many Apache Junction homes have steeper or more complex roof lines than flat-valley subdivisions. Steeper pitches add 10–30% to labor costs because crews work slower and need additional safety equipment.
 
-**Monsoon preparation.** The [National Weather Service defines Arizona's monsoon season as June 15 through September 30](https://www.weather.gov/psr/Monsoon). Roofing in or around this window often requires ice-and-water shield or high-temp underlayment in valleys and penetrations to handle sudden, wind-driven rain. These upgrades add $500–$1,500 to a typical job but are worth it in this market.
+**Monsoon preparation.** The National Weather Service defines Arizona's monsoon season as June 15 through September 30. Roofing in or around this window often requires ice-and-water shield or high-temp underlayment in valleys and penetrations to handle sudden, wind-driven rain. These upgrades add $500–$1,500 to a typical job but are worth it in this market.
 
 **Permit fees.** Apache Junction requires a roofing permit for full replacements. Permit fees typically run $150–$350 depending on project value. Your contractor should pull this permit; if they offer to skip it, walk away.
 
@@ -85,11 +85,11 @@ Several local factors push costs higher:
 
 Concrete and clay tile dominate Apache Junction for good reason: they handle UV radiation and heat far better than asphalt, last two to three times longer, and align with the Southwest architectural aesthetic. However, asphalt remains competitive for budget-conscious homeowners who plan to sell within 10–15 years.
 
-**Concrete tile** is the pragmatic choice. It costs less than clay, performs well in heat, and [meets Arizona's Title 24-equivalent energy standards](https://www.energy.gov/eere/buildings/building-energy-codes) when installed with proper ventilation. Expect a 40–50 year lifespan in this climate with minimal maintenance.
+**Concrete tile** is the pragmatic choice. It costs less than clay, performs well in heat, and meets Arizona's Title 24-equivalent energy standards when installed with proper ventilation. Expect a 40–50 year lifespan in this climate with minimal maintenance.
 
 **Clay tile** offers superior longevity and curb appeal but costs 20–40% more than concrete. It is worth the premium if you plan to stay in the home long-term or are in a higher-value neighborhood where buyers expect it.
 
-**Architectural asphalt shingles** are a reasonable choice if budget is the primary constraint. Look for shingles rated Class 4 impact-resistant and with a solar-reflective "cool roof" coating. The [ENERGY STAR program maintains a list of qualified roofing products](https://www.energystar.gov/productfinder/product/certified-roof-products/) that can help lower cooling costs in the extreme Arizona summer.
+**Architectural asphalt shingles** are a reasonable choice if budget is the primary constraint. Look for shingles rated Class 4 impact-resistant and with a solar-reflective "cool roof" coating. The ENERGY STAR program maintains a list of qualified roofing products that can help lower cooling costs in the extreme Arizona summer.
 
 **Metal roofing** is gaining traction in Apache Junction, particularly standing-seam steel or aluminum. Metal reflects heat aggressively, handles high winds well, and carries 40–70 year lifespans. The upfront cost is high, but the lifecycle cost competes favorably with tile.
 

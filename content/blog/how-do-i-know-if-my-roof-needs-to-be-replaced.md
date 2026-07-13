@@ -70,7 +70,7 @@ See [roof repair vs. replacement](/blog/roof-repair-vs-replacement/) for a cost 
 
 **Mold or mildew in the attic**: Visible mold growth indicates sustained moisture from a roof penetration. [NOAA data](https://www.weather.gov/psr/) shows Phoenix metro receives 90% of its annual rainfall between June 15 and September 30 — a concentrated moisture window that accelerates attic mold growth when the roof is compromised.
 
-**High cooling bills**: A deteriorating roof with compromised insulation or ventilation allows heat to transfer into the living space. A meaningful spike in summer cooling costs on an aging roof can indicate the system is failing. The [DOE recommends](https://www.energy.gov/energysaver/why-attic-ventilation-matters) 1 square foot of net free ventilation per 150 square feet of attic floor space — inadequate ventilation accelerates both shingle and underlayment failure.
+**High cooling bills**: A deteriorating roof with compromised insulation or ventilation allows heat to transfer into the living space. A meaningful spike in summer cooling costs on an aging roof can indicate the system is failing. The DOE recommends 1 square foot of net free ventilation per 150 square feet of attic floor space — inadequate ventilation accelerates both shingle and underlayment failure.
 
 ## When is repair the right answer instead of replacement?
 

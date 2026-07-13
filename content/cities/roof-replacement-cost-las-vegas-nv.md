@@ -63,7 +63,7 @@ Nevada building code allows a maximum of two roofing layers on most residential 
 
 ### Permit Fees in Clark County
 
-Clark County and the City of Las Vegas both require permits for roof replacements. Permit fees typically run $150 to $450 depending on project valuation. Any contractor who suggests skipping the permit to save money is putting your homeowner's insurance coverage and future home sale at legal risk. The [Clark County Building Department](https://www.clarkcountynv.gov/government/departments/building/index.php) posts current fee schedules online.
+Clark County and the City of Las Vegas both require permits for roof replacements. Permit fees typically run $150 to $450 depending on project valuation. Any contractor who suggests skipping the permit to save money is putting your homeowner's insurance coverage and future home sale at legal risk. The Clark County Building Department posts current fee schedules online.
 
 ---
 
@@ -113,7 +113,7 @@ You likely DO need a full replacement if:
 - Your tile underlayment is original and over 20 years old, even if the tiles themselves look intact (underlayment failure is the hidden cost in Las Vegas tile roofs)
 - The roof deck has widespread soft spots or rot discovered during inspection
 
-The [NRCA's guidance on roof inspections](https://www.nrca.net/roofing-knowledge/inspecting-your-roof) is a useful starting point for understanding what a professional inspector should be evaluating. Get at least two independent inspections before committing to a full replacement on a roof under 20 years old.
+The NRCA's guidance on roof inspections is a useful starting point for understanding what a professional inspector should be evaluating. Get at least two independent inspections before committing to a full replacement on a roof under 20 years old.
 
 ---
 

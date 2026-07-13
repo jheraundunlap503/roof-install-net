@@ -28,7 +28,7 @@ Here is why this matters more in the East Valley than almost anywhere else in th
 
 - **Deck temperatures.** An unventilated attic in Chandler or Mesa can reach 160°F to 175°F on a July afternoon. That heat cooks the asphalt binders out of shingles from underneath, shortening a product rated for 25-30 years down to 15-18 years in practice.
 - **Monsoon moisture.** Between June 15 and September 30, Arizona's monsoon season pumps significant humidity into attic spaces through soffit gaps, recessed lights, and HVAC penetrations. Without exhaust ventilation, that moisture lingers, feeds mold, and degrades wood decking.
-- **Cooling load.** The [U.S. Department of Energy notes that proper attic ventilation can reduce cooling costs](https://www.energy.gov/energysaver/radiant-barriers) by limiting radiant heat transfer into conditioned space — a meaningful dollar amount when you are running a 4-ton AC unit from May through October.
+- **Cooling load.** The U.S. Department of Energy notes that proper attic ventilation can reduce cooling costs by limiting radiant heat transfer into conditioned space — a meaningful dollar amount when you are running a 4-ton AC unit from May through October.
 
 The bottom line: attic ventilation in Arizona is doing triple duty against heat, UV degradation, and seasonal moisture all at once.
 
@@ -40,7 +40,7 @@ The bottom line: attic ventilation in Arizona is doing triple duty against heat,
 
 The International Residential Code, adopted in Arizona, requires a minimum net free ventilation area (NFVA) of 1 square foot of vent area for every 150 square feet of attic floor space, reducible to 1:300 if at least 50% of the required area is located in the upper portion of the attic. Most Arizona roofers and inspectors treat 1:150 as the baseline for desert climates given the extreme thermal load.
 
-The [National Roofing Contractors Association (NRCA) recommends balanced ventilation](https://www.nrca.net/roofing-knowledge/11/ventilation) — meaning roughly equal amounts of intake area at the soffit and exhaust area near the ridge. Here is how that breaks down for a typical East Valley home:
+The National Roofing Contractors Association (NRCA) recommends balanced ventilation — meaning roughly equal amounts of intake area at the soffit and exhaust area near the ridge. Here is how that breaks down for a typical East Valley home:
 
 | Home Size (sq ft) | Attic Floor Area (approx) | Min NFVA at 1:150 |
 |---|---|---|
@@ -66,7 +66,7 @@ Here is a practical breakdown of the main options:
 
 ### Ridge Vents
 
-Ridge vents run the full length of the ridge and provide continuous low-profile exhaust. They work best on gable and standard hip roofs with adequate ridge length. Look for products with external weather filters rated for wind-driven rain, since monsoon storms can push horizontal rain at ridge openings. Brands like GAF Cobra and Owens Corning VentSure publish [manufacturer installation documentation](https://www.owenscorning.com/en-us/roofing/products/ventilation) specifying net free area per linear foot, which you can use to calculate whether a proposed installation meets code.
+Ridge vents run the full length of the ridge and provide continuous low-profile exhaust. They work best on gable and standard hip roofs with adequate ridge length. Look for products with external weather filters rated for wind-driven rain, since monsoon storms can push horizontal rain at ridge openings. Brands like GAF Cobra and Owens Corning VentSure publish manufacturer installation documentation specifying net free area per linear foot, which you can use to calculate whether a proposed installation meets code.
 
 ### Solar-Powered Attic Fans
 
@@ -91,7 +91,7 @@ The most common signs are high summer utility bills, a second-floor that never c
 Walk through this checklist:
 
 - **Touch test.** On a hot afternoon, go into the attic. If the temperature feels immediately oppressive and you cannot feel any airflow near soffit vents or ridge vents, the system is not moving air.
-- **Shingle cupping.** Shingles that curl upward at the edges from the underside are often a sign of excessive deck heat, not just age. [The NRCA's technical guidance on shingle failure modes](https://www.nrca.net/roofing-knowledge/11/ventilation) distinguishes between age-related granule loss and heat-accelerated degradation.
+- **Shingle cupping.** Shingles that curl upward at the edges from the underside are often a sign of excessive deck heat, not just age. The NRCA's technical guidance on shingle failure modes distinguishes between age-related granule loss and heat-accelerated degradation.
 - **Soffit blockage.** In many East Valley homes built in the 1990s and early 2000s, blown-in insulation has covered the soffit vent baffles, effectively eliminating intake air. This is a $200-$400 fix, not a $15,000 roof replacement.
 - **Dark staining on decking.** Brown or black staining on plywood sheathing near the ridge indicates moisture condensation. During monsoon season, humidity can hit 50-60% in Phoenix attics — without exhaust, that moisture has nowhere to go.
 - **Pest entry.** Damaged or missing soffit vents are a primary entry point for roof rats, which are a documented issue in [Maricopa County communities according to Maricopa County Environmental Services](https://www.maricopa.gov/3815/Roof-Rats).

@@ -143,7 +143,7 @@ Concrete and clay tile are the dominant choice in the Phoenix metro for good rea
 
 For flat-roof sections, which are common on Phoenix ranch homes and casitas, spray polyurethane foam (SPF) with a reflective elastomeric coating is a proven performer. The reflective coating directly addresses Arizona's UV index, which regularly exceeds 11, the maximum level on the EPA's UV index scale. [The EPA's UV Index public resource](https://www.epa.gov/sunsafety/uv-index-scale-0) confirms that UV exposure at this level degrades organic roofing materials at an accelerated rate.
 
-If budget requires asphalt shingles, choose architectural (laminate) shingles rated Class 3 or Class 4 impact-resistant and carry a manufacturer warranty of at least 30 years. Look for shingles with a high Solar Reflectance Index (SRI) score, which can meaningfully reduce attic temperatures and lower cooling costs. [ENERGY STAR certified roofing products](https://www.energystar.gov/products/building_products/residential_roofing) list qualifying shingles by brand and SKU.
+If budget requires asphalt shingles, choose architectural (laminate) shingles rated Class 3 or Class 4 impact-resistant and carry a manufacturer warranty of at least 30 years. Look for shingles with a high Solar Reflectance Index (SRI) score, which can meaningfully reduce attic temperatures and lower cooling costs. ENERGY STAR certified roofing products list qualifying shingles by brand and SKU.
 
 For more on choosing the right material for East Valley homes, see our [Arizona roofing materials comparison](/blog/arizona-roofing-materials/).
 

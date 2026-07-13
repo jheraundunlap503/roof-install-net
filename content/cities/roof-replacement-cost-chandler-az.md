@@ -55,7 +55,7 @@ Contractors charge $50 to $150 per square to remove and dispose of your old roof
 
 ### Material Quality and Manufacturer Specs
 
-The [National Roofing Contractors Association](https://www.nrca.net/roofing-knowledge/technical-resources) notes that material costs typically represent 40 to 60 percent of a total replacement invoice. In Chandler, contractors often recommend Class 4 impact-rated shingles or concrete tile because monsoon hail and high-velocity winds can exceed 60 mph during storm events. Upgrading to a manufacturer's Class A fire-rated system also matters here given the regional wildfire interface risk.
+The National Roofing Contractors Association notes that material costs typically represent 40 to 60 percent of a total replacement invoice. In Chandler, contractors often recommend Class 4 impact-rated shingles or concrete tile because monsoon hail and high-velocity winds can exceed 60 mph during storm events. Upgrading to a manufacturer's Class A fire-rated system also matters here given the regional wildfire interface risk.
 
 ### Labor and Contractor Overhead
 

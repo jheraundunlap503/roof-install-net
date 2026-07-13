@@ -58,7 +58,7 @@ If your existing shingle roof is under 12 years old, is not actively leaking, an
 
 **Is metal roofing a good choice for Arizona's heat and monsoon season?** Metal roofing is an excellent choice for Arizona when properly installed with reflective coatings. Standing seam metal with a cool-roof coating can reflect up to 70% of solar radiation, significantly reducing attic temperatures.
 
-Metal expands and contracts with temperature swings, which is manageable with concealed fastener systems. Exposed fastener panels can develop leaks over time as rubber grommets degrade from UV exposure. [The U.S. Department of Energy's Energy Efficiency resources](https://www.energy.gov/energysaver/cool-roofs) confirm that cool metal roofing can reduce cooling energy use by 10 to 25% in hot climates like Arizona's.
+Metal expands and contracts with temperature swings, which is manageable with concealed fastener systems. Exposed fastener panels can develop leaks over time as rubber grommets degrade from UV exposure. The U.S. Department of Energy's Energy Efficiency resources confirm that cool metal roofing can reduce cooling energy use by 10 to 25% in hot climates like Arizona's.
 
 Metal is also one of the better options for monsoon resilience. Properly installed standing seam panels shed water efficiently and resist the wind uplift forces that accompany haboobs and monsoon storm cells.
 
@@ -106,7 +106,7 @@ The other risk is flashing and sealant failure. Sealants around chimneys, skylig
 
 **Do cool roofing materials actually reduce energy bills in Phoenix?** Yes, and the savings are measurable. Reflective roofing surfaces, particularly white TPO membranes and cool-rated tile finishes, can reduce attic temperatures by 20 to 30 degrees Fahrenheit, which translates to lower air conditioning loads during the months when electricity costs peak.
 
-The [U.S. Department of Energy](https://www.energy.gov/energysaver/cool-roofs) estimates 10 to 15% cooling savings for residential cool roofs in hot climates. For a Phoenix home running air conditioning nine months of the year, that is a real number. The [Remodeling Magazine Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/) consistently shows roofing projects in the Southwest delivering above-average resale value returns partly because buyers recognize energy performance.
+The U.S. Department of Energy estimates 10 to 15% cooling savings for residential cool roofs in hot climates. For a Phoenix home running air conditioning nine months of the year, that is a real number. The [Remodeling Magazine Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/) consistently shows roofing projects in the Southwest delivering above-average resale value returns partly because buyers recognize energy performance.
 
 Arizona's APS and SRP utility programs have historically offered rebates for cool roof installations. Check current program availability before your project, as these programs change annually.
 

@@ -50,7 +50,7 @@ Three types are common on Arizona residential roofs:
 
 **Self-adhering rubberized asphalt (ice-and-water shield)**: A peel-and-stick modified bitumen membrane used at eaves, valleys, pipe penetrations, and around skylights rather than across the full deck. It provides the highest level of waterproofing at the most vulnerable transition points. While code-required at eaves only in cold climates, it is considered best practice at all penetrations in Arizona regardless of local mandate.
 
-The [U.S. Department of Energy](https://www.energy.gov/energysaver/roofs) notes that a complete roof system performs better than any single component. The combination of a reflective outer material and a quality underlayment reduces both heat gain and moisture risk over the life of the roof.
+The U.S. Department of Energy notes that a complete roof system performs better than any single component. The combination of a reflective outer material and a quality underlayment reduces both heat gain and moisture risk over the life of the roof.
 
 ## How long does roofing underlayment last in Arizona?
 

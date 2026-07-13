@@ -61,7 +61,7 @@ Online portal available. Residential re-roofing permit fees are based on project
 Online and in-person. Standard residential re-roofing typically processes in 3–7 business days. Gilbert requires contractor ROC number on permit application.
 
 **City of Chandler**
-[Chandler Building Division](https://www.chandleraz.gov/government/departments/community-development/building-division)
+Chandler Building Division
 Online permit portal. Residential re-roof permits typically process in 3–5 business days. Chandler inspections require 24-hour advance notice scheduling.
 
 **City of Tempe**
@@ -73,7 +73,7 @@ Online and walk-in. Tempe processes most residential re-roof permits same day to
 Online portal available. Processing time similar to Gilbert: 3–7 business days for standard residential re-roof.
 
 **City of Scottsdale**
-[Scottsdale Development Services](https://www.scottsdaleaz.gov/development-services)
+Scottsdale Development Services
 Online permit portal. Known for more detailed plan review on HOA-governed properties.
 
 **Unincorporated Maricopa County** (homes outside any city boundary)

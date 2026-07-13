@@ -165,7 +165,7 @@ Key milestones:
 6. New or reset roofing material installation (day 2 to 4)
 7. Inspection by municipality if permit was pulled (scheduled after completion)
 
-Always verify your contractor has pulled the required permit before work starts. You can verify permit status through [Maricopa County's permit portal](https://www.maricopa.gov/5059/Building-Permits) or your specific city's building department.
+Always verify your contractor has pulled the required permit before work starts. You can verify permit status through Maricopa County's permit portal or your specific city's building department.
 
 ---
 

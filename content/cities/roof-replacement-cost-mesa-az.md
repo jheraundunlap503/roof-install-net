@@ -47,7 +47,7 @@ A few Arizona-specific cost drivers:
 
 **UV degradation.** The Phoenix metro regularly records a [UV index above 11](https://www.epa.gov/sunsafety/uv-index-scale-0), classified as "extreme," for months at a time. At that level, asphalt binder in shingles oxidizes faster, which shortens the functional lifespan to 15 to 20 years rather than the 25 to 30 years shingles might last in the Pacific Northwest.
 
-**Monsoon season (June 15 through September 30).** [NOAA's Southwest monsoon data](https://www.weather.gov/psr/Monsoon) shows that the Phoenix metro receives the majority of its annual rainfall in intense, short bursts during this window. Wind-driven rain at 40 to 60 mph exposes any existing flashing failures or underlayment gaps quickly. Scheduling a replacement before June or after October avoids working around monsoon risk.
+**Monsoon season (June 15 through September 30).** NOAA's Southwest monsoon data shows that the Phoenix metro receives the majority of its annual rainfall in intense, short bursts during this window. Wind-driven rain at 40 to 60 mph exposes any existing flashing failures or underlayment gaps quickly. Scheduling a replacement before June or after October avoids working around monsoon risk.
 
 **Thermal expansion.** Roof deck temperatures in Mesa regularly exceed 160 degrees Fahrenheit in July and August. This causes repeated expansion and contraction cycles that stress fasteners and field adhesive on tile systems.
 
@@ -71,7 +71,7 @@ Ask your contractor to show each of the following as a separate line item:
 - **Manufacturer warranty registration fee** (sometimes separate)
 - **Workmanship warranty** -- Arizona's Registrar of Contractors requires licensed contractors to honor a two-year workmanship warranty minimum
 
-The [Remodeling Magazine Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/cost-vs-value-report.aspx) consistently shows roofing among the highest-ROI projects for resale, which means cutting corners on materials to chase the lowest bid often costs more at sale time.
+The Remodeling Magazine Cost vs. Value Report consistently shows roofing among the highest-ROI projects for resale, which means cutting corners on materials to chase the lowest bid often costs more at sale time.
 
 ---
 
@@ -156,7 +156,7 @@ When comparing bids, do not automatically choose the lowest number. Compare what
 
 Key points:
 
-- Arizona is an [actual cash value vs. replacement cost value](https://www.usa.gov/homeowners-insurance) distinction state, and many insurers have shifted to ACV policies for roofs, meaning depreciation is subtracted from your payout
+- Arizona is an actual cash value vs. replacement cost value distinction state, and many insurers have shifted to ACV policies for roofs, meaning depreciation is subtracted from your payout
 - Hail events in the Mesa area are less frequent than in Texas or Colorado but do occur, particularly during monsoon season
 - Document damage with photos immediately after any storm event
 - Have a licensed contractor (not a door-to-door "storm chaser") perform the inspection before you file a claim

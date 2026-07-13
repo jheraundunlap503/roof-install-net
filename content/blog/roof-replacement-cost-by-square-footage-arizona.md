@@ -85,7 +85,7 @@ Several factors push the installed cost above the base range:
 
 **Deck condition.** Homes built before 1975 may have skip sheathing rather than solid plywood, which requires a solid overlay before new shingles can be installed. Moisture damage from past leaks can also require deck board replacement. Deck repairs add $1–$3 per square foot when needed.
 
-**Underlayment upgrade.** Transitioning from standard felt to synthetic underlayment — strongly recommended in Arizona's UV environment by the [NRCA](https://www.nrca.net/roofing-manual) — adds modest cost but extends the roof's effective lifespan by 10+ years. This should be standard on any Arizona re-roof quote; if a contractor is excluding it to hit a lower price, ask why.
+**Underlayment upgrade.** Transitioning from standard felt to synthetic underlayment — strongly recommended in Arizona's UV environment by the NRCA — adds modest cost but extends the roof's effective lifespan by 10+ years. This should be standard on any Arizona re-roof quote; if a contractor is excluding it to hit a lower price, ask why.
 
 **Pitch premium.** Steep roofs (above 6:12 pitch) require safety equipment, slower work pace, and more material waste. Pitches above 8:12 typically carry a $1–$2 per square foot surcharge.
 

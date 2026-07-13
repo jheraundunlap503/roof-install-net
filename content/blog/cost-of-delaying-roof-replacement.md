@@ -54,7 +54,7 @@ Two Arizona-specific conditions make delayed roof replacement more costly than i
 
 **Monsoon intensity**: Arizona's monsoon season runs roughly June through September, delivering concentrated rainfall after months of extreme heat. [NOAA's Storm Events Database](https://www.ncei.noaa.gov/stormevents/) documents significant wind, hail, and rain events across Maricopa County every monsoon season. A single event can deposit 1 to 2 inches of rain in under an hour — and a compromised roof that slowly absorbed moisture over a dry summer may leak dramatically once that rain arrives. The damage sustained in one monsoon night can exceed what gradual deterioration would have caused over an entire year.
 
-**Heat and thermal cycling**: Arizona roof surface temperatures exceed 155 degrees Fahrenheit in summer. That heat accelerates degradation of every roofing component. The [U.S. Department of Energy](https://www.energy.gov/energysaver/roofs) notes that roofing systems in high-solar-exposure climates age significantly faster than those in temperate climates. A roof that reaches end of life in Arizona has typically been subjected to more cumulative stress than the same product in a cooler region.
+**Heat and thermal cycling**: Arizona roof surface temperatures exceed 155 degrees Fahrenheit in summer. That heat accelerates degradation of every roofing component. The U.S. Department of Energy notes that roofing systems in high-solar-exposure climates age significantly faster than those in temperate climates. A roof that reaches end of life in Arizona has typically been subjected to more cumulative stress than the same product in a cooler region.
 
 ## How does delaying a roof replacement affect your insurance coverage?
 

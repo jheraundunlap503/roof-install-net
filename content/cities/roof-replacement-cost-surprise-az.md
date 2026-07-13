@@ -61,7 +61,7 @@ What's under the shingles matters. Surprise homes built in the 1990s and early 2
 
 ### Monsoon Season Scheduling
 
-[NOAA defines Arizona's monsoon season from June 15 through September 30](https://www.weather.gov/psr/Monsoon). Most Surprise contractors prefer to schedule replacements in October through May. If you need a replacement during monsoon season, budget an extra day or two of labor for weather delays and confirm your contract specifies how partial days are billed. Blowing dust and afternoon storms can halt a crew mid-project.
+NOAA defines Arizona's monsoon season from June 15 through September 30. Most Surprise contractors prefer to schedule replacements in October through May. If you need a replacement during monsoon season, budget an extra day or two of labor for weather delays and confirm your contract specifies how partial days are billed. Blowing dust and afternoon storms can halt a crew mid-project.
 
 ---
 
@@ -95,7 +95,7 @@ This is the section most roofing companies skip because repairs pay less. Here i
 - Shingles curling or cupping roof-wide
 - Age: architectural shingles past 18 years in Surprise's climate deserve a close inspection at minimum
 
-The [National Roofing Contractors Association](https://www.nrca.net/roofing-knowledge/consumer-resources) recommends professional inspections every two years in high-UV climates. In Surprise, a $150 to $250 inspection from a licensed inspector with no replacement agenda is money well spent before committing to a $15,000 project.
+The National Roofing Contractors Association recommends professional inspections every two years in high-UV climates. In Surprise, a $150 to $250 inspection from a licensed inspector with no replacement agenda is money well spent before committing to a $15,000 project.
 
 See our [roof repair vs. replacement decision guide](/blog/roof-repair-vs-replacement/) for a more detailed walkthrough.
 
@@ -109,7 +109,7 @@ A concrete tile re-roof on a 2,000 sq ft Surprise home typically lands between $
 
 ### Why Tile Lasts Longer in Arizona Than Asphalt
 
-Tile's thermal mass actually works in Arizona's favor. It absorbs daytime heat and releases it slowly, reducing the rapid expansion and contraction cycles that crack asphalt binder. [Arizona State University's urban heat research](https://sustainability.asu.edu/urban-climate/) consistently shows tile roofs maintaining surface integrity longer in high-UV desert environments. Most concrete tile manufacturers warranty their product for 50 years, with [manufacturer documentation from Boral Roofing](https://www.boral.com/en-us/products/roofing/) confirming performance ratings specific to Desert Southwest climate zones.
+Tile's thermal mass actually works in Arizona's favor. It absorbs daytime heat and releases it slowly, reducing the rapid expansion and contraction cycles that crack asphalt binder. Arizona State University's urban heat research consistently shows tile roofs maintaining surface integrity longer in high-UV desert environments. Most concrete tile manufacturers warranty their product for 50 years, with manufacturer documentation from Boral Roofing confirming performance ratings specific to Desert Southwest climate zones.
 
 One important note: tile is often not the full "roof." The waterproofing is provided by the underlayment beneath the tiles. In Surprise homes, 20-year-old tile roofs often have sound tiles sitting over a failed felt or synthetic underlayment. You may be paying for a re-felt rather than a full tile replacement. Ask contractors to be specific about what they are replacing.
 
@@ -128,7 +128,7 @@ A complete written estimate should specify: total squares being replaced, materi
 - Requests for more than 30 to 40 percent upfront before materials are on site
 - No physical address or ROC license number on the contract
 
-Storm chasing is real in the West Valley after monsoon events. The Arizona Attorney General's office has issued advisories about [contractor fraud following storm damage](https://www.azag.gov/consumer-protection/home-repair). If a contractor pressures you to sign before your insurance adjuster visits, walk away.
+Storm chasing is real in the West Valley after monsoon events. The Arizona Attorney General's office has issued advisories about contractor fraud following storm damage. If a contractor pressures you to sign before your insurance adjuster visits, walk away.
 
 ### Getting Multiple Bids
 

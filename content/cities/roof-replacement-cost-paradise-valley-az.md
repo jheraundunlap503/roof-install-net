@@ -43,7 +43,7 @@ These estimates reflect 2025–2026 Phoenix metro labor rates and do not include
 
 **Contractor labor rates in Paradise Valley run 10 to 20 percent higher than in neighboring Mesa or Chandler because of longer drive times, stricter town permitting, and the complexity of high-end rooflines. The Town of Paradise Valley also has specific code requirements that affect material approvals and inspection timelines.**
 
-The [Town of Paradise Valley Building Safety Division](https://www.paradisevalleyaz.gov/departments/building-safety) requires permits for all roof replacements, and inspections are mandatory before a job is considered closed. Contractors who are unfamiliar with local procedures often underestimate permit lead times, which can delay your project by a week or more.
+The Town of Paradise Valley Building Safety Division requires permits for all roof replacements, and inspections are mandatory before a job is considered closed. Contractors who are unfamiliar with local procedures often underestimate permit lead times, which can delay your project by a week or more.
 
 Beyond permitting, many Paradise Valley estates feature roofs with steep pitches above 7:12. Steep-slope work requires additional fall protection equipment and slower installation, both of which add labor hours. According to [NRCA installation guidelines](https://www.nrca.net), steep-slope roofing carries a defined safety and labor premium that legitimately shows up in your quote.
 

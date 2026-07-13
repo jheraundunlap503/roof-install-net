@@ -96,7 +96,7 @@ Common warranty voids:
 
 **Installation by a non-certified contractor**: Manufacturer system warranties (Silver Pledge, Golden Pledge, and equivalents) require installation by a certified contractor. Using a non-certified installer means you cannot access the enhanced warranty regardless of what the contractor tells you.
 
-**Improper ventilation**: Most manufacturer warranties require adequate attic ventilation meeting code minimums. A roof installed over an under-ventilated attic — common in Arizona where ventilation is often undersized — may have manufacturer warranty claims denied on grounds of ventilation failure. The [DOE recommends](https://www.energy.gov/energysaver/why-attic-ventilation-matters) 1 sq ft of net free ventilation area per 150 sq ft of attic floor space. Get a ventilation assessment before or during a re-roof.
+**Improper ventilation**: Most manufacturer warranties require adequate attic ventilation meeting code minimums. A roof installed over an under-ventilated attic — common in Arizona where ventilation is often undersized — may have manufacturer warranty claims denied on grounds of ventilation failure. The DOE recommends 1 sq ft of net free ventilation area per 150 sq ft of attic floor space. Get a ventilation assessment before or during a re-roof.
 
 **Unauthorized repairs**: If another contractor modifies or repairs the roof after initial installation, both the manufacturer warranty and workmanship warranty are typically voided in the repaired area. Document any post-installation work carefully and notify both the manufacturer and original contractor before allowing work by a third party.
 

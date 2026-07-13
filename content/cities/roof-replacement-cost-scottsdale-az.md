@@ -47,11 +47,11 @@ Scottsdale's extreme UV exposure, monsoon season demands, and tile-dominant hous
 
 ### UV Index and Heat Loading
 
-Scottsdale regularly sees a [UV index above 11](https://www.weather.gov/fgz/UV) — the "extreme" classification from the National Weather Service. This level of solar radiation degrades asphalt binders faster than in cooler climates, which is one reason the [National Roofing Contractors Association (NRCA)](https://www.nrca.net/) notes that shingle lifespans in the Sun Belt fall 20-30% shorter than manufacturer ratings suggest under typical conditions. When a contractor specifies materials for a Scottsdale roof, heat-rated underlayments and reflective coatings are not optional extras; they are practical requirements.
+Scottsdale regularly sees a UV index above 11 — the "extreme" classification from the National Weather Service. This level of solar radiation degrades asphalt binders faster than in cooler climates, which is one reason the [National Roofing Contractors Association (NRCA)](https://www.nrca.net/) notes that shingle lifespans in the Sun Belt fall 20-30% shorter than manufacturer ratings suggest under typical conditions. When a contractor specifies materials for a Scottsdale roof, heat-rated underlayments and reflective coatings are not optional extras; they are practical requirements.
 
 ### Monsoon Season Damage Window
 
-Arizona's monsoon season runs officially from June 15 through September 30, per [NOAA's designation](https://www.noaa.gov/education/resource-collections/weather-atmosphere/monsoons). High winds, driving rain, and hail during this period are the leading causes of sudden roof failure that triggers unplanned replacement. Homeowners who notice granule loss in gutters or daylight showing through decking after a storm should get an inspection before the next monsoon cycle begins.
+Arizona's monsoon season runs officially from June 15 through September 30, per NOAA's designation. High winds, driving rain, and hail during this period are the leading causes of sudden roof failure that triggers unplanned replacement. Homeowners who notice granule loss in gutters or daylight showing through decking after a storm should get an inspection before the next monsoon cycle begins.
 
 ### Tile Weight and Structural Considerations
 
@@ -100,7 +100,7 @@ Asphalt shingles are the most affordable option upfront but carry the shortest l
 
 ### Concrete and Clay Tile
 
-Tile dominates Scottsdale's residential roofing market for good reason: it handles UV exposure and heat better than virtually any other common material, and its thermal mass helps reduce cooling loads. [Energy Star-rated tile products](https://www.energystar.gov/productfinder/product/certified-roof-products/) can qualify for federal tax credits under current residential energy efficiency provisions. The main cost risk with tile is the underlayment; most tile roofs in Scottsdale need underlayment replacement every 20-25 years even if the tile itself remains intact.
+Tile dominates Scottsdale's residential roofing market for good reason: it handles UV exposure and heat better than virtually any other common material, and its thermal mass helps reduce cooling loads. Energy Star-rated tile products can qualify for federal tax credits under current residential energy efficiency provisions. The main cost risk with tile is the underlayment; most tile roofs in Scottsdale need underlayment replacement every 20-25 years even if the tile itself remains intact.
 
 ### Foam (SPF) Roofing
 
@@ -108,7 +108,7 @@ Spray polyurethane foam is common on flat and low-slope Scottsdale homes, partic
 
 ### Metal Roofing
 
-Metal is growing in Scottsdale's higher-end new construction and remodel market. Standing-seam metal reflects more solar radiation than tile or shingles and can earn Energy Star certification. Installed costs are high, but lifespan projections of 40-70 years from manufacturers like [Firestone Metal Products](https://www.firestonebpco.com/) make the math work for homeowners who intend to stay long-term or build resale value.
+Metal is growing in Scottsdale's higher-end new construction and remodel market. Standing-seam metal reflects more solar radiation than tile or shingles and can earn Energy Star certification. Installed costs are high, but lifespan projections of 40-70 years from manufacturers like Firestone Metal Products make the math work for homeowners who intend to stay long-term or build resale value.
 
 ---
 

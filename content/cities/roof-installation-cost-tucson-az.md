@@ -79,7 +79,7 @@ The [Remodeling Magazine Cost vs. Value Report](https://www.remodeling.hw.net/co
 
 **Is tile worth the higher upfront cost in Tucson?** For most homeowners planning to stay more than 10 years, yes. A concrete tile roof installed today at $13,000 on a 2,000 sq ft home amortizes to roughly $325 to $433 per year over 30 to 40 years. The same home with architectural shingles at $9,000 amortizes to $450 to $600 per year over 15 to 20 years. Tile also adds measurable curb appeal and resale value in neighborhoods where it is the expected standard.
 
-The key maintenance note: tile itself rarely fails, but the [underlayment beneath tile typically requires replacement every 20 to 25 years](https://www.nrca.net/roofing-knowledge/roof-systems), even when the tile looks fine. A tile re-underlayment project costs significantly less than a full replacement.
+The key maintenance note: tile itself rarely fails, but the underlayment beneath tile typically requires replacement every 20 to 25 years, even when the tile looks fine. A tile re-underlayment project costs significantly less than a full replacement.
 
 ### Flat and Low-Slope Roofs
 

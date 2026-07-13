@@ -65,7 +65,7 @@ Age doesn't determine the answer — it shifts the math. Use these ranges as a s
 - **20+ years (shingles)**: Replacement is typically the right call; repair money is deferred replacement spend
 - **15–25 years (tile with original underlayment)**: Underlayment inspection required before deciding; tile condition alone is not the deciding factor
 
-The [National Roofing Contractors Association](https://www.nrca.net/roofing-manual) publishes lifespan guidance by material type. Those numbers represent typical performance under normal conditions. Arizona UV load, heat, and monsoon stress generally push Arizona roofs toward the lower end of published ranges.
+The National Roofing Contractors Association publishes lifespan guidance by material type. Those numbers represent typical performance under normal conditions. Arizona UV load, heat, and monsoon stress generally push Arizona roofs toward the lower end of published ranges.
 
 ## What does roof repair cost in Arizona compared to replacement?
 
@@ -94,7 +94,7 @@ For localized repair needs in the East Valley, see our [Queen Creek roof repair 
 
 ## How does monsoon season affect the repair vs. replacement timeline?
 
-[Arizona's official monsoon season runs June 15 through September 30](https://www.weather.gov/psr/Monsoon), with peak storm activity in July and August. That window affects the repair-vs-replacement decision in two ways:
+Arizona's official monsoon season runs June 15 through September 30, with peak storm activity in July and August. That window affects the repair-vs-replacement decision in two ways:
 
 **Urgency changes if a storm just hit.** A storm that has exposed underlayment, broken multiple tiles, or created active interior water intrusion requires immediate temporary protection — tarping or emergency repair — regardless of whether the long-term answer is repair or replacement. Delaying even temporary mitigation to "wait and see" allows moisture to penetrate decking, insulation, and drywall.
 

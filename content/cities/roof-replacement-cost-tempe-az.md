@@ -83,7 +83,7 @@ Contractors price steep-slope work at a premium because it requires additional s
 
 ### Tear-Off and Decking
 
-Arizona's building code, governed by [the Arizona Department of Fire, Building and Life Safety](https://dfbls.az.gov/), generally follows the International Residential Code (IRC), which limits roof assemblies to two layers of material before a full tear-off is required. If your home already has two layers, you are looking at mandatory tear-off costs of $1,000 to $2,500 for an average home. Decking damage from moisture intrusion or dry rot adds further: expect $50 to $80 per sheet of plywood replacement.
+Arizona's building code, governed by the Arizona Department of Fire, Building and Life Safety, generally follows the International Residential Code (IRC), which limits roof assemblies to two layers of material before a full tear-off is required. If your home already has two layers, you are looking at mandatory tear-off costs of $1,000 to $2,500 for an average home. Decking damage from moisture intrusion or dry rot adds further: expect $50 to $80 per sheet of plywood replacement.
 
 ### Monsoon Season Timing
 
@@ -165,7 +165,7 @@ Most single-family home replacements in Tempe take one to three days for asphalt
 Scheduling between October and February can improve contractor availability and sometimes result in modest savings of 5 to 10 percent, since demand drops after monsoon season ends. However, material costs are largely consistent year-round, so the savings come primarily from labor.
 
 **Does roof color affect cost in Tempe?**
-Color itself does not significantly affect installation cost, but energy-efficient "cool roof" products with higher solar reflectance often carry a small price premium. Given Tempe's cooling loads, that premium can pay off in reduced energy bills. The [U.S. Department of Energy](https://www.energy.gov/energysaver/cool-roofs) provides guidance on cool roof performance in hot climates.
+Color itself does not significantly affect installation cost, but energy-efficient "cool roof" products with higher solar reflectance often carry a small price premium. Given Tempe's cooling loads, that premium can pay off in reduced energy bills. The U.S. Department of Energy provides guidance on cool roof performance in hot climates.
 
 **How many bids should I get for a roof replacement?**
 Get at least three written, itemized bids from ROC-licensed contractors. Be cautious of bids that are dramatically lower than the others without a clear explanation. A low bid that omits underlayment upgrades, proper flashing, or permit fees will cost you more in the long run.

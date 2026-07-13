@@ -37,7 +37,7 @@ On tile roofs, UV degrades the mortar that secures ridge tiles and the rubber pi
 
 **The leading cause of unexpected leaks on tile roofs in Arizona is underlayment failure — not the tile itself.**
 
-Tile roofs in Arizona commonly last 30–50 years. The felt underlayment beneath them lasts 15–20 years under desert UV and heat exposure. When underlayment fails, tile can appear intact from the ground while water freely enters the roof assembly during rain. The [NRCA](https://www.nrca.net/roofing-manual) recommends synthetic underlayment for new tile installations in high-UV climates specifically because synthetic products outperform organic felt in sustained heat and UV environments.
+Tile roofs in Arizona commonly last 30–50 years. The felt underlayment beneath them lasts 15–20 years under desert UV and heat exposure. When underlayment fails, tile can appear intact from the ground while water freely enters the roof assembly during rain. The NRCA recommends synthetic underlayment for new tile installations in high-UV climates specifically because synthetic products outperform organic felt in sustained heat and UV environments.
 
 Homes built in the 1990s and early 2000s throughout Mesa, Gilbert, Chandler, and Queen Creek used felt underlayment as standard. Many of those underlayments are now at or past their functional limit. A tile roof on a home in this era that has never had a full tear-off and underlayment replacement is a candidate for underlayment inspection regardless of whether leaks have appeared.
 
@@ -63,7 +63,7 @@ Common penetration failures:
 
 **Inadequate attic ventilation is a silent accelerant to every other failure mode on this list.**
 
-The [U.S. Department of Energy](https://www.energy.gov/energysaver/why-attic-ventilation-matters) recommends a minimum of 1 square foot of ventilation area per 150 square feet of attic floor space. When ventilation is inadequate, attic temperatures in Arizona can exceed 160°F in summer. That heat load transfers directly into the roofing assembly above, accelerating shingle oxidation, baking felt underlayment, and drying out sealants faster than they would degrade with proper airflow.
+The U.S. Department of Energy recommends a minimum of 1 square foot of ventilation area per 150 square feet of attic floor space. When ventilation is inadequate, attic temperatures in Arizona can exceed 160°F in summer. That heat load transfers directly into the roofing assembly above, accelerating shingle oxidation, baking felt underlayment, and drying out sealants faster than they would degrade with proper airflow.
 
 Poor ventilation also traps monsoon-season moisture. Warm, humid air from July storms that enters the attic and cannot escape condenses on the cooler underside of the roof deck, introducing moisture damage that has nothing to do with a visible roof leak.
 
@@ -71,7 +71,7 @@ Poor ventilation also traps monsoon-season moisture. Warm, humid air from July s
 
 ## 5. Monsoon wind and hail damage
 
-**[Arizona's monsoon season runs June 15 through September 30](https://www.weather.gov/psr/Monsoon), with peak storm activity in July and August. The storms that cause roof damage are not the light afternoon showers — they are the high-wind microburst events and hail-producing cells that track along the Superstition Mountain corridor into the East Valley.**
+**Arizona's monsoon season runs June 15 through September 30, with peak storm activity in July and August. The storms that cause roof damage are not the light afternoon showers — they are the high-wind microburst events and hail-producing cells that track along the Superstition Mountain corridor into the East Valley.**
 
 Wind damage on tile roofs most commonly lifts ridge and hip tiles where mortar has already degraded. On shingle roofs, wind above 60 mph can unseal the adhesive strip on standard architectural shingles. Hail damage to asphalt shingles creates impacts that remove granules and bruise the underlying mat — damage that accelerates UV degradation but may not produce leaks immediately.
 

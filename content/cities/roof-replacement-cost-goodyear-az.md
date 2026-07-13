@@ -61,7 +61,7 @@ Tear-off and disposal typically adds $1.00 to $2.50 per square foot. Arizona's [
 
 **Does the West Valley heat shorten how long a roof lasts?**
 
-Absolutely. The Phoenix metro regularly records a [UV Index of 11 or higher](https://www.epa.gov/sunsafety/uv-index-scale-0) during summer months, which accelerates asphalt shingle granule loss and oxidizes foam coatings faster than national averages. The [National Weather Service monsoon season runs June 15 through September 30](https://www.weather.gov/psr/Monsoon), bringing wind gusts that can lift improperly fastened shingles or tile. Because of these conditions:
+Absolutely. The Phoenix metro regularly records a [UV Index of 11 or higher](https://www.epa.gov/sunsafety/uv-index-scale-0) during summer months, which accelerates asphalt shingle granule loss and oxidizes foam coatings faster than national averages. The National Weather Service monsoon season runs June 15 through September 30, bringing wind gusts that can lift improperly fastened shingles or tile. Because of these conditions:
 
 - Asphalt shingles in Goodyear realistically last 15 to 20 years, not the 25 to 30 years advertised in cooler climates.
 - Concrete and clay tile last 30 to 50 years but require periodic underlayment replacement around the 20 to 25 year mark.
@@ -73,7 +73,7 @@ See our [guide to roofing materials for Arizona's desert climate](/blog/best-roo
 
 **Do you need a permit to replace a roof in Goodyear?**
 
-Yes. The [City of Goodyear Development Services](https://www.goodyearaz.gov/government/departments/development-services) requires a building permit for full roof replacements. Permit fees typically run $150 to $400 depending on project valuation. Any licensed contractor operating in Arizona must be registered with the [Arizona Registrar of Contractors](https://roc.az.gov/) — always verify your contractor's ROC number before signing a contract.
+Yes. The City of Goodyear Development Services requires a building permit for full roof replacements. Permit fees typically run $150 to $400 depending on project valuation. Any licensed contractor operating in Arizona must be registered with the [Arizona Registrar of Contractors](https://roc.az.gov/) — always verify your contractor's ROC number before signing a contract.
 
 ---
 

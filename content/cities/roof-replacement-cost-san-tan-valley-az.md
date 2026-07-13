@@ -102,7 +102,7 @@ Here are situations where replacement is the right call:
 - A tile roof where 20 percent or more of tiles are cracked, slipped, or broken and the underlayment is original
 - Insurance-required replacement after a hail or wind event
 
-[The NRCA recommends](https://www.nrca.net/roofing-knowledge/residential-roofing) that homeowners get at least two in-person estimates before committing to a full replacement, particularly when the recommendation comes from a door-to-door solicitor following a storm.
+The NRCA recommends that homeowners get at least two in-person estimates before committing to a full replacement, particularly when the recommendation comes from a door-to-door solicitor following a storm.
 
 See our [roof repair vs replacement decision guide](/blog/roof-repair-vs-replacement-az/) for a structured checklist you can use before calling contractors.
 
@@ -116,7 +116,7 @@ Concrete tile replacement in San Tan Valley runs $14,000 to $20,000 for a typica
 
 Many San Tan Valley homes built between 2000 and 2012 have concrete tile roofs where the tiles themselves are still in good condition but the underlayment beneath has failed. This is a documented failure pattern in Arizona, where intense UV exposure degrades felt underlayment within 10 to 15 years even when it is protected by tile above. In these cases, a tile reset (remove tiles, replace underlayment, reset tiles) may cost $8,000 to $13,000 and extend roof life by 20 or more years without purchasing new tile.
 
-If new tile is required, concrete tile is the dominant product in the market and is domestically produced. [Manufacturers like Boral](https://www.boralroofing.com/) offer products specifically rated for Arizona exposure conditions, including Class 4 impact resistance and high solar reflectance ratings that can contribute to energy savings under [ENERGY STAR certification criteria](https://www.energystar.gov/products/building_products/roof_products/key_product_criteria).
+If new tile is required, concrete tile is the dominant product in the market and is domestically produced. Manufacturers like Boral offer products specifically rated for Arizona exposure conditions, including Class 4 impact resistance and high solar reflectance ratings that can contribute to energy savings under ENERGY STAR certification criteria.
 
 A full tile replacement project cost breakdown typically looks like this:
 

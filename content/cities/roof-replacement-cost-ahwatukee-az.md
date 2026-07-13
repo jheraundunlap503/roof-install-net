@@ -62,7 +62,7 @@ See our breakdown of [how Arizona climate affects roofing material choices](/blo
 
 A standard concrete tile re-roof in Ahwatukee runs $13,000 to $19,000 installed. Clay tile costs more, often $16,000 to $22,000+. The good news: the tile itself is likely fine. Most Ahwatukee tile re-roofs replace the underlayment only, not the tile, which significantly reduces material cost.
 
-Ahwatukee's HOA landscape and the city's Spanish Colonial aesthetic mean tile is far and away the dominant roofing material. Homes built by Shea, Blandford, and other major Phoenix-area builders from the 1980s onward typically came with 40-year concrete tile from manufacturers like [Boral Roofing](https://www.boralamerica.com/) or Monier. Here is the critical point most contractors do not lead with: **the tile itself rarely fails.** What fails is the 15 to 20 year felt underlayment underneath.
+Ahwatukee's HOA landscape and the city's Spanish Colonial aesthetic mean tile is far and away the dominant roofing material. Homes built by Shea, Blandford, and other major Phoenix-area builders from the 1980s onward typically came with 40-year concrete tile from manufacturers like Boral Roofing or Monier. Here is the critical point most contractors do not lead with: **the tile itself rarely fails.** What fails is the 15 to 20 year felt underlayment underneath.
 
 A legitimate tile re-roof process in Ahwatukee looks like this:
 

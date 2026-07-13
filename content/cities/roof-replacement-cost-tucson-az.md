@@ -73,7 +73,7 @@ A standard 4:12 pitch is considered walkable and priced accordingly. Tucson's mi
 
 For most Tucson homeowners, tile wins on long-term value. Concrete or clay tile lasts 30–50 years in the desert, while asphalt shingles in southern Arizona typically hit end-of-life in 15–20 years due to UV and thermal cycling — meaning you may replace shingles twice before a tile roof needs attention.
 
-The [National Roofing Contractors Association recommends](https://www.nrca.net/resource/2186/download) considering full lifecycle cost rather than upfront price alone when selecting roofing materials for high-UV climates. On a per-year-of-service basis, tile often beats shingles even at twice the installed price.
+The National Roofing Contractors Association recommends considering full lifecycle cost rather than upfront price alone when selecting roofing materials for high-UV climates. On a per-year-of-service basis, tile often beats shingles even at twice the installed price.
 
 That said, not every home structurally supports the added weight of concrete or clay tile (8–12 lbs per sq ft versus 2–4 lbs for shingles). A structural assessment may be needed before switching material types, particularly on older wood-frame homes.
 
@@ -89,7 +89,7 @@ Monsoon season in Arizona runs June 15 through September 30, and it creates two 
 
 The best time to schedule a Tucson roof replacement is October through February. Temperatures are manageable for crews, demand is lower, and the risk of an exposed deck getting rained on mid-project is near zero.
 
-[NOAA's Tucson precipitation data](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/city/precipitation) shows that July and August regularly bring 1–3 inch storm events in short windows, which is exactly the scenario that causes water infiltration on a partially stripped roof. If your replacement cannot wait until fall, ask your contractor specifically about their mid-project moisture protection protocol.
+NOAA's Tucson precipitation data shows that July and August regularly bring 1–3 inch storm events in short windows, which is exactly the scenario that causes water infiltration on a partially stripped roof. If your replacement cannot wait until fall, ask your contractor specifically about their mid-project moisture protection protocol.
 
 ---
 

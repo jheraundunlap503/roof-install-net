@@ -91,7 +91,7 @@ See our full guide on [questions to ask a roofing contractor](/blog/questions-to
 
 ## Does Chandler also require a city permit?
 
-Yes — HOA approval and a city building permit are two separate requirements from two separate entities. The [City of Chandler Development Services](https://www.chandleraz.gov/services/development-services) department governs permit requirements and inspections for roofing work. A properly licensed contractor pulls the permit before work begins.
+Yes — HOA approval and a city building permit are two separate requirements from two separate entities. The City of Chandler Development Services department governs permit requirements and inspections for roofing work. A properly licensed contractor pulls the permit before work begins.
 
 Do not allow any contractor to start without confirming the permit is active. The permit ensures code-compliant installation and protects your roof warranty, insurance coverage, and resale title. See our [Arizona roofing contractor license guide](/blog/arizona-roofing-contractor-license) for what to verify before signing.
 

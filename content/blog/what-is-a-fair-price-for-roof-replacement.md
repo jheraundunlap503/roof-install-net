@@ -62,7 +62,7 @@ On a typical replacement, materials account for roughly 60 percent of the cost a
 
 ## When is a roof quote too low?
 
-A price well below two other written bids on the same scope is a warning sign, not a win. Suspiciously low quotes often mean the contractor is skipping tear-off, using a thin or omitted underlayment, carrying no workers' compensation insurance, or planning to inflate the price mid-job with "surprise" deck repairs. The [Federal Trade Commission](https://consumer.ftc.gov/articles/hiring-contractor) warns homeowners against contractors who demand large upfront deposits or pressure for an immediate signature, both common with lowball bait pricing. Verify any contractor's complaint history through the [Better Business Bureau](https://www.bbb.org/) before signing.
+A price well below two other written bids on the same scope is a warning sign, not a win. Suspiciously low quotes often mean the contractor is skipping tear-off, using a thin or omitted underlayment, carrying no workers' compensation insurance, or planning to inflate the price mid-job with "surprise" deck repairs. The Federal Trade Commission warns homeowners against contractors who demand large upfront deposits or pressure for an immediate signature, both common with lowball bait pricing. Verify any contractor's complaint history through the [Better Business Bureau](https://www.bbb.org/) before signing.
 
 ## When is a roof quote too high?
 

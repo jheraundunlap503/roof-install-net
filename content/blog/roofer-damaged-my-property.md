@@ -41,7 +41,7 @@ Follow these steps immediately:
 Common categories of contractor-caused damage include:
 
 - **Structural damage:** Broken rafters, cut trusses, or improper decking removal
-- **Interior water damage:** Leaks caused by an improperly sealed or tarped roof, especially critical in Phoenix during [monsoon season (June 15 through September 30)](https://www.weather.gov/psr/Monsoon) when a single storm can dump 1-3 inches of rain in under an hour
+- **Interior water damage:** Leaks caused by an improperly sealed or tarped roof, especially critical in Phoenix during monsoon season (June 15 through September 30) when a single storm can dump 1-3 inches of rain in under an hour
 - **Mechanical damage:** Crushed condenser units, broken attic vents, or damaged solar panels
 - **Exterior cosmetic damage:** Cracked stucco, broken gutters, dented fascia, or damaged siding
 - **Landscaping damage:** Smashed shrubs, broken irrigation heads, or lawn gouges from material drops or heavy equipment
@@ -72,7 +72,7 @@ Checklist for solid documentation:
 
 **Yes, if the damage is significant. A licensed third-party roofer or general contractor can provide a written assessment that separates pre-existing conditions from fresh damage, which protects you if the dispute escalates.**
 
-For roofing-specific damage, look for an [NRCA-affiliated contractor](https://www.nrca.net/roofing/find-a-roofing-contractor) who has no stake in the original project. Their written report can serve as evidence in an insurance claim, small claims court, or a Registrar of Contractors complaint.
+For roofing-specific damage, look for an NRCA-affiliated contractor who has no stake in the original project. Their written report can serve as evidence in an insurance claim, small claims court, or a Registrar of Contractors complaint.
 
 ---
 

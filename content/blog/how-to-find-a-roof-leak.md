@@ -49,7 +49,7 @@ Bring a bright flashlight, a marker or tape, and a helper if possible. Turn off 
 3. Look uphill from that mark for the actual penetration point
 4. Check around any pipe boots, vents, or electrical penetrations first — these fail more often than field shingles
 
-In Arizona's East Valley, attic temperatures regularly exceed 150°F from May through September. If your attic has poor ventilation, heat degradation accelerates sheathing and underlayment failure independent of storm damage. [The National Roofing Contractors Association recommends](https://www.nrca.net/roofing-knowledge/11/ventilation) a minimum 1:150 net free ventilation ratio for most residential roofs.
+In Arizona's East Valley, attic temperatures regularly exceed 150°F from May through September. If your attic has poor ventilation, heat degradation accelerates sheathing and underlayment failure independent of storm damage. The National Roofing Contractors Association recommends a minimum 1:150 net free ventilation ratio for most residential roofs.
 
 ---
 
@@ -104,7 +104,7 @@ In Arizona, most residential roofs are low-slope or have a pitch of 4:12 or less
 - Debris dams in valleys — leaves and dirt hold moisture against the surface
 - Fasteners that have backed out of ridge caps or hip caps
 
-[According to Owens Corning's installation documentation](https://www.owenscorning.com/roofing/installation), shingles in high-UV climates can lose protective granules 30 to 40 percent faster than manufacturer averages suggest, which means an Arizona asphalt shingle roof rated for 25 years may show end-of-life symptoms at 15 to 18 years. Granule loss in valleys and at penetrations is normal wear — it does not automatically mean the entire roof needs replacement.
+According to Owens Corning's installation documentation, shingles in high-UV climates can lose protective granules 30 to 40 percent faster than manufacturer averages suggest, which means an Arizona asphalt shingle roof rated for 25 years may show end-of-life symptoms at 15 to 18 years. Granule loss in valleys and at penetrations is normal wear — it does not automatically mean the entire roof needs replacement.
 
 ---
 
@@ -121,7 +121,7 @@ Flashing is installed in layers — base flashing, step flashing, and counter fl
 - Walls: look for step flashing that has been painted or caulked over rather than properly lapped
 - Valleys: metal valleys should have no visible gaps or lifted edges; open valleys that show bare metal should have intact paint or coating
 
-[The NRCA's roofing manual](https://www.nrca.net/roofing-knowledge) specifies that flashing should be inspected annually, especially after high-wind events. During Arizona's monsoon season (June 15 through September 30), storms with gusts exceeding 60 mph are not uncommon in the East Valley and can lift flashing that was marginal before the storm. If your flashing pulled away in a monsoon, repair it before the next rain event rather than waiting for a full contractor visit.
+The NRCA's roofing manual specifies that flashing should be inspected annually, especially after high-wind events. During Arizona's monsoon season (June 15 through September 30), storms with gusts exceeding 60 mph are not uncommon in the East Valley and can lift flashing that was marginal before the storm. If your flashing pulled away in a monsoon, repair it before the next rain event rather than waiting for a full contractor visit.
 
 ---
 

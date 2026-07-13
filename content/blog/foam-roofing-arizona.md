@@ -37,7 +37,7 @@ Foam handles the flat-to-low-slope rooflines common across Phoenix, Scottsdale, 
 - Conforms to irregular surfaces and covers flashings without mechanical fasteners
 - Can often be applied over an existing single-layer roof when the substrate is sound
 
-The [U.S. Department of Energy](https://www.energy.gov/energysaver/roofs) notes that improving roof insulation directly reduces HVAC demand, which matters in Arizona where cooling can run eight to nine months of the year. Closed-cell SPF provides roughly R-6 per inch, meaning a 2-inch application adds approximately R-12 to the roof assembly.
+The U.S. Department of Energy notes that improving roof insulation directly reduces HVAC demand, which matters in Arizona where cooling can run eight to nine months of the year. Closed-cell SPF provides roughly R-6 per inch, meaning a 2-inch application adds approximately R-12 to the roof assembly.
 
 [NOAA's climate data](https://www.ncei.noaa.gov/cdo-web/) shows Phoenix averages about 299 sunny days per year, one of the highest totals in the United States. Every additional point of R-value in that environment translates to measurable cooling savings.
 
@@ -73,7 +73,7 @@ For a full checklist of what to ask before you hire, see [questions to ask a roo
 
 ## Is foam roofing energy efficient in Arizona heat?
 
-Yes. Foam's R-value reduces conductive heat transfer through the roof deck, and a reflective topcoat reduces solar absorption at the surface. [ENERGY STAR](https://www.energystar.gov/products/building_products) certifies roofing products, including reflective coatings, that meet minimum solar reflectance thresholds.
+Yes. Foam's R-value reduces conductive heat transfer through the roof deck, and a reflective topcoat reduces solar absorption at the surface. ENERGY STAR certifies roofing products, including reflective coatings, that meet minimum solar reflectance thresholds.
 
 The [EPA's cool roof and heat island reduction program](https://www.epa.gov/heatislands/using-cool-roofs-reduce-heat-islands) notes that cool roof surfaces can run 50 to 60 degrees Fahrenheit cooler than dark conventional surfaces on a hot sunny day. In Arizona, where roof surface temperatures regularly exceed 155 to 165 degrees Fahrenheit in July, a reflective foam coating reduces radiant heat load into the attic and cuts air conditioning demand.
 

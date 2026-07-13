@@ -92,7 +92,7 @@ Use our [free estimator](/estimator/) to get a baseline replacement cost to comp
 
 ## How much can a cool roof save on energy in Arizona?
 
-The [U.S. Department of Energy](https://www.energy.gov/energysaver/cool-roofs) documents that reflective roof coatings can reduce roof surface temperatures by 50–60°F on a peak summer day. For a Phoenix metro home with flat roof sections over living space, that temperature reduction translates to a meaningful cooling load reduction.
+The U.S. Department of Energy documents that reflective roof coatings can reduce roof surface temperatures by 50–60°F on a peak summer day. For a Phoenix metro home with flat roof sections over living space, that temperature reduction translates to a meaningful cooling load reduction.
 
 Realistic Arizona energy savings from cool roof coating:
 
@@ -102,7 +102,7 @@ Realistic Arizona energy savings from cool roof coating:
 
 The savings are most significant on single-story homes where the flat roof sits directly above living space with no attic buffer. Two-story homes with flat garage sections or entryways see smaller overall savings because the affected area is a smaller fraction of the total conditioned space.
 
-[ENERGY STAR](https://www.energystar.gov/products/building_products/roof_products/key_product_criteria) certifies cool roof products that meet minimum solar reflectance and thermal emittance standards. ENERGY STAR certified products typically qualify for utility rebate programs.
+ENERGY STAR certifies cool roof products that meet minimum solar reflectance and thermal emittance standards. ENERGY STAR certified products typically qualify for utility rebate programs.
 
 ## Do SRP or APS offer cool roof rebates in Arizona?
 

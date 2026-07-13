@@ -46,13 +46,13 @@ When in doubt, call the building department for your specific city before work b
 Each incorporated city in Maricopa County issues its own permits. Key contacts for the most common Phoenix metro cities:
 
 - **Phoenix**: City of Phoenix Planning and Development Department
-- **Chandler**: [City of Chandler Development Services](https://www.chandleraz.gov/services/development-services)
+- **Chandler**: City of Chandler Development Services
 - **Gilbert**: Town of Gilbert Building Safety Division
 - **Mesa**: City of Mesa Building and Safety
 - **Scottsdale**: City of Scottsdale Building Safety
 - **Tempe**: City of Tempe Community Development
 
-Unincorporated Maricopa County areas fall under [Maricopa County Building and Safety](https://www.maricopa.gov/287/Building-Safety), which is a separate department from the city-level offices.
+Unincorporated Maricopa County areas fall under Maricopa County Building and Safety, which is a separate department from the city-level offices.
 
 ## Who pulls the roofing permit — the contractor or the homeowner?
 

@@ -151,7 +151,7 @@ If you are unsure whether your damage justifies a claim, a paid inspection from 
 
 Yes. The combination of sustained UV exposure at an index of 11 or higher, extreme thermal cycling between day and night temperatures, and monsoon wind and rain accelerates material degradation compared to national averages. Asphalt shingles rated for 30 years often perform closer to 15 to 20 years in this environment.
 
-Queen Creek's elevation (around 1,400 feet) gives it slightly cooler temperatures than central Phoenix, but the UV load and monsoon exposure are nearly identical. The National Roofing Contractors Association notes that [UV radiation is the primary cause of asphalt shingle degradation](https://www.nrca.net/roofing-knowledge-center) in hot-dry climates, ahead of hail and wind in terms of cumulative damage.
+Queen Creek's elevation (around 1,400 feet) gives it slightly cooler temperatures than central Phoenix, but the UV load and monsoon exposure are nearly identical. The National Roofing Contractors Association notes that UV radiation is the primary cause of asphalt shingle degradation in hot-dry climates, ahead of hail and wind in terms of cumulative damage.
 
 Practical steps Queen Creek homeowners can take to extend roof life:
 
