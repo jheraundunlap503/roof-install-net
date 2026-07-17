@@ -20,7 +20,7 @@ pexels_photo_id: 34756467
 
 ---
 
-Manufacturer lifespan ratings are written for conditions that do not describe Arizona. A shingle rated "30-year" is rated in conditions that include moderate sun, standard temperature cycling, and limited UV load. In Phoenix, Chandler, Scottsdale, and Mesa, summer roof surface temperatures exceed 150°F, UV radiation runs at 9–10 on the index scale for most of the year, and thermal cycling — expansion and contraction — happens daily. These conditions compress every lifespan estimate.
+Manufacturer lifespan ratings are written for conditions that do not describe Arizona. A shingle rated "30-year" is rated in conditions that include moderate sun, standard temperature cycling, and limited UV load. In Phoenix, Chandler, Scottsdale, and Mesa, summer roof surface temperatures exceed 150°F, [UV radiation runs at 9–10 on the index scale for most of the year](https://forecast.weather.gov/product.php?site=CRH&issuedby=CAC&product=UVI&format=ci&version=1&glossary=1), and thermal cycling — expansion and contraction — happens daily. These conditions compress every lifespan estimate.
 
 The useful question is not "how long is this rated for?" but "how long does it actually last in this climate?"
 
@@ -30,13 +30,13 @@ The useful question is not "how long is this rated for?" but "how long does it a
 
 **15–20 years** for standard architectural shingles. Premium luxury shingles with enhanced UV coatings can reach 20–25 years. Three-tab shingles at the low end often fail in 12–15 years.
 
-The national average for architectural shingles is 25–30 years. Arizona's UV load and heat degradation cut that roughly in half. At 150°F+ surface temperatures, the asphalt binder that holds ceramic granules to the shingle softens and releases granules progressively. Once granule loss accelerates, the underlying asphalt layer is exposed to direct UV, and degradation accelerates further.
+[The national average for architectural shingles is 25–30 years](https://www.nachi.org/life-expectancy.htm). Arizona's UV load and heat degradation cut that roughly in half. At 150°F+ surface temperatures, the asphalt binder that holds ceramic granules to the shingle softens and releases granules progressively. Once granule loss accelerates, the underlying asphalt layer is exposed to direct UV, and degradation accelerates further.
 
 Shingles also expand and contract with daily temperature swings — from 150°F surface in summer to 40°F overnight in winter — and the cumulative mechanical stress causes cracking along shingle edges and at fastener points over time.
 
 ## How long does a tile roof last in Arizona?
 
-**Tile itself: 50+ years.** Clay tile can exceed 100 years in some cases. Concrete tile runs 40–60 years. The tile material is not what fails in Arizona.
+**Tile itself: 50+ years.** [Clay tile can exceed 100 years in some cases](https://www.tileroofing.org/durability--longevity.html). [Concrete tile runs 40–60 years](https://sfb.az.gov/sites/default/files/2022-04/07%2032%2016%20-%20Concrete%20Tile%20FINAL.pdf). The tile material is not what fails in Arizona.
 
 **The underlayment beneath the tile: 15–20 years.** Standard felt underlayment dries out in Arizona's heat faster than in cooler climates — often closer to 12–15 years for older 15lb felt. When the underlayment fails, the tile looks completely fine from the ground while water is infiltrating the roof deck on every rain event.
 
@@ -93,7 +93,7 @@ A useful age-based framework:
 - **Under 10 years**: repair any isolated damage, no replacement needed
 - **10–15 years (shingles)**: repair if damage is isolated to one slope; begin budgeting for replacement within 5 years
 - **15+ years (shingles)**: get a professional condition assessment; replacement is likely within 2–3 years regardless of visible condition
-- **15–20 years (tile)**: underlayment is likely at end of life; get an inspection before the next monsoon season
+- **15–20 years (tile)**: [underlayment is likely at end of life; get an inspection before the next monsoon season](https://www.gaf.com/en-us/blog/your-home/understanding-residential-roof-repairs-how-do-i-know-if-my-roof-needs-to-be-replaced-734dcc7e-9074-4ef7-8ad4-e5297f93a8da)
 - **Any age with active leaks**: get a professional assessment immediately — undetected water intrusion causes decking damage that escalates cost quickly
 
 Our guide on [roof replacement costs in Arizona](/blog/roof-replacement-cost-arizona-2026/) has current per-square-foot pricing if you are ready to estimate the replacement budget.
@@ -109,7 +109,7 @@ The building permit for the original installation or any prior replacement is on
 It depends on the material. Dry air prevents the moss, algae, and moisture-related decay that shortens roof life in humid climates. But the UV load, heat, and thermal cycling are far more destructive than moisture for asphalt-based products. Net effect: tile, metal, and foam last longer than they would in a humid climate; asphalt shingles last shorter.
 
 **Does attic ventilation really extend roof life?**
-Yes, materially. Proper attic ventilation — calculated at 1 sq ft of vent area per 150 sq ft of attic floor space per IRC standards — reduces roof deck temperature and prevents heat from building up beneath the roofing material from below. An under-ventilated attic can add years of heat stress that shortens shingle life by 3–5 years. If your attic is not properly ventilated, it is worth addressing before your next roof replacement.
+Yes, materially. Proper attic ventilation — calculated at [1 sq ft of vent area per 150 sq ft of attic floor space per IRC standards](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf) — reduces roof deck temperature and prevents heat from building up beneath the roofing material from below. An under-ventilated attic can add years of heat stress that shortens shingle life by 3–5 years. If your attic is not properly ventilated, it is worth addressing before your next roof replacement.
 
 **Why does my tile roof look fine but my ceiling has stains?**
 Because tile does not fail — the underlayment beneath the tile does. Tile can look 100% intact from the ground while the dried underlayment lets water pass through on any significant rain event. Ceiling stains on a tile roof home almost always indicate underlayment failure, not cracked tile. The fix is a tile lift-and-relay, not full roof replacement.

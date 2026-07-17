@@ -16,11 +16,11 @@ pexels_photo_id: 3102321
 
 # Pre-Monsoon Roof Inspection Arizona: What to Check Before July
 
-**TLDR:** Arizona's official monsoon season runs June 15 through September 30, with the heaviest activity in July and August. A pre-monsoon roof inspection in May or June catches the two categories of problems that cause the most damage: failed flashing and deteriorated underlayment. Both are invisible from the ground and both fail catastrophically on first contact with sustained monsoon rain. This guide gives you a specific checklist of what homeowners can check from the ground, what requires a licensed roofer to assess safely, and what repair costs to budget if something is found.
+**TLDR:** [Arizona's official monsoon season runs June 15 through September 30](https://www.weather.gov/fgz/Monsoon), with the heaviest activity in July and August. A pre-monsoon roof inspection in May or June catches the two categories of problems that cause the most damage: failed flashing and deteriorated underlayment. Both are invisible from the ground and both fail catastrophically on first contact with sustained monsoon rain. This guide gives you a specific checklist of what homeowners can check from the ground, what requires a licensed roofer to assess safely, and what repair costs to budget if something is found.
 
 ---
 
-Arizona gets 40–50 monsoon storms per year. The majority pass without causing roof damage. The ones that do cause damage — typically the July and August events with sustained rainfall above half an inch per hour — exploit exactly the vulnerabilities that a May inspection would have caught: open flashing joints, dried-out pipe-jack seals, cracked tile mortar at ridges, and SPF foam coating that has reached the end of its recoat cycle.
+[Arizona gets 40–50 monsoon storms per year](https://www.weather.gov/fgz/monsooninfo). The majority pass without causing roof damage. The ones that do cause damage — typically the July and August events with sustained rainfall above half an inch per hour — exploit exactly the vulnerabilities that a May inspection would have caught: open flashing joints, dried-out pipe-jack seals, cracked tile mortar at ridges, and SPF foam coating that has reached the end of its recoat cycle.
 
 The cost difference between a $300 flashing repair in June and the water damage that results from an undetected flashing failure in August can reach $8,000–$20,000 in deck replacement, insulation replacement, and interior drywall remediation. The inspection math is not complicated.
 
@@ -52,11 +52,11 @@ Safe ground-level checks that do not require climbing:
 
 Do not walk your own roof for inspection purposes. The safety risk is real, and for tile roofs, foot traffic by an untrained person causes cracked tiles that then become new leak points.
 
-A professional inspection from a licensed R-42 contractor covers:
+[A professional inspection from a licensed R-42 contractor](https://roc.az.gov/license-classifications) covers:
 
 **Flashing at all penetrations.** Every point where something passes through the roof — vent pipes, skylights, AC lines, chimneys — is sealed with flashing and caulk. Arizona's heat causes flashing sealants to harden and crack over 3–7 years. A roofer checks each penetration for seal integrity and open gaps.
 
-**Pipe jacks.** The rubber boots around plumbing vent stacks are among the most frequently failed components on Arizona roofs. UV exposure and heat degrade the rubber in 5–8 years. A cracked or open pipe jack seal is a direct channel for rain water into the roof assembly.
+**Pipe jacks.** The rubber boots around plumbing vent stacks are among the most frequently failed components on Arizona roofs. [UV exposure and heat degrade the rubber in 5–8 years](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time). A cracked or open pipe jack seal is a direct channel for rain water into the roof assembly.
 
 **Valley condition.** Valleys — the internal angles where two roof slopes meet — carry the highest water volume during rain events. Metal valley flashing that has lifted or corroded is a common source of monsoon leaks.
 
@@ -87,7 +87,7 @@ A full pre-monsoon inspection from a licensed contractor typically runs $150–$
 Not for every storm. Post-storm checks from the ground make sense after any event with:
 
 - Measured hail 0.75 inches or larger (approximately dime size)
-- Sustained winds exceeding 50 mph
+- [Sustained winds exceeding 50 mph](https://www.weather.gov/twc/monsoonsafety)
 - Active visible damage: downed trees, branches on the roof, displaced tiles visible from ground
 
 For a storm that dropped rain without hail or extreme wind, a ground-level check of gutters, downspouts, and interior ceilings is sufficient. If the interior check reveals any new staining, schedule a professional inspection before the next storm event.

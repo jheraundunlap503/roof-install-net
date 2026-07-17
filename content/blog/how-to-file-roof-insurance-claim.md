@@ -30,7 +30,7 @@ Your very first step is to call a licensed roofing contractor for a professional
 
 ## How long do I have to file a claim in Arizona?
 
-Arizona homeowners typically have one year from the date of the storm to file a property damage claim. However, you should file as soon as possible. Delaying gives the insurance company a reason to argue the damage was caused by neglect or a separate event. According to the [Arizona Department of Insurance](https://difi.az.gov/), prompt reporting is always required by standard homeowner policies.
+[Arizona homeowners typically have one year from the date of the storm](https://difi.az.gov/insurance-storms-disasters) to file a property damage claim. However, you should file as soon as possible. Delaying gives the insurance company a reason to argue the damage was caused by neglect or a separate event. According to the [Arizona Department of Insurance](https://difi.az.gov/), [prompt reporting is always required by standard homeowner policies](https://difi.az.gov/consumers/homeowners-insurance).
 
 ## What should I say when I call my insurance company?
 
@@ -44,9 +44,9 @@ Yes, your roofing contractor must be present when the insurance adjuster inspect
 
 To get a fair payout, you need to understand your policy. Most Arizona policies offer Replacement Cost Value (RCV) or Actual Cash Value (ACV). 
 
-RCV policies cover the actual cost to install a brand new roof at today's prices, minus your deductible. This is the gold standard for homeowners. The insurance company writes an initial check for the depreciated value, then sends a second check once the work is completed.
+[RCV policies cover the actual cost to install a brand new roof at today's prices](https://www.iko.com/na/blog/things-homeowners-need-to-know-before-filing-a-roofing-insurance-claim/), minus your deductible. This is the gold standard for homeowners. The insurance company writes an initial check for the depreciated value, then sends a second check once the work is completed.
 
-ACV policies only pay out the depreciated value of your current roof. Since Arizona asphalt shingles degrade significantly faster due to intense UV load, an older roof might yield a very small payout under an ACV policy. [Remodeling Magazine's Cost vs Value Report](https://www.remodeling.hw.net/) shows that a new roof requires a significant investment, so knowing your policy type is critical. 
+[ACV policies only pay out the depreciated value of your current roof](https://www.iko.com/na/blog/things-homeowners-need-to-know-before-filing-a-roofing-insurance-claim/). Since Arizona asphalt shingles degrade significantly faster due to intense UV load, an older roof might yield a very small payout under an ACV policy. [Remodeling Magazine's Cost vs Value Report](https://www.remodeling.hw.net/) shows that a new roof requires a significant investment, so knowing your policy type is critical. 
 
 ## The Danger of Adjuster Lowballs
 
@@ -57,13 +57,13 @@ If the adjuster's estimate is thousands below your contractor's estimate, ask fo
 ## Frequently Asked Questions
 
 **Does a roof claim raise my insurance rates?**
-A single claim for an act of God like a monsoon or hail storm typically will not cause your specific premium to spike. However, insurance companies often raise rates for an entire zip code after a major weather event, regardless of whether you filed a claim personally.
+A single claim for an act of God like a monsoon or hail storm typically will not cause your specific premium to spike. However, [insurance companies often raise rates for an entire zip code after a major weather event](https://difi.az.gov/consumers/homeowners-insurance), regardless of whether you filed a claim personally.
 
 **Can I keep the insurance money and not fix the roof?**
 If you have an RCV policy, you cannot keep the full amount. The insurer holds back recoverable depreciation until they receive an invoice proving the work is finished. If you just keep the initial ACV check, your insurer will likely drop your coverage or exclude the roof from future policies.
 
 **What is my deductible and when do I pay it?**
-Your deductible is the out-of-pocket amount you are responsible for before insurance kicks in. You pay this directly to your roofing contractor once the job begins. It is actually illegal in Arizona for a roofer to waive or eat your insurance deductible. Have them verify their standing with the [Arizona Registrar of Contractors](https://roc.az.gov/).
+Your deductible is the out-of-pocket amount you are responsible for before insurance kicks in. You pay this directly to your roofing contractor once the job begins. It is actually [illegal in Arizona for a roofer to waive or eat your insurance deductible](https://difi.az.gov/insurance-storms-disasters). Have them verify their standing with the [Arizona Registrar of Contractors](https://roc.az.gov/).
 
 **How long does the insurance claim process take?**
 The entire process usually takes three to six weeks. The adjuster inspection happens within a week of filing, you receive an initial estimate a week later, and funds are disbursed shortly after. Scheduling the actual roof replacement depends on your contractor's availability.

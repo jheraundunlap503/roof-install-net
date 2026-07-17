@@ -61,7 +61,7 @@ Get the emergency provision language from your HOA management company before ass
 
 Three things can happen, and none are cheap:
 
-**1. Violation notice and fine.** Most East Valley HOAs can issue fines of $25–$100 per day for ongoing violations, which accumulate until the violation is resolved.
+**1. Violation notice and fine.** Most East Valley HOAs can issue [fines of $25–$100 per day for ongoing violations](https://www.gilbertaz.gov/departments/development-services/plan-review-inspection/inspection-code-compliance/code-compliance/code-compliance-ordinances-backflow-prevention), which accumulate until the violation is resolved.
 
 **2. Mandatory removal or replacement.** If you installed non-compliant material, the HOA can require you to remove it and replace it with the approved material at your expense. This means paying twice for the same job.
 
@@ -76,7 +76,7 @@ The most common version of this problem in Gilbert: a homeowner hires a contract
 A contract for HOA work in Gilbert or Chandler should specifically reference the community's ARC approval requirements and include:
 
 - The exact material specification matching what was submitted to the ARC
-- Confirmation that the contractor holds an active R-42 license (verify at [roc.az.gov](https://roc.az.gov))
+- Confirmation that the [contractor holds an active R-42 license](https://roc.az.gov/sites/default/files/2023-11/License%20Classification%20Requirements_6.8.20_0.pdf) (verify at [roc.az.gov](https://roc.az.gov))
 - A written clause stating work will not begin until written ARC approval is received
 - Documentation of the HOA approval letter or approval number
 
@@ -93,13 +93,13 @@ In some attached-unit communities (townhomes and condos), the HOA may be respons
 ## Frequently Asked Questions
 
 **Does Gilbert, AZ require a building permit for roof replacement in addition to HOA approval?**
-Yes. Roof replacement in Gilbert requires both an HOA ARC approval and a Town of Gilbert building permit. These are separate processes. Your contractor pulls the permit; you obtain the ARC approval. A legitimate contractor will handle the permit side automatically. Verify the permit was pulled by checking the Town of Gilbert online permit portal before work begins.
+Yes. [Roof replacement in Gilbert requires both an HOA ARC approval and a Town of Gilbert building permit](https://www.gilbertaz.gov/departments/development-services/plan-review-inspection/permits-applications). These are separate processes. Your contractor pulls the permit; you obtain the ARC approval. A legitimate contractor will handle the permit side automatically. Verify the permit was pulled by checking the Town of Gilbert online permit portal before work begins.
 
 **My neighbor replaced their roof last year. Can I use their contractor and material without going through ARC?**
 No. Each replacement requires its own ARC application, even if the material is identical. The ARC application documents that your specific roof was approved — which matters if there is ever a dispute about whether the work was authorized. Your neighbor's approved application does not cover your home.
 
 **What if the ARC denies my roof replacement application in Gilbert?**
-You have the right to appeal within a timeframe specified in your CC&Rs — typically 30 days. The appeal goes to the full HOA board. The most common grounds for denial are material mismatch and missing documentation. Fix the specific issue the ARC cited and resubmit. If you believe the denial is unreasonable, Arizona law allows homeowners to pursue mediation before litigation under the Arizona Planned Community Act (A.R.S. Title 33, Chapter 16).
+You have the right to appeal within a timeframe specified in your CC&Rs — typically 30 days. The appeal goes to the full HOA board. The most common grounds for denial are material mismatch and missing documentation. Fix the specific issue the ARC cited and resubmit. If you believe the denial is unreasonable, [Arizona law allows homeowners to pursue mediation before litigation under the Arizona Planned Community Act](https://www.gilbertaz.gov/departments/development-services/plan-review-inspection/inspection-code-compliance/code-compliance/faq-codes-covenants-regulations) (A.R.S. Title 33, Chapter 16).
 
 **Can I switch from tile to shingle in a Gilbert HOA community?**
 Only if the community's Architectural Standards explicitly permit shingle as an approved material. In most Gilbert HOA communities with concrete tile as the standard, shingle is not permitted as a replacement material regardless of cost or preference. If you need a more affordable option, inquire about a tile lift-and-relay — replacing just the underlayment while reusing existing tiles — which can cost $4.00–$6.50/sq ft compared to $9.65–$14.00 for full tile replacement.

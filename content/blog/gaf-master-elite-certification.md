@@ -26,7 +26,7 @@ When a roofing contractor tells you they are GAF Master Elite certified, they ar
 
 ## What is GAF Master Elite certification?
 
-GAF Master Elite is the top tier in GAF's three-level contractor certification program. GAF (General Aniline & Film, now one of the largest roofing materials manufacturers in North America) certifies contractors at three levels:
+GAF Master Elite is the top tier in GAF's three-level contractor certification program. GAF (General Aniline & Film, now one of the [largest roofing materials manufacturers in North America](https://www.gaf.com/en-us)) certifies contractors at three levels:
 
 - **GAF Certified**: Can offer System Plus Limited Warranty
 - **GAF Certified Plus**: Can offer Silver Pledge and System Plus warranties
@@ -36,19 +36,19 @@ Master Elite contractors must maintain a current state contractor's license (in 
 
 ## What percentage of contractors have GAF Master Elite status?
 
-According to GAF, fewer than 3% of roofing contractors in the United States hold Master Elite certification at any given time. In the Phoenix metro, the concentration of certified contractors is higher than the national average given the size of the market, but it is still a meaningful distinction — most contractors you encounter will not have it.
+According to GAF, [fewer than 3% of roofing contractors in the United States hold Master Elite certification](https://www.gaf.com/en-us/plan-design/homeowner-education/choose-gaf-roofer) at any given time. In the Phoenix metro, the concentration of certified contractors is higher than the national average given the size of the market, but it is still a meaningful distinction — most contractors you encounter will not have it.
 
 ## What is the GAF Golden Pledge warranty and why does it matter?
 
 The Golden Pledge Limited Warranty is the primary practical benefit of hiring a GAF Master Elite contractor. It covers:
 
 - **50-year non-prorated coverage** on qualifying GAF shingle systems
-- **25 years of workmanship coverage** — meaning the contractor's installation errors are covered, not just material defects
+- **[25 years of workmanship coverage](https://www.gaf.com/en-us/for-pros/contractors/roofer-certification)** — meaning the contractor's installation errors are covered, not just material defects
 - Transferable to one subsequent homeowner, which can support resale value
 
 The workmanship coverage is the important differentiator. Standard GAF warranties only cover material defects — if the shingles fail due to a manufacturer issue, GAF replaces them. The Golden Pledge extends coverage to how the shingles were installed. If a Master Elite contractor installs a qualifying system and a flashing leak develops due to poor installation in year 12, the Golden Pledge covers it. A standard warranty would not.
 
-To qualify for the Golden Pledge, the job must use a full GAF roofing system — not just shingles, but also GAF starter strips, ridge caps, underlayment, and ventilation products. This is a full-system requirement.
+To qualify for the Golden Pledge, the job must use a [full GAF roofing system — not just shingles, but also GAF starter strips, ridge caps, underlayment, and ventilation products](https://www.gaf.com/en-us/document-library/documents/other/residential-program-guidelines.pdf). This is a full-system requirement.
 
 ## Is GAF Master Elite certification just a sales program?
 
@@ -89,13 +89,13 @@ The jump from Certified to Master Elite in warranty value is significant. If you
 ## Frequently Asked Questions
 
 **How do I verify a contractor's GAF Master Elite status in Arizona?**
-Ask the contractor for their GAF certification number and verify it directly at GAF's contractor search tool on [gaf.com](https://www.gaf.com/en-us/plan-design/find-a-contractor). Also verify their ROC R-42 license at [roc.az.gov](https://roc.az.gov). Both should show current, active status.
+Ask the contractor for their GAF certification number and [verify it directly at GAF's contractor search tool](https://www.gaf.com/en-us/roofing-contractors/verify) on [gaf.com](https://www.gaf.com/en-us/plan-design/find-a-contractor). Also verify their ROC R-42 license at [roc.az.gov](https://roc.az.gov). Both should show current, active status.
 
 **Does a GAF Master Elite contractor cost more in Arizona?**
 Often 10–20% more than non-certified contractors, primarily because the Golden Pledge warranty requires full GAF system components (not just shingles) and the premium warranty carries a cost. Whether that premium is worth it depends on how long you plan to stay in the home and whether you value the workmanship coverage that the Golden Pledge provides.
 
 **Is the GAF warranty transferable if I sell my home?**
-The Golden Pledge warranty is transferable to one subsequent buyer. Transfer must be initiated within 60 days of the home sale. The workmanship coverage reduces to the balance of the original coverage period after transfer. This transferability can be a legitimate selling point in Arizona's resale market.
+[The Golden Pledge warranty is transferable to one subsequent buyer](https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/partner-programs-residential-program-guidelines.pdf). Transfer must be initiated within 60 days of the home sale. The workmanship coverage reduces to the balance of the original coverage period after transfer. This transferability can be a legitimate selling point in Arizona's resale market.
 
 **Can any contractor install GAF shingles, or only certified ones?**
 Any contractor can purchase and install GAF shingles. The certification is required only to offer the enhanced GAF warranties (System Plus, Silver Pledge, Golden Pledge). A non-certified contractor installing GAF shingles will offer you only the basic Shingle & Accessories Limited Warranty, which covers material defects but not workmanship.

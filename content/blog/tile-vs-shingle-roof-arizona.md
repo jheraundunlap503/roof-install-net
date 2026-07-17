@@ -39,9 +39,9 @@ On a 2,000 sq ft home with a typical Arizona low-slope roof measuring about 24 s
 
 ## How long does tile last vs shingles in Arizona?
 
-This is where the math inverts. Tile roofs — the tile itself — last 50+ years. The clay or concrete doesn't degrade in Arizona's sun the way asphalt does. The underlayment beneath the tile dries out in 15–20 years and needs replacement, but that is a $4.00–$6.50/sq ft lift-and-relay, not a full replacement.
+This is where the math inverts. Tile roofs — the tile itself — last 50+ years. The clay or concrete doesn't degrade in Arizona's sun the way asphalt does. The [underlayment beneath the tile dries out in 15–20 years and needs replacement](https://www.tileroofing.org/faqs.html), but that is a $4.00–$6.50/sq ft lift-and-relay, not a full replacement.
 
-Asphalt shingles are rated for 30 years nationally but deliver 15–20 years of actual lifespan in Arizona because UV exposure and summer roof surface temperatures above 150°F accelerate granule loss and asphalt degradation. Luxury shingles with better UV coatings push that toward 20–25 years.
+[Asphalt shingles are rated for 30 years nationally but deliver 15–20 years of actual lifespan in Arizona because UV exposure](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time) and [summer roof surface temperatures above 150°F accelerate granule loss and asphalt degradation](https://www.gaf.com/en-us/blog/your-home/how-hot-does-a-roof-get-in-the-summer-281474980248359). Luxury shingles with better UV coatings push that toward 20–25 years.
 
 The per-year cost math over 50 years:
 
@@ -72,7 +72,7 @@ See our full guide on [HOA roof replacement in Gilbert, AZ](/blog/hoa-roof-repla
 
 ## Does the structural weight difference matter for Arizona homes?
 
-Concrete tile weighs approximately 900–1,000 lbs per square (100 sq ft). Asphalt shingles weigh roughly 200–350 lbs per square. If you are switching from shingles to tile, your roof framing may not be engineered for the additional load.
+[Concrete tile weighs approximately 900–1,000 lbs per square](https://sfb.az.gov/sites/default/files/2022-04/07%2032%2016%20-%20Concrete%20Tile%20FINAL.pdf) (100 sq ft). [Asphalt shingles weigh roughly 200–350 lbs per square](https://sfb.az.gov/sites/default/files/2022-04/07%2031%2013%20-%20Asphalt%20Shingles%20FINAL.pdf). If you are switching from shingles to tile, your roof framing may not be engineered for the additional load.
 
 Most Arizona homes built in the 1990s onward with tile roofs are already designed for that weight. Homes built with original shingles may not be. If you are converting from shingle to tile, a structural engineer's assessment is required before installation — this adds $500–$1,500 to the project cost. If the framing needs reinforcement, the cost goes up from there.
 
@@ -100,7 +100,7 @@ Converting from tile to shingles is structurally simpler but, as noted above, of
 ## Frequently Asked Questions
 
 **Is tile or shingle better for Arizona's heat?**
-Tile performs better thermally in Arizona because the air gap between tiles allows heat to dissipate. Asphalt shingles trap heat against the roof deck. The difference shows up in attic temperature and cooling costs. Premium "cool roof" shingles with high solar reflectance close some of the gap, but tile still has the structural advantage in Arizona's sustained heat.
+Tile performs better thermally in Arizona because the air gap between tiles allows heat to dissipate. Asphalt shingles trap heat against the roof deck. The difference shows up in attic temperature and cooling costs. [Premium "cool roof" shingles with high solar reflectance close some of the gap](https://www.owenscorning.com/en-us/roofing/blog/types-of-roofing-shingles), but tile still has the structural advantage in Arizona's sustained heat.
 
 **How do I know if my Arizona home can handle tile weight?**
 If the home was originally built with tile, the framing is already rated for it. If the home was originally built with shingles, consult a structural engineer before switching to tile. Your roofer should flag this issue; if they don't, ask directly.

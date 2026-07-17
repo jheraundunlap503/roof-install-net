@@ -38,11 +38,11 @@ Per 2026 permit data analyzed by [Roof Observations](https://roofobservations.co
 - **Architectural/dimensional shingles:** $5.30/sq ft — about $9,000 for 1,700 sq ft
 - **Luxury/premium shingles:** $6.60/sq ft — about $11,200 for 1,700 sq ft
 
-All figures include tear-off and synthetic underlayment. Shingles are the most common choice in Arizona but carry the shortest lifespan — 15–20 years vs. 25–30 nationally — due to UV load and summer temperatures exceeding 150°F at the roof surface.
+All figures include tear-off and synthetic underlayment. [Shingles are the most common choice in Arizona](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost) but carry the shortest lifespan — 15–20 years vs. 25–30 nationally — due to UV load and summer temperatures exceeding 150°F at the roof surface.
 
 ## How much does tile roof replacement cost in Arizona?
 
-Tile is the dominant material in East Valley HOA communities and Scottsdale custom homes. Two pricing paths exist:
+[Tile is the dominant material in East Valley HOA communities and Scottsdale custom homes](https://www.gaf.com/en-us/roofing-contractors/residential/usa/az/scottsdale). Two pricing paths exist:
 
 - **Tile lift and relay (reuse existing tiles):** $4.00–$6.50/sq ft. The existing tiles are removed, the dried underlayment is replaced, and tiles are relaid. Only viable if tiles are intact and the color/style is still available. Saves $3,000–$8,000 vs. full replacement.
 - **Full tile replacement (new tiles):** $9.65–$14.00/sq ft depending on profile (concrete vs. clay, flat vs. S-curve). A 2,000 sq ft concrete tile roof runs $19,000–$28,000 installed. Clay tile runs 10–15% higher than concrete.
@@ -59,7 +59,7 @@ Foam pricing fluctuates based on the amount of tapered insulation required to co
 
 ## How much does metal roof replacement cost in Arizona?
 
-Metal is the fastest-growing category in Arizona due to lifespan (40–70 years) and energy performance. Three tiers:
+[Metal is the fastest-growing category in Arizona due to lifespan](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost) (40–70 years) and energy performance. Three tiers:
 
 - **Exposed fastener steel panels:** $7.10–$8.85/sq ft
 - **Metal shingles (steel, PVDF coated):** $9.05–$11.25/sq ft
@@ -77,13 +77,13 @@ Four factors account for most of the gap between your estimate and the final bil
 
 **2. Roof pitch and complexity.** Steeper roofs (8/12 pitch and above) add up to 30% to labor costs. Roofs with multiple penetrations, skylights, dormers, or complex hip-and-valley geometry add time and waste.
 
-**3. Permits and dump fees.** Legal replacements require permits in Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe. Permit fees run $150–$600 depending on city and project value. Haul-off for heavy tile adds $200–$500.
+**3. Permits and dump fees.** [Legal replacements require permits in Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe](https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/forms/re-roofinghandout.pdf?sfvrsn=12be0afa_1). Permit fees run $150–$600 depending on city and project value. Haul-off for heavy tile adds $200–$500.
 
 **4. Underlayment grade.** Standard 15lb felt paper dries out in 5 years in Arizona's heat. Quality bids specify high-heat synthetic underlayment. If your bid does not name the underlayment product, ask before signing.
 
 ## Should I do a layover or a full tear-off in Arizona?
 
-Always a full tear-off. Layovers — nailing new shingles over existing ones — are particularly damaging in Arizona because trapped heat between layers accelerates both old and new material degradation, voids manufacturer warranties, and adds structural weight to roof framing not designed for double load. They are also banned or restricted by code in several Arizona cities. Any contractor offering a layover as a cost-saving option is either cutting corners or working outside code compliance.
+Always a full tear-off. Layovers — nailing new shingles over existing ones — are particularly damaging in Arizona because trapped heat between layers accelerates both old and new material degradation, voids manufacturer warranties, and adds structural weight to roof framing not designed for double load. [They are also banned or restricted by code in several Arizona cities](https://www.scottsdaleaz.gov/codes-and-ordinances/building-codes). Any contractor offering a layover as a cost-saving option is either cutting corners or working outside code compliance.
 
 ## Does a new roof increase home value in Arizona?
 
@@ -106,7 +106,7 @@ Most single-family homes take 1–3 days. Tile roofs take longer than shingle du
 One roofing square = 100 sq ft of roof surface. Roof surface is larger than home square footage due to pitch — a 2,000 sq ft Arizona home at typical low slope typically has 22–28 squares of actual roof. Your contractor's bid should state the number of squares measured, not estimated.
 
 **How do I know if a roofing bid is fair?**
-Three things: it includes the specific underlayment product name, it states the ROC license number (verify at [roc.az.gov](https://roc.az.gov)), and it separates labor, materials, permit, and disposal as line items. Any bid that is a single dollar amount with no breakdown deserves a follow-up call before you sign. For more on spotting fraud, see our guide to [roofing scams in Arizona](/blog/roofing-scams-arizona/).
+Three things: it includes the specific underlayment product name, [it states the ROC license number](https://roc.az.gov/license-classifications) (verify at [roc.az.gov](https://roc.az.gov)), and it separates labor, materials, permit, and disposal as line items. Any bid that is a single dollar amount with no breakdown deserves a follow-up call before you sign. For more on spotting fraud, see our guide to [roofing scams in Arizona](/blog/roofing-scams-arizona/).
 
 ---
 

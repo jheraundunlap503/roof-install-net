@@ -30,13 +30,13 @@ The value question is secondary to the deal-certainty question.
 
 ## Does a new roof increase home value in Arizona?
 
-Yes, but the increase rarely equals the replacement cost. According to the [2025 Remodeling Magazine Cost vs. Value Report](https://zondahome.com/2025-cost-vs-value-report/), asphalt shingle roof replacement nationally recouped approximately 60–68% of its cost at resale. On a $15,000 replacement, that translates to roughly $9,000–$10,200 in recovered value.
+Yes, but the increase rarely equals the replacement cost. According to the [2025 Remodeling Magazine Cost vs. Value Report](https://zondahome.com/2025-cost-vs-value-report/), [asphalt shingle roof replacement nationally recouped approximately 60–68% of its cost at resale](https://www.iko.com/na/blog/does-a-new-roof-increase-home-value/). [On a $15,000 replacement, that translates to roughly $9,000–$10,200 in recovered value](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost).
 
 In Arizona, that recoup rate tends to track national averages, with the added benefit that a new roof removes a major inspection contingency in a market where buyers expect their agent to flag any roof older than 10–12 years.
 
 ## How much ROI does a roof replacement return in Arizona?
 
-On a concrete tile replacement costing $20,000, you might recover $12,000–$13,600 in sale price. On a $12,000 shingle replacement, roughly $7,200–$8,200. These are not renovation ROI numbers you pursue for profit — they are defensive numbers that protect the price you have already earned.
+On a concrete tile replacement costing $20,000, you might recover $12,000–$13,600 in sale price. [On a $12,000 shingle replacement, roughly $7,200–$8,200](https://www.iko.com/na/blog/how-much-does-a-new-roof-cost/). These are not renovation ROI numbers you pursue for profit — they are defensive numbers that protect the price you have already earned.
 
 A useful framing: if your roof is 18 years old and you list without replacing it, an experienced buyer's agent will flag it immediately. The resulting price reduction request will often exceed what a replacement would have cost, because buyers negotiate for more than the replacement cost when they are assuming the unknown.
 
@@ -52,7 +52,7 @@ Three reasons beyond aesthetics:
 
 ## How does Arizona's climate affect roof value at resale?
 
-Arizona roofs age faster than roofs in milder climates. Asphalt shingles rated for 30 years nationally typically deliver 15–20 years of actual lifespan here due to UV load and summer roof surface temperatures exceeding 150°F. This means a roof installed in 2010 is closer to the end of its functional life than the same roof in Ohio would be.
+Arizona roofs age faster than roofs in milder climates. Asphalt shingles rated for 30 years nationally typically deliver 15–20 years of actual lifespan here due to UV load and [summer roof surface temperatures exceeding 150°F](https://www.gaf.com/en-us/blog/your-home/does-a-new-roof-increase-home-value-c1f75513-1871-4d71-9510-7c24e90889ec). This means a roof installed in 2010 is closer to the end of its functional life than the same roof in Ohio would be.
 
 Buyers and their agents in Phoenix metro have become increasingly aware of this, particularly following the 2025 hail season and the visibility of insurer restrictions on older roofs. The practical effect: a roof that "looks fine" but is 17 years old carries more risk perception in this market than the physical condition alone might suggest.
 
@@ -65,7 +65,7 @@ Replacement does not pay off when:
 - You are selling to a cash investor or iBuyer who factors roof age into their algorithm regardless of recent replacement
 - The HOA or neighborhood has strict matching requirements that make a replacement more expensive than the value it would recover
 
-In these cases, a pre-listing roof inspection with a written report is often more useful than a full replacement. A clean inspection report from a licensed R-42 contractor removes the ambiguity without the cost.
+In these cases, a pre-listing roof inspection with a written report is often more useful than a full replacement. [A clean inspection report from a licensed R-42 contractor](https://roc.az.gov/license-classifications) removes the ambiguity without the cost.
 
 ---
 

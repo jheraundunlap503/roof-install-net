@@ -15,7 +15,7 @@ pexels_photo_id: 8853538
 
 # Can You Spray Foam Over an Old Roof in Arizona? The Honest Answer
 
-**TLDR:** Spray polyurethane foam (SPF) can be applied directly over most existing flat and low-slope roofing substrates — including built-up roofing, modified bitumen, single-ply membranes, metal, and concrete — as long as the existing surface is dry, structurally sound, and free of significant delamination. The one condition that always requires tear-off first is moisture in the existing assembly. A contractor who skips moisture testing before quoting an overlay is not giving you an accurate bid. In Arizona, foam overlay typically saves $1.00–$2.00 per square foot compared to tear-off and replacement.
+**TLDR:** Spray polyurethane foam (SPF) can be applied directly over most existing flat and low-slope roofing substrates — including built-up roofing, modified bitumen, single-ply membranes, metal, and concrete — as long as the existing surface is dry, structurally sound, and free of significant delamination. The one condition that always requires tear-off first is moisture in the existing assembly. A contractor who skips moisture testing before quoting an overlay is not giving you an accurate bid. In Arizona, [foam overlay typically saves $1.00–$2.00 per square foot compared to tear-off and replacement](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost).
 
 ---
 
@@ -23,7 +23,7 @@ The question comes up on nearly every Arizona flat roof project: can the existin
 
 ## What substrates can foam be applied over in Arizona?
 
-Foam bonds effectively to most commercial and residential flat roofing substrates when properly prepared:
+[Foam bonds effectively to most commercial and residential flat roofing substrates](https://www.nachi.org/polyurethane-spray-foam.htm) when properly prepared:
 
 **Built-up roofing (BUR)**: One of the most common existing substrates in Arizona. Foam adheres well to clean, dry BUR surfaces. Loose gravel must be removed and the surface swept and cleaned before application.
 
@@ -33,7 +33,7 @@ Foam bonds effectively to most commercial and residential flat roofing substrate
 
 **Single-ply membranes (TPO, EPDM, PVC)**: Foam can bond to most single-ply systems, but adhesion varies by membrane type and age. Some aged single-ply surfaces require a primer before foam application. Confirm with the foam manufacturer's technical documentation for the specific membrane.
 
-**Metal roofing (standing seam, corrugated)**: Foam adheres to metal substrates and is commonly used to add insulation and waterproofing to aging metal flat and low-slope roofs. Surface rust must be treated and the metal must be clean.
+**Metal roofing (standing seam, corrugated)**: [Foam adheres to metal substrates and is commonly used to add insulation and waterproofing](https://sfb.az.gov/sites/default/files/2022-04/07%2057%2013%20-%20Foam%20FINAL.pdf) to aging metal flat and low-slope roofs. Surface rust must be treated and the metal must be clean.
 
 **Concrete and masonry decks**: Foam bonds directly to concrete. Common on older commercial-style residential construction in Arizona. The surface must be clean, dry, and free of efflorescence.
 
@@ -69,7 +69,7 @@ When overlay is possible, it saves cost in two areas: tear-off labor and disposa
 | Foam with tear-off of existing single layer | $6.00 – $9.00 installed |
 | Foam with tear-off of multiple layers | $7.00 – $11.00 installed |
 
-Tear-off adds $1.00–$2.00 per square foot in labor plus $0.25–$0.75 per square foot in disposal costs, depending on existing material type and local disposal fees. On a 2,000 square foot flat roof, that's $2,500–$5,500 in additional cost when tear-off is required versus an overlay.
+[Tear-off adds $1.00–$2.00 per square foot in labor plus $0.25–$0.75 per square foot in disposal costs](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost), depending on existing material type and local disposal fees. [On a 2,000 square foot flat roof, that's $2,500–$5,500 in additional cost when tear-off is required](https://iko.com/blog/how-much-does-a-new-roof-cost) versus an overlay.
 
 This cost difference is why some contractors push for overlay when tear-off is actually warranted — the savings benefit their margin if they're pricing on a fixed bid. An honest contractor bases the recommendation on moisture test results, not on what's easier to sell.
 
@@ -77,7 +77,7 @@ Use our [free estimator](/estimator/) to get a baseline replacement cost before 
 
 ## What happens if foam is applied over a wet substrate?
 
-The failure is not immediate — which makes it more dangerous. Foam over a wet substrate may appear intact for 1–3 years before symptoms appear: soft spots, delamination at seams, bubbling visible in the topcoat, or leaks in areas where the foam has lost adhesion to the substrate beneath.
+The failure is not immediate — which makes it more dangerous. [Foam over a wet substrate may appear intact for 1–3 years before symptoms appear](https://www.nachi.org/polyurethane-spray-foam.htm): soft spots, delamination at seams, bubbling visible in the topcoat, or leaks in areas where the foam has lost adhesion to the substrate beneath.
 
 By that point, removal is the only fix. Wet foam cannot be dried in place and recoated — the entire assembly must come off, the deck must dry thoroughly, deck damage must be repaired, and new foam must be applied. The cost of correcting a foam-over-wet-substrate installation is 2–3x the cost of the original correct installation.
 
@@ -98,7 +98,7 @@ You typically can't tell from a visual inspection alone. A roof with no active i
 Possibly — age alone doesn't disqualify a modified bitumen substrate. The deciding factors are moisture content, adhesion of the existing membrane, and whether it has significant blistering or open seams. A 15-year-old mod-bit roof in Arizona has likely experienced UV stress and may have open laps that need sealing before foam goes over it. Inspection and moisture testing determine the answer, not the age.
 
 **My contractor wants to skip moisture testing to save time. Is that OK?**
-No. Moisture testing is the minimum due diligence step before any foam overlay. A contractor who skips it is either inexperienced or prioritizing schedule over your long-term outcome. If the test takes 30–60 minutes and the contractor won't do it, that's a disqualifying sign. Verify ROC license at [roc.az.gov](https://roc.az.gov/) and ask for references from overlay projects completed in the last 12 months.
+No. Moisture testing is the minimum due diligence step before any foam overlay. A contractor who skips it is either inexperienced or prioritizing schedule over your long-term outcome. If the test takes 30–60 minutes and the contractor won't do it, that's a disqualifying sign. [Verify ROC license at](https://roc.az.gov/) [roc.az.gov](https://roc.az.gov/) and ask for references from overlay projects completed in the last 12 months.
 
 **How long does foam last when applied over an existing roof vs. a clean deck?**
-Lifespan is determined by the quality of the foam application, the topcoat, and maintenance — not by whether there was an overlay or tear-off. A properly installed foam overlay over a dry, sound substrate in Arizona lasts 20–25 years with proper recoating cycles. The substrate beneath has no bearing on foam lifespan as long as it's dry and adhered. See our [Mesa foam roofing guide](/services/foam-roofing-mesa-az/) and [Gilbert foam roofing guide](/services/foam-roofing-gilbert-az/) for local cost and lifespan specifics.
+Lifespan is determined by the quality of the foam application, the topcoat, and maintenance — not by whether there was an overlay or tear-off. [A properly installed foam overlay over a dry, sound substrate in Arizona lasts 20–25 years](https://sfb.az.gov/sites/default/files/2022-04/07%2057%2013%20-%20Foam%20FINAL.pdf) with proper recoating cycles. The substrate beneath has no bearing on foam lifespan as long as it's dry and adhered. See our [Mesa foam roofing guide](/services/foam-roofing-mesa-az/) and [Gilbert foam roofing guide](/services/foam-roofing-gilbert-az/) for local cost and lifespan specifics.

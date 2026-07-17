@@ -30,7 +30,7 @@ An estimate can start the conversation. A contract should protect the job.
 
 ## What is a roofing estimate?
 
-A roofing estimate is a contractor's proposed price for the work. It may include a scope, materials, labor, disposal, and timing, but it is not always complete. Some estimates are detailed. Others are little more than a sales quote.
+[A roofing estimate is a contractor's proposed price for the work](https://www.owenscorning.com/en-us/roofing/blog/roof-estimates-and-quotes). It may include a scope, materials, labor, disposal, and timing, but it is not always complete. Some estimates are detailed. Others are little more than a sales quote.
 
 A useful roofing estimate should tell you:
 
@@ -69,10 +69,10 @@ If the answer is no, request a complete contract.
 Use this checklist:
 
 - Contractor legal name, address, and phone
-- Arizona ROC license number
+- [Arizona ROC license number](https://roc.az.gov/license-classifications)
 - Property address
 - Detailed scope of work
-- Material brand, type, color, and warranty tier
+- [Material brand, type, color, and warranty tier](https://www.iko.com/blog/craft-proposals-residential-roofing-contracts-clients/)
 - Underlayment product
 - Flashing and ventilation details
 - Tear-off layers included
@@ -107,7 +107,7 @@ Those phrases sound useful, but they need specifics.
 
 ## How should change orders work?
 
-Roofing change orders are common when old roof material is removed. Decking rot, broken fascia, hidden flashing damage, and ventilation problems may not be visible during the first inspection.
+Roofing change orders are common when old roof material is removed. [Decking rot, broken fascia, hidden flashing damage, and ventilation problems may not be visible during the first inspection](https://www.gaf.com/en-us/blog/your-home/whats-the-difference-between-a-roofing-cost-estimate-and-the-final-price-281474979988065).
 
 The contract should say how changes are approved. Ideally, the contractor must provide photos, a written price, and homeowner approval before extra work is performed unless it is an emergency temporary protection issue.
 
@@ -117,11 +117,11 @@ For decking, ask for the per-sheet replacement cost before signing. That one lin
 
 Usually, yes. Permit responsibility should be written into the contract. If the homeowner is expected to pull the permit, that should be explicit. If the contractor says no permit is needed for a full roof replacement, verify with your city before accepting that answer.
 
-Permits protect you because they create an inspection record. Skipping them can create problems during resale or insurance review.
+[Permits protect you because they create an inspection record](https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/forms/re-roofinghandout.pdf?sfvrsn=12be0afa_1). Skipping them can create problems during resale or insurance review.
 
 ## How do insurance claim estimates fit in?
 
-An insurance adjuster's estimate is not the same thing as a roofing contract. It is the insurer's initial pricing document for covered damage. A contractor may use it as a reference, but your contract still needs a clear scope, price, materials, warranty, and payment terms.
+[An insurance adjuster's estimate is not the same thing as a roofing contract](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). It is the insurer's initial pricing document for covered damage. A contractor may use it as a reference, but your contract still needs a clear scope, price, materials, warranty, and payment terms.
 
 Do not sign a contract that simply says the contractor will do the work "for insurance proceeds." You need to know what is being installed and what you owe.
 
@@ -140,7 +140,7 @@ Ask for a revised contract before signing. Brand, product line, color, and warra
 A reasonable deposit tied to material ordering is common. Avoid large upfront payments, especially before materials are delivered or a start date is confirmed.
 
 **Do I need three roofing estimates?**
-Yes, when time allows. Three estimates help you spot missing scope, unusually low bids, and inflated pricing. Compare line items, not just totals.
+Yes, when time allows. [Three estimates help you spot missing scope, unusually low bids, and inflated pricing](https://www.owenscorning.com/en-us/roofing/blog/choosing-a-contractor). Compare line items, not just totals.
 
 ---
 

@@ -24,7 +24,7 @@ These are often very different numbers. A tile re-roof might involve 4 days of a
 
 ## How long does it take to replace an asphalt shingle roof in Arizona?
 
-For an average Phoenix-area home with a simple gable or hip roofline, asphalt shingle replacement typically runs:
+For an average Phoenix-area home with a simple gable or hip roofline, [asphalt shingle replacement typically runs](https://www.gaf.com/en-us/blog/your-home/how-long-does-it-take-to-replace-a-roof-e472fff6-e0f1-45d7-9976-55c4c670fedf):
 
 - **Small home (under 1,500 sq ft)**: 1 day
 - **Average home (1,500 to 2,500 sq ft)**: 1 to 2 days
@@ -34,7 +34,7 @@ Shingle installation is the fastest full re-roofing process because the material
 
 ## How long does it take to replace a tile roof in Arizona?
 
-Tile replacement takes significantly longer than shingles. Concrete and clay tile is heavy, must be hand-set piece by piece, and involves careful work around hips, ridges, and penetrations.
+[Tile replacement takes significantly longer than shingles](https://www.iko.com/na/blog/what-to-expect-during-roof-replacement-timeline-and-tips/). Concrete and clay tile is heavy, must be hand-set piece by piece, and involves careful work around hips, ridges, and penetrations.
 
 Typical timelines:
 - **Small flat-to-low-slope tile roof (under 1,500 sq ft)**: 2 to 4 days
@@ -50,17 +50,17 @@ Foam (SPF) roofing moves faster than tile but involves cure time between the foa
 - **Typical flat-to-low-slope foam project**: 1 to 3 days
 - Surface preparation, foam spraying, and topcoat application usually happen across 2 separate days to allow the foam to fully cure before the coating is applied
 
-Foam roofing cannot be applied in high wind conditions or when rain is forecast within the cure window, which makes scheduling during Arizona's monsoon season (June through September) less predictable than during spring.
+[Foam roofing cannot be applied in high wind conditions](https://www.owenscorning.com/en-us/roofing/blog/what-to-expect) or when rain is forecast within the cure window, which makes scheduling during Arizona's monsoon season (June through September) less predictable than during spring.
 
 ## What affects the total project timeline beyond installation days?
 
 The installation days are only part of the picture. Several factors extend the total elapsed time:
 
-**Permit processing**: Roof replacement in Maricopa County cities requires a building permit. Most Phoenix-area cities process straightforward roofing permits in 5 to 10 business days, though busy seasons can push that to 2 weeks or more. Some contractors use expedited permit services for an additional fee. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit) for what the permit process involves.
+**Permit processing**: [Roof replacement in Maricopa County cities requires a building permit](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf). [Most Phoenix-area cities process straightforward roofing permits in 5 to 10 business days](https://www.scottsdaleaz.gov/planning-development/permit-services), though busy seasons can push that to 2 weeks or more. Some contractors use expedited permit services for an additional fee. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit) for what the permit process involves.
 
 **Material lead time**: Concrete tile is the most common Arizona roofing material, and most colors are stocked locally. Specialty tile colors, discontinued profiles, or premium shingles may require ordering, adding 1 to 3 weeks before work can begin.
 
-**Inspection scheduling**: Most Maricopa County cities require a deck or underlayment inspection after tear-off and before the tile or shingles are installed. Inspector availability varies by city and season — scheduling that inspection can add 2 to 5 days mid-project.
+**Inspection scheduling**: [Most Maricopa County cities require a deck or underlayment inspection after tear-off](https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/forms/re-roofinghandout.pdf?sfvrsn=12be0afa_1) and before the tile or shingles are installed. Inspector availability varies by city and season — scheduling that inspection can add 2 to 5 days mid-project.
 
 **Weather**: Arizona's monsoon season (roughly June through September) introduces daily afternoon weather uncertainty. Roofing work stops in rain or lightning. A project that would take 4 days in dry spring conditions may take 6 to 7 days if afternoon storms interrupt work sessions repeatedly.
 
@@ -132,7 +132,7 @@ Tear-off debris can land on plants near the house. Most Arizona roofing contract
 A responsible contractor leaves the exposed deck protected with tarps if rain is forecast before the underlayment is complete. If rain is unexpected and the deck gets wet, work should pause until the wood dries adequately before underlayment is installed.
 
 **Can a roof replacement be done in one day?**
-For a smaller home with a simple roofline, asphalt shingle replacement can be completed start-to-finish in one day. Tile replacement over one day is possible on very small roofs but uncommon on a standard Phoenix-area home. Foam roofing always requires at least two days due to cure time between foam application and topcoat.
+For a smaller home with a simple roofline, asphalt shingle replacement can be completed start-to-finish in one day. Tile replacement over one day is possible on very small roofs but uncommon on a standard Phoenix-area home. [Foam roofing always requires at least two days due to cure time](https://www.tamko.com/blog/homeowner-news/2026/02/18/how-long-does-roof-replacement-take) between foam application and topcoat.
 
 **How long does the permit process add to the total timeline?**
 Most Maricopa County cities process a standard roofing permit in 5 to 10 business days. During peak season or after a major storm event that triggers many simultaneous permit applications, that can extend to 2 weeks. Your contractor should submit the permit application immediately after contract signing to minimize the wait.

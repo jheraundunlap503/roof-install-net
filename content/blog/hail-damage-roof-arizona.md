@@ -29,7 +29,7 @@ Acting within 72 hours of a hail event matters both for documentation and for pr
 
 ## What does hail damage look like on an Arizona asphalt shingle roof?
 
-Hail knocks off the ceramic granules that protect the asphalt layer underneath. Look for dark circular spots — roughly quarter to golf-ball size depending on hail diameter — where the surface appears bare or shiny. The damage often feels soft or spongy when pressed, similar to a bruise. Dented gutters and downspouts on the same side of the house confirm the direction of impact.
+[Hail knocks off the ceramic granules that protect the asphalt layer underneath](https://www.gaf.com/en-us/resources/roofing-technology/hail-damage-roof-systems). Look for dark circular spots — roughly quarter to golf-ball size depending on hail diameter — where the surface appears bare or shiny. The damage often feels soft or spongy when pressed, similar to a bruise. Dented gutters and downspouts on the same side of the house confirm the direction of impact.
 
 ## What does hail damage look like on a tile roof?
 
@@ -52,11 +52,11 @@ Normal Arizona wear produces uniform fading, cracking along shingle edges (not i
 
 ## How soon do I need to file a hail damage claim in Arizona?
 
-Most Arizona homeowner policies require hail claims to be filed within one year of the storm event. Some policies are shorter — check your "Duties After Loss" section for the exact language. Filing a claim does not mean accepting a settlement; it preserves your rights under the policy. Document the storm date using [NOAA's storm events database](https://www.ncdc.noaa.gov/stormevents/) to create a time-stamped record that ties the damage to a specific event.
+Most Arizona homeowner policies require hail claims to be filed within one year of the storm event. Some policies are shorter — check your "Duties After Loss" section for the exact language. [Filing a claim does not mean accepting a settlement; it preserves your rights under the policy](https://difi.az.gov/consumers/homeowners-insurance). Document the storm date using [NOAA's storm events database](https://www.ncdc.noaa.gov/stormevents/) to create a time-stamped record that ties the damage to a specific event.
 
 ## What does hail damage repair or replacement cost in Arizona?
 
-Partial hail repair (replacing one slope or section of damaged shingles) runs $800–$3,500 depending on damage area and access. Full replacement after severe hail — quarter-sized or larger — typically runs $9,000–$22,000 for an average Arizona home depending on roof type and material tier. Tile replacement costs significantly more than shingle due to labor. Use our [free cost estimator](/estimator/) to get a range specific to your home size and material.
+Partial hail repair (replacing one slope or section of damaged shingles) runs $800–$3,500 depending on damage area and access. [Full replacement after severe hail — quarter-sized or larger — typically runs $9,000–$22,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator) for an average Arizona home depending on roof type and material tier. Tile replacement costs significantly more than shingle due to labor. Use our [free cost estimator](/estimator/) to get a range specific to your home size and material.
 
 ---
 
@@ -80,7 +80,7 @@ After identifying damage, read our guide on [how to negotiate a roof insurance c
 Not always, but it frequently does — especially on shingles older than 10 years and on tile roofs where brittleness increases with age. Quarter-sized hail (1-inch diameter) is the threshold at which most roofing professionals and insurers consider damage likely. Any hail larger than a quarter warrants a professional inspection regardless of visible symptoms.
 
 **Can I inspect my own roof for hail damage?**
-A ground-level check of gutters, AC unit, and screens is safe and useful. Actual roof surface inspection should be done by a licensed contractor — both for safety and because proper hail assessment on tile requires physical manipulation of tiles that a homeowner should not attempt without training. Verify any contractor's R-42 license at [roc.az.gov](https://roc.az.gov) before allowing them on your roof.
+A ground-level check of gutters, AC unit, and screens is safe and useful. Actual roof surface inspection should be done by a licensed contractor — both for safety and because [proper hail assessment on tile requires physical manipulation of tiles](https://www.nachi.org/hail-damage-part12-39.htm) that a homeowner should not attempt without training. Verify any contractor's R-42 license at [roc.az.gov](https://roc.az.gov) before allowing them on your roof.
 
 **Will a hail claim raise my Arizona homeowner's insurance premium?**
 It can, but not always. Arizona insurers treat hail claims differently from liability or fire claims. A single hail claim on an otherwise clean policy rarely triggers a surcharge. Multiple claims within three years are more likely to affect your rate at renewal. Contact your agent before filing to understand your specific policy's claim history provisions.

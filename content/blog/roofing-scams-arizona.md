@@ -15,7 +15,7 @@ pexels_photo_id: 11467876
 
 # Roofing Scams in Arizona: What Every Homeowner Needs to Know
 
-**TLDR:** Roofing was the #1 industry for consumer complaints filed with the Better Business Bureau in both 2021 and 2022, and Arizona homeowners are a high-value target because of monsoon season, active hail patterns, and a steady flow of out-of-state storm-chasing contractors. The most costly scams involve signing over your insurance rights, paying large deposits to contractors who disappear, and hiring unlicensed crews who leave your roof in worse shape than they found it. You can verify any Arizona roofing contractor's license, bond, and complaint history in about two minutes at [roc.az.gov](https://roc.az.gov).
+**TLDR:** Roofing was the #1 industry for consumer complaints filed with the Better Business Bureau in both 2021 and 2022, and Arizona homeowners are a high-value target because of monsoon season, active hail patterns, and a steady flow of out-of-state storm-chasing contractors. The most costly scams involve signing over your insurance rights, paying large deposits to contractors who disappear, and hiring unlicensed crews who leave your roof in worse shape than they found it. You can [verify any Arizona roofing contractor's license, bond, and complaint history in about two minutes](https://roc.az.gov/search) at [roc.az.gov](https://roc.az.gov).
 
 ---
 
@@ -43,7 +43,7 @@ Assignment of benefits (AOB) is a form that transfers your insurance claim right
 
 ## How do I verify a roofing contractor's license in Arizona?
 
-Go to [roc.az.gov](https://azroc.my.site.com/AZRoc/s/contractor-search) and search by company name or license number. Every residential roofer in Arizona must hold an R-42 license from the Arizona Registrar of Contractors. The search returns their license status, bond information, expiration date, and any complaints or disciplinary actions on file — in under two minutes. If a contractor cannot provide an ROC license number before you sign anything, stop the conversation.
+Go to [roc.az.gov](https://azroc.my.site.com/AZRoc/s/contractor-search) and search by company name or license number. [Every residential roofer in Arizona must hold an R-42 license](https://roc.az.gov/license-classification-requirements) from the Arizona Registrar of Contractors. The search returns their license status, bond information, expiration date, and any complaints or disciplinary actions on file — in under two minutes. If a contractor cannot provide an ROC license number before you sign anything, stop the conversation.
 
 ## What are the red flags before you sign a roofing contract?
 
@@ -71,7 +71,7 @@ If a contractor has gone quiet after taking your deposit, take these three steps
 
 **2. Contact your insurance company.** If you signed an AOB, notify your insurer immediately in writing that you wish to revoke it. Do this before any claim payment is issued. Your insurer can advise you on whether revocation is still possible depending on your policy state.
 
-**3. File with the BBB.** The Better Business Bureau tracks complaint patterns by contractor — and roofing ranked first nationally for complaints in both 2021 and 2022. Filing helps protect the next homeowner and creates a documented record if you pursue legal action.
+**3. File with the BBB.** The Better Business Bureau tracks complaint patterns by contractor — and [roofing ranked first nationally for complaints in both 2021 and 2022](https://www.bbb.org/article/news-releases/22467-bbb-scam-alert-watch-out-for-free-roof-inspections-look-for-bbb-seal). Filing helps protect the next homeowner and creates a documented record if you pursue legal action.
 
 The consistent thread in roofing scams is urgency. Legitimate contractors do not pressure you to sign within an hour of a storm. A real roofer will let you verify their license, check their reviews, and read the contract before you commit.
 
@@ -80,13 +80,13 @@ The consistent thread in roofing scams is urgency. Legitimate contractors do not
 ## Frequently Asked Questions
 
 **Is it legal for a roofer to offer to pay my insurance deductible in Arizona?**
-No. Waiving or paying a homeowner's deductible as an inducement to sign a contract is prohibited under Arizona law. A contractor who offers this is likely planning to inflate the insurance claim to cover the waived amount — which is insurance fraud, and can expose you as a participant in the claim.
+No. [Waiving or paying a homeowner's deductible as an inducement to sign a contract is prohibited under Arizona law](https://roc.az.gov/sites/default/files/2024-09/2024%20Statute%20and%20Rules%20Book.pdf). A contractor who offers this is likely planning to inflate the insurance claim to cover the waived amount — which is insurance fraud, and can expose you as a participant in the claim.
 
 **How much of a deposit should I pay an Arizona roofing contractor?**
 A reasonable deposit for a licensed Arizona roofer is 10–30% of the contract price, typically tied to material ordering. Any demand for 50% or more upfront, before materials arrive or work begins, is a warning sign worth taking seriously.
 
 **What does an R-42 roofing license allow in Arizona?**
-An R-42 license authorizes residential roofing work: installation and repair of shingles, tile, metal systems, foam (SPF), underlayment, flashing, and all related weatherproofing. Verify that your contractor holds an active R-42 at [roc.az.gov](https://roc.az.gov) — not just a general contractor license.
+[An R-42 license authorizes residential roofing work: installation and repair of shingles, tile, metal systems, foam](https://roc.az.gov/license-classifications) (SPF), underlayment, flashing, and all related weatherproofing. Verify that your contractor holds an active R-42 at [roc.az.gov](https://roc.az.gov) — not just a general contractor license.
 
 **What is a storm chaser roofer?**
 A storm chaser is a contractor, often from out of state, who follows severe weather events and solicits work door to door in affected neighborhoods. They typically move on to the next market after a few weeks, leaving homeowners with no recourse if the work is defective or the deposit is taken without work being completed.

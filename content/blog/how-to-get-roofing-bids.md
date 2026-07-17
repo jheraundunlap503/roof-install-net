@@ -18,7 +18,7 @@ image_alt: homeowner reviewing roofing bids and contractor estimates at a table
 
 ---
 
-Roofing is one of the highest-cost repairs most Arizona homeowners face. A concrete tile re-roof on a 2,000-square-foot Phoenix-area home can run $15,000 to $30,000 depending on materials and pitch. That price range alone is reason enough to get multiple bids before signing anything.
+Roofing is one of the highest-cost repairs most Arizona homeowners face. [A concrete tile re-roof on a 2,000-square-foot Phoenix-area home can run $15,000 to $30,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost) depending on materials and pitch. That price range alone is reason enough to get multiple bids before signing anything.
 
 But collecting bids is not enough on its own. Roofing bids are notoriously difficult to compare when contractors are not quoting identical scopes. One bid that comes in $3,000 lower may have simply omitted underlayment replacement, permits, disposal, or ridge cap material that the other contractors included. Understanding what should be in every bid — and what to ask when something is missing — is how you make an informed decision.
 
@@ -47,7 +47,7 @@ If you give one contractor more information than another, their bids will not be
 
 A complete bid should document the following:
 
-- **Total roof area** in squares (one roofing square = 100 square feet)
+- **Total roof area** in squares ([one roofing square = 100 square feet](https://www.iko.com/blog/how-to-bid-a-roofing-job/))
 - **Tear-off and disposal** of existing material
 - **Deck inspection** and notation of any repairs needed
 - **Underlayment type and brand** — synthetic vs. felt, and specific product name
@@ -60,7 +60,7 @@ A complete bid should document the following:
 - **Payment schedule**
 - **Project start date and estimated duration**
 
-A bid that lists only total price and material type is not a bid — it is a number. Any contractor unwilling to provide a line-item scope in writing before you sign is a contractor to reconsider. See [what a roofing estimate vs contract should include](/blog/roofing-estimate-vs-contract) for a full breakdown of what to require before you sign.
+[A bid that lists only total price and material type is not a bid](https://www.gaf.com/en-us/blog/your-home/whats-the-difference-between-a-roofing-cost-estimate-and-the-final-price-281474979988065) — it is a number. Any contractor unwilling to provide a line-item scope in writing before you sign is a contractor to reconsider. See [what a roofing estimate vs contract should include](/blog/roofing-estimate-vs-contract) for a full breakdown of what to require before you sign.
 
 ## How do you compare bids that are not apples-to-apples?
 
@@ -73,7 +73,7 @@ Most bids you receive will not be identical in scope. When comparing:
 
 Common items that distinguish a low bid from a comparable one:
 
-- One bid includes synthetic underlayment, another includes felt — synthetic adds cost but adds 10 to 20 years of life in Arizona heat
+- One bid includes synthetic underlayment, another includes felt — [synthetic adds cost but adds 10 to 20 years of life in Arizona heat](https://sfb.az.gov/sites/default/files/2022-04/07%2031%2013%20-%20Asphalt%20Shingles%20FINAL.pdf)
 - One bid includes permit fees, another expects you to handle them separately
 - One bid replaces all flashing, another proposes to reuse existing flashings if they "look okay"
 - One bid includes full deck inspection with repair allowance, another does not address the deck at all
@@ -87,11 +87,11 @@ Watch for these in any bid or sales interaction:
 - **Verbal-only quote**: Any contractor unwilling to put the scope in writing should be disqualified
 - **Pressure to sign the same day**: Legitimate contractors give you time to compare bids
 - **Permit not mentioned**: If a bid does not mention permits, ask directly — and if the contractor suggests skipping the permit to save money, that is a serious warning
-- **No license number on the paperwork**: Arizona requires roofing contractors to be licensed; the license number should appear on the estimate
-- **Deductible waiver offer**: If a contractor offers to waive your insurance deductible in exchange for the job, that is insurance fraud under Arizona law
+- **No license number on the paperwork**: [Arizona requires roofing contractors to be licensed](https://roc.az.gov/license-classifications); the license number should appear on the estimate
+- **Deductible waiver offer**: If a [contractor offers to waive your insurance deductible in exchange for the job, that is insurance fraud under Arizona law](https://roc.az.gov/rules)
 - **Large upfront deposit requirement**: Materials deposits are normal, but never pay more than 30 to 40 percent upfront, and never pay in full before work is complete
 
-The [Arizona Registrar of Contractors](https://roc.az.gov/) lets you verify any contractor's license, license type, bond status, and complaint history before you commit. A quick search takes two minutes and can save you a significant amount of money and frustration.
+The [Arizona Registrar of Contractors](https://roc.az.gov/) [lets you verify any contractor's license, license type, bond status, and complaint history](https://roc.az.gov/search) before you commit. A quick search takes two minutes and can save you a significant amount of money and frustration.
 
 ## What about door-to-door roofing bids after a monsoon?
 
@@ -99,7 +99,7 @@ After any significant monsoon hail or wind event in the Phoenix metro, contracto
 
 Storm chasers often work under high-pressure sales tactics, push homeowners to file insurance claims immediately without proper documentation, and may disappear after taking a deposit. They frequently are not licensed in Arizona.
 
-Any contractor who knocks on your door after a storm should be verified through the ROC before you let them on your roof. See the full guide to [identifying storm chaser roofers in Arizona](/blog/storm-chaser-roofer-arizona) before you engage with anyone who approaches you unsolicited. Get your own bids from established local contractors with an Arizona license and a verifiable track record.
+[Any contractor who knocks on your door after a storm should be verified through the ROC](https://roc.az.gov/before-hire) before you let them on your roof. See the full guide to [identifying storm chaser roofers in Arizona](/blog/storm-chaser-roofer-arizona) before you engage with anyone who approaches you unsolicited. Get your own bids from established local contractors with an Arizona license and a verifiable track record.
 
 ## When is the right time to get bids?
 
