@@ -68,7 +68,7 @@ Major shingle manufacturers offer tiered warranty programs. GAF's tiers are repr
 
 **[GAF Silver Pledge](https://www.gaf.com/en-us/resources/warranties/residential)**: Requires installation by a GAF Certified Contractor. Extends coverage and improves labor terms. Non-prorated coverage extends to 25 years on qualifying products.
 
-**GAF Golden Pledge**: Requires installation by a [GAF Master Elite contractor](/blog/gaf-master-elite-certification/) — the top 2% of GAF's contractor network. Covers materials and labor. 25-year non-prorated, 50-year prorated. Transferable once to a subsequent homeowner.
+**GAF Golden Pledge**: Requires installation by a [GAF Master Elite contractor](/blog/gaf-master-elite-certification/) — the top 2% of GAF's contractor network. [Covers materials and labor. 25-year non-prorated, 50-year prorated. Transferable once to a subsequent homeowner.](https://www.gaf.com/en-us/blog/your-home/interested-in-a-roof-warranty-heres-what-to-know-e951f1f7-ccd6-4bf4-9602-39a1b9cad488)
 
 To access Silver Pledge or Golden Pledge coverage, your contractor must be certified at the appropriate tier at the time of installation. A contractor who says they can get you Golden Pledge coverage but is not currently Master Elite certified cannot deliver that warranty.
 
@@ -88,7 +88,7 @@ The [Arizona Registrar of Contractors](https://roc.az.gov/) requires all ROC-lic
 
 This is a floor, not a ceiling. Reputable Arizona roofing contractors typically provide 5-year or 10-year workmanship warranties. A contractor offering only the 2-year minimum on a project of this scale is not demonstrating confidence in their work.
 
-Critically: a contractor who is not ROC-licensed is not legally required to provide any warranty at all. Storm chasers who arrive in East Valley neighborhoods after a monsoon event are frequently unlicensed out-of-state operators. Work performed by an unlicensed contractor carries no warranty protection under Arizona law and no recourse through the ROC complaint process. Verify license status at [roc.az.gov](https://roc.az.gov/) before signing anything — see [Arizona roofing contractor license verification](/blog/arizona-roofing-contractor-license/) for what to check.
+Critically: a contractor who is not ROC-licensed is not legally required to provide any warranty at all. Storm chasers who arrive in East Valley neighborhoods after a monsoon event are frequently unlicensed out-of-state operators. Work performed by an unlicensed contractor carries no warranty protection under Arizona law and no recourse through the ROC complaint process. [Verify license status at](https://roc.az.gov/search) [roc.az.gov](https://roc.az.gov/) before signing anything — see [Arizona roofing contractor license verification](/blog/arizona-roofing-contractor-license/) for what to check.
 
 ## What voids a roofing warranty in Arizona?
 
@@ -96,7 +96,7 @@ Common warranty voids:
 
 **Installation by a non-certified contractor**: Manufacturer system warranties (Silver Pledge, Golden Pledge, and equivalents) require installation by a certified contractor. Using a non-certified installer means you cannot access the enhanced warranty regardless of what the contractor tells you.
 
-**Improper ventilation**: Most manufacturer warranties require adequate attic ventilation meeting code minimums. A roof installed over an under-ventilated attic — common in Arizona where ventilation is often undersized — may have manufacturer warranty claims denied on grounds of ventilation failure. The DOE recommends 1 sq ft of net free ventilation area per 150 sq ft of attic floor space. Get a ventilation assessment before or during a re-roof.
+**Improper ventilation**: [Most manufacturer warranties require adequate attic ventilation meeting code minimums](https://www.owenscorning.com/en-us/roofing/warranty). A roof installed over an under-ventilated attic — common in Arizona where ventilation is often undersized — may have manufacturer warranty claims denied on grounds of ventilation failure. The DOE recommends 1 sq ft of net free ventilation area per 150 sq ft of attic floor space. Get a ventilation assessment before or during a re-roof.
 
 **Unauthorized repairs**: If another contractor modifies or repairs the roof after initial installation, both the manufacturer warranty and workmanship warranty are typically voided in the repaired area. Document any post-installation work carefully and notify both the manufacturer and original contractor before allowing work by a third party.
 
@@ -108,7 +108,7 @@ Common warranty voids:
 
 Transferability varies by manufacturer and warranty tier:
 
-- **Basic manufacturer warranties**: Often non-transferable or transferable once with a registration fee and within a specific window (typically 30–60 days after sale)
+- **[Basic manufacturer warranties](https://www.certainteed.com/inspiration/how-tos/my-roof-warranty-what-it-and-what-it-covers)**: Often non-transferable or transferable once with a registration fee and within a specific window (typically 30–60 days after sale)
 - **Premium system warranties (GAF Golden Pledge, OC Platinum)**: Typically transferable once to a subsequent owner, with the full remaining term intact
 - **Workmanship warranties**: Almost never transferable — they are between the contractor and the original homeowner
 
@@ -119,10 +119,10 @@ If you're planning to sell within the warranty period, transferability is a mean
 **For a workmanship warranty claim**:
 1. Contact your contractor in writing (email creates a record) describing the failure, location, and date first observed
 2. Request a site inspection and written response within a stated timeframe
-3. If the contractor disputes the claim or is unresponsive, file a complaint with the [Arizona Registrar of Contractors](https://roc.az.gov/) — the ROC has authority to investigate complaints against licensed contractors
+3. If the contractor disputes the claim or is unresponsive, [file a complaint with the](https://roc.az.gov/) [Arizona Registrar of Contractors](https://roc.az.gov/) — the ROC has authority to investigate complaints against licensed contractors
 
 **For a manufacturer warranty claim**:
-1. Locate your warranty registration number — most manufacturers require product registration within 30–60 days of installation
+1. Locate your warranty registration number — [most manufacturers require product registration within 30–60 days of installation](https://www.gaf.com/en-us/blog/your-home/the-benefits-of-a-roof-warranty-for-homeowners-bc558283-17b7-4379-9ec3-113a077d27e6)
 2. Contact the manufacturer's warranty claims department with installation date, product name, and description of the failure
 3. A manufacturer representative or third-party inspector will typically visit to assess whether the failure is a material defect or excluded cause
 4. Document everything in writing before any repair work begins — starting repairs before a claim is assessed can complicate the claim
@@ -141,4 +141,4 @@ Possibly — but it depends on the cause. If the shingles failed due to a manufa
 Not directly, but a current, documented warranty is useful if you need to dispute an insurance claim denial. Insurance covers sudden damage from covered perils; warranties cover defects and installation quality. They address different causes of failure and are not interchangeable.
 
 **What happens to my warranty if I add solar panels after the roof is installed?**
-Solar panel installation penetrates the roof surface and may void warranty coverage in the affected area. Before installing solar, contact both your roofing contractor and the shingle manufacturer to understand the impact on your existing warranty. Some manufacturers have solar-specific warranty provisions; most require that penetrations be made by their certified installer using approved flashing systems.
+Solar panel installation penetrates the roof surface and may void warranty coverage in the affected area. Before installing solar, contact both your roofing contractor and the shingle manufacturer to understand the impact on your existing warranty. [Some manufacturers have solar-specific warranty provisions](https://www.certainteed.com/understanding-roof-warranties); most require that penetrations be made by their certified installer using approved flashing systems.

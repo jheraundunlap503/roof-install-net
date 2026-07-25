@@ -31,7 +31,7 @@ Asphalt shingles expand in heat and contract overnight as temperatures drop. In 
 
 On tile roofs, UV degrades the mortar that secures ridge tiles and the rubber pipe jack boots around plumbing penetrations. Mortar at ridges and hips begins to crack and shrink within 10–15 years under Arizona exposure. Pipe jack rubber degrades in 5–8 years.
 
-**What to look for:** Granule accumulation in gutters (asphalt shingles). Cracked or crumbling mortar visible at the ridge line from ground level. Pipe jack rubber that looks dried, cracked, or has pulled away from the vent pipe.
+**What to look for:** [Granule accumulation in gutters](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-damage) (asphalt shingles). Cracked or crumbling mortar visible at the ridge line from ground level. Pipe jack rubber that looks dried, cracked, or has pulled away from the vent pipe.
 
 ## 2. Underlayment failure
 
@@ -67,17 +67,17 @@ The U.S. Department of Energy recommends a minimum of 1 square foot of ventilati
 
 Poor ventilation also traps monsoon-season moisture. Warm, humid air from July storms that enters the attic and cannot escape condenses on the cooler underside of the roof deck, introducing moisture damage that has nothing to do with a visible roof leak.
 
-**What to look for:** Turbine vents that are not spinning in light wind (seized bearings). Gable or ridge vents blocked by debris or insulation pushed against the soffit. Attic that feels markedly hotter than outdoor temperature even in the evening.
+**What to look for:** [Turbine vents that are not spinning in light wind](https://www.iko.com/na/blog/roof-ridge-vents-vs-box-vents/) (seized bearings). Gable or ridge vents blocked by debris or insulation pushed against the soffit. Attic that feels markedly hotter than outdoor temperature even in the evening.
 
 ## 5. Monsoon wind and hail damage
 
 **Arizona's monsoon season runs June 15 through September 30, with peak storm activity in July and August. The storms that cause roof damage are not the light afternoon showers — they are the high-wind microburst events and hail-producing cells that track along the Superstition Mountain corridor into the East Valley.**
 
-Wind damage on tile roofs most commonly lifts ridge and hip tiles where mortar has already degraded. On shingle roofs, wind above 60 mph can unseal the adhesive strip on standard architectural shingles. Hail damage to asphalt shingles creates impacts that remove granules and bruise the underlying mat — damage that accelerates UV degradation but may not produce leaks immediately.
+Wind damage on tile roofs most commonly lifts ridge and hip tiles where mortar has already degraded. On shingle roofs, wind above 60 mph can unseal the adhesive strip on standard architectural shingles. [Hail damage to asphalt shingles creates impacts that remove granules](https://www.gaf.com/en-us/blog/your-home/5-signs-of-storm-damage-on-your-roof-3c8688b3-814b-4b72-9782-d0d16256af7b) and bruise the underlying mat — damage that accelerates UV degradation but may not produce leaks immediately.
 
 The combination matters: a roof weakened by years of UV exposure fails under a monsoon storm that an intact roof would survive.
 
-**What to look for after a significant storm:** Displaced or missing ridge tiles visible from the ground. Shingle tab edges lifted at corners. Interior ceiling staining that appears within 48 hours of a storm. Dented metal flashings or gutters (a strong indicator that hail was large enough to damage shingles).
+**What to look for after a significant storm:** [Displaced or missing ridge tiles visible from the ground](https://www.iko.com/na/blog/6-types-of-roof-damage/). Shingle tab edges lifted at corners. Interior ceiling staining that appears within 48 hours of a storm. Dented metal flashings or gutters (a strong indicator that hail was large enough to damage shingles).
 
 For step-by-step storm documentation guidance, see our [pre-monsoon roof inspection checklist](/blog/pre-monsoon-roof-inspection-arizona/). For emergency roof response in Mesa, see [emergency roofing Mesa, AZ](/services/emergency-roofing-mesa-az/).
 
@@ -85,7 +85,7 @@ For step-by-step storm documentation guidance, see our [pre-monsoon roof inspect
 
 **Most Arizona single-family homes have at least one flat or low-slope section — an entryway, covered patio, or garage extension. These sections fail from a different mechanism than pitched roofs: ponding water.**
 
-Ponding is defined by the [NRCA](https://www.nrca.net/) as water that remains on a roof surface 48 hours after rain has stopped. Chronic ponding on a flat roof degrades coating systems, eventually penetrates seams, and accelerates edge and drain deterioration. Foam roofs without a current silicone topcoat are especially vulnerable — bare foam absorbs moisture at an exponential rate once the topcoat fails.
+Ponding is defined by the [NRCA](https://www.nrca.net/) as water that remains on a roof surface 48 hours after rain has stopped. Chronic [ponding on a flat roof degrades coating systems](https://www.iko.com/na/blog/6-types-of-roof-damage/), eventually penetrates seams, and accelerates edge and drain deterioration. Foam roofs without a current silicone topcoat are especially vulnerable — bare foam absorbs moisture at an exponential rate once the topcoat fails.
 
 The drainage geometry on many Arizona flat-roof sections was not engineered with Arizona monsoon rainfall rates in mind. A July storm dropping 1.5 inches of rain in 30 minutes overwhelms drains sized for standard rainfall assumptions. The fix is usually drain clearing and slope correction, not full replacement.
 
@@ -100,9 +100,9 @@ Common installation failures that show up within the first 1–5 years:
 - Tile installed over wet or improperly dried underlayment, trapping moisture from day one
 - Flashing nailed rather than properly bedded and sealed at penetrations
 - Improper foam application ratios that produce off-spec density, leading to early topcoat delamination
-- Insufficient fastener count on shingles in wind zones — Maricopa County building code specifies fastener requirements based on wind exposure category
+- Insufficient fastener count on shingles in wind zones — [Maricopa County building code specifies fastener requirements](https://www.maricopa.gov/1674/Residential-Construction) based on wind exposure category
 
-An improperly installed roof in Arizona's climate fails significantly faster than a properly installed one. [Arizona Registrar of Contractors](https://roc.az.gov/) license verification and a review of contractor complaint history before hiring are the best available protection against installation failures. Permitted work requires an inspection — pulling a permit is not just a legal requirement, it's the mechanism that puts a third-party check on installation quality. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what that inspection covers.
+An improperly installed roof in Arizona's climate fails significantly faster than a properly installed one. [Arizona Registrar of Contractors](https://roc.az.gov/) [license verification and a review of contractor complaint history](https://roc.az.gov/sites/default/files/2022-07/License%20Classification%20Requirements_6.8.20_0.pdf) before hiring are the best available protection against installation failures. Permitted work requires an inspection — pulling a permit is not just a legal requirement, it's the mechanism that puts a third-party check on installation quality. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what that inspection covers.
 
 ## What to do when you spot early failure signs
 
@@ -121,7 +121,7 @@ Use our [free cost estimator](/estimator/) to get a baseline on repair vs. repla
 Asphalt shingles rated for 30 years realistically last 15–20 years in Phoenix metro. Felt underlayment rated for 20–25 years lasts 15–20 years under Arizona UV. Flashing sealants that might last 10+ years in moderate climates need inspection at 5–7 years here. The gap between rated lifespan and actual performance in Arizona is larger than in most U.S. markets.
 
 **Can a roof look fine and still be failing?**
-Yes, particularly with underlayment failure on tile roofs. Tile can appear intact from the ground while the underlayment beneath it has been allowing water infiltration for months. Interior ceiling staining is often the first visible indicator — by that point, moisture has already penetrated the deck and insulation. Annual attic inspection is more reliable than ground-level visual checks for catching this.
+Yes, particularly with underlayment failure on tile roofs. Tile can appear intact from the ground while the underlayment beneath it has been allowing water infiltration for months. [Interior ceiling staining is often the first visible indicator](https://www.owenscorning.com/en-us/roofing/blog/do-i-need-a-new-roof) — by that point, moisture has already penetrated the deck and insulation. Annual attic inspection is more reliable than ground-level visual checks for catching this.
 
 **Does homeowner's insurance cover roof failure in Arizona?**
 Insurance covers sudden storm damage, not age-related wear or gradual deterioration. Underlayment failure on a 20-year-old tile roof is not a covered loss. A monsoon storm that lifts ridge tiles on a roof where mortar had already degraded may be partially covered — the storm event is covered, but adjusters may cite pre-existing conditions to reduce the payout. Documentation of roof condition before storm season matters.

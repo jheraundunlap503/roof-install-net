@@ -20,7 +20,7 @@ image_alt: arizona roofing contractor license lookup
 
 Most homeowners ask a roofer if they are "licensed, bonded, and insured" and stop there. That is not enough.
 
-In Arizona, the difference between a licensed roofer and an unlicensed crew is not paperwork trivia. It determines whether you have access to the Arizona Registrar of Contractors complaint process, whether a bond may apply if the job goes wrong, and whether the company is legally allowed to perform residential roofing work in the first place.
+In Arizona, the difference between a licensed roofer and an unlicensed crew is not paperwork trivia. It determines whether you have access to the [Arizona Registrar of Contractors complaint process](https://roc.az.gov/), whether a bond may apply if the job goes wrong, and whether the company is legally allowed to perform residential roofing work in the first place.
 
 The good news: you can verify the basics in a few minutes.
 
@@ -28,7 +28,7 @@ The good news: you can verify the basics in a few minutes.
 
 ## Where do you verify an Arizona roofing contractor license?
 
-Use the [Arizona ROC contractor search](https://azroc.my.site.com/AZRoc/s/contractor-search). Search by company name and license number. Do both, because a dishonest salesperson can give you a real license number that belongs to a different company.
+Use the [Arizona ROC contractor search](https://azroc.my.site.com/AZRoc/s/contractor-search). [Search by company name and license number](https://roc.az.gov/search). Do both, because a dishonest salesperson can give you a real license number that belongs to a different company.
 
 You are looking for:
 
@@ -43,13 +43,13 @@ If the search result does not match the company trying to sell you the job, stop
 
 ## What license should an Arizona roofer have?
 
-Arizona roofing contractors are licensed through the Arizona Registrar of Contractors. The ROC license classification must cover the type of work being performed. For residential roofing, that means the contractor needs a residential roofing classification that covers installation and repair of roof systems such as shingles, tile, metal, foam, underlayment, flashing, and weatherproofing.
+Arizona roofing contractors are licensed through the Arizona Registrar of Contractors. The [ROC license classification must cover the type of work being performed](https://roc.az.gov/license-classifications). For residential roofing, that means the contractor needs a [residential roofing classification that covers installation and repair of roof systems](https://roc.az.gov/license-classification-requirements) such as shingles, tile, metal, foam, underlayment, flashing, and weatherproofing.
 
-Do not assume a general remodeling license is enough for a roof replacement. Roofing is a specialized trade, and the license should match the work.
+Do not assume a general remodeling license is enough for a roof replacement. [Roofing is a specialized trade, and the license should match the work](https://roc.az.gov/sites/default/files/2022-07/License%20Classification%20Requirements_6.8.20_0.pdf).
 
 ## What does "bonded" mean?
 
-A contractor bond is not the same thing as insurance for your house. It is a financial protection mechanism tied to the contractor's license. If a licensed contractor violates workmanship or contract obligations and the ROC process supports your complaint, the bond may become part of the recovery path.
+A contractor bond is not the same thing as insurance for your house. It is a financial protection mechanism tied to the contractor's license. If a [licensed contractor violates workmanship or contract obligations](https://roc.az.gov/sites/default/files/files/minimum_industry_standards.pdf) and the ROC process supports your complaint, the bond may become part of the recovery path.
 
 That is one reason unlicensed work is so risky. If the crew disappears, you may have no ROC complaint path and no contractor bond to pursue.
 
@@ -118,13 +118,13 @@ Do not rely on a verbal exception from the person selling the job. Check Arizona
 No. A full roof replacement should be performed by a contractor licensed for roofing. The license classification should match the trade and scope.
 
 **Should the ROC number be on the estimate?**
-Yes. A legitimate roofing estimate or contract should identify the company and license number. If you have to ask several times for the ROC number, treat that as a warning sign.
+Yes. [A legitimate roofing estimate or contract should identify the company and license number](https://roc.az.gov/get-a-license-checklist). If you have to ask several times for the ROC number, treat that as a warning sign.
 
 **Does a manufacturer certification replace an Arizona license?**
 No. Certifications such as GAF Master Elite or other manufacturer programs can be useful, but they do not replace the state license. Verify both if a contractor advertises both.
 
 **Where do I file a complaint against an Arizona roofing contractor?**
-Start with the Arizona Registrar of Contractors at [roc.az.gov](https://roc.az.gov). Keep photos, estimates, contracts, invoices, text messages, and payment records.
+[Start with the Arizona Registrar of Contractors at](https://roc.az.gov/) [roc.az.gov](https://roc.az.gov). Keep photos, estimates, contracts, invoices, text messages, and payment records.
 
 ---
 

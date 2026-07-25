@@ -58,7 +58,7 @@ Once you have that document, compare it against a licensed roofer's estimate. Th
 
 Many homeowners confuse the roof replacement cost with the first check they receive. If you have Replacement Cost Value coverage, the insurer may initially pay the Actual Cash Value amount and hold back depreciation until the work is complete.
 
-Actual Cash Value means replacement cost minus depreciation. Replacement Cost Value means the cost to repair or replace with similar materials without deducting depreciation, subject to policy terms. Arizona DIFI explains these terms in its [home insurance consumer information](https://difi.az.gov/home-insurance-questions-your-agent).
+[Actual Cash Value means replacement cost minus depreciation](https://www.gaf.com/en-us/plan-design/roofing-insurance-claims). [Replacement Cost Value means the cost to repair or replace with similar materials without deducting depreciation](https://www.iko.com/na/blog/things-homeowners-need-to-know-before-filing-a-roofing-insurance-claim/), subject to policy terms. Arizona DIFI explains these terms in its [home insurance consumer information](https://difi.az.gov/home-insurance-questions-your-agent).
 
 Before disputing the number, confirm whether the "lowball" is truly a low scope or just the first ACV payment. If recoverable depreciation is available, the settlement letter should explain how to claim it after completion.
 
@@ -66,8 +66,8 @@ Before disputing the number, confirm whether the "lowball" is truly a low scope 
 
 On Arizona roofs, adjusters often miss or undercount:
 
-- Lifted shingle tabs after monsoon wind
-- Bruised asphalt shingles that are hard to see in harsh sun
+- [Lifted shingle tabs after monsoon wind](https://www.gaf.com/en-us/blog/your-home/understanding-roof-storm-damage-causes-signs-how-to-inspect-and-next-steps-8ba8d289-1811-44e7-9813-4c2978b28e4c)
+- [Bruised asphalt shingles that are hard to see in harsh sun](https://www.nachi.org/hail-damage-part12-39.htm)
 - Cracked concrete or clay tiles
 - Displaced ridge tiles
 - Damaged underlayment beneath tile
@@ -75,7 +75,7 @@ On Arizona roofs, adjusters often miss or undercount:
 - Storm-created openings that caused interior staining
 - Matching issues when discontinued tile or shingles are no longer available
 
-A roof inspection should include photos by slope, closeups of each damage type, and context shots that show where each photo was taken. If the damage is from hail or wind, pair the report with storm data from NOAA's [Storm Events Database](https://www.ncei.noaa.gov/stormevents/).
+[A roof inspection should include photos by slope, closeups of each damage type](https://www.gaf.com/en-us/plan-design/roofing-insurance-claims), and context shots that show where each photo was taken. If the damage is from hail or wind, pair the report with storm data from NOAA's [Storm Events Database](https://www.ncei.noaa.gov/stormevents/).
 
 ## How do you dispute a lowball roof claim in writing?
 
@@ -95,7 +95,7 @@ Do not accuse the adjuster of bad faith in the first email. Save that language f
 
 Yes. Your roofer should be present for the reinspection if the claim is disputed. A good roofer can point out slope-by-slope damage, explain why a repair is not adequate, and show the exact line items missing from the carrier scope.
 
-Make sure the roofer is properly licensed. The Arizona Registrar of Contractors provides a public license search, and homeowners can verify contractor status through [roc.az.gov](https://roc.az.gov/). For roofing, confirm the contractor is licensed for the work being proposed, not just operating under a vague home-improvement label.
+Make sure the roofer is properly licensed. The Arizona Registrar of Contractors provides a public license search, and homeowners can verify contractor status through [roc.az.gov](https://roc.az.gov/). For roofing, [confirm the contractor is licensed for the work being proposed](https://roc.az.gov/sites/default/files/2022-07/License%20Classification%20Requirements_6.8.20_0.pdf), not just operating under a vague home-improvement label.
 
 ## When should you escalate beyond the adjuster?
 
@@ -126,7 +126,7 @@ Avoid these mistakes:
 - Relying only on phone calls with no written record
 - Filing a second claim for the same damage without understanding the first claim
 
-Arizona DIFI advises homeowners to document damage with photos or video and contact the insurance company before repairing, replacing, cleaning, or disposing of damaged property when possible. Emergency mitigation may still be required, but keep receipts and photo records.
+Arizona DIFI advises homeowners to [document damage with photos or video and contact the insurance company before repairing, replacing, cleaning, or disposing of damaged property](https://www.fema.gov/pdf/nfip/manual201205/content/14_claims.pdf) when possible. Emergency mitigation may still be required, but keep receipts and photo records.
 
 ## Frequently Asked Questions
 
@@ -145,4 +145,4 @@ DIFI can investigate certain insurance complaints and require an insurer respons
 **Should I sign the insurance check if the amount is too low?**
 Cashing an initial payment usually does not end the claim by itself, but read every document carefully. Do not sign a release or final settlement agreement unless you understand what rights you are giving up.
 
-Use the free roof cost estimator before you accept a settlement so you have a realistic local replacement range in hand.
+[Use the free roof cost estimator before you accept a settlement](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator) so you have a realistic local replacement range in hand.

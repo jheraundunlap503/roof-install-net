@@ -52,7 +52,7 @@ The National Roofing Contractors Association recommends a full replacement when 
 - The roof has reached the end of its rated lifespan. In Apache Junction's climate, asphalt shingles typically last **15–20 years** rather than the 25–30 years rated in milder markets. Clay and concrete tile typically last **30–50 years** but require periodic mortar and underlayment attention.
 - Multiple leak points exist in different roof sections.
 - The roof deck shows soft spots, rot, or significant moisture damage.
-- A second layer of shingles is already in place. Arizona building code generally limits roofs to two layers before a full tear-off is required.
+- A second layer of shingles is already in place. [Arizona building code generally limits roofs to two layers before a full tear-off is required](https://codes.iccsafe.org/codes/arizona).
 - Granule loss is severe and uniform, meaning the shingles have lost their UV-reflective coating.
 
 If you are unsure, pay for an independent inspection before committing to a full replacement. A reputable inspector charges $150–$400 and has no financial stake in the outcome. See our guide on [how to read a roof inspection report](/blog/how-to-read-a-roof-inspection-report/) before you hire anyone.
@@ -71,7 +71,7 @@ Several local factors push costs higher:
 
 **Monsoon preparation.** The National Weather Service defines Arizona's monsoon season as June 15 through September 30. Roofing in or around this window often requires ice-and-water shield or high-temp underlayment in valleys and penetrations to handle sudden, wind-driven rain. These upgrades add $500–$1,500 to a typical job but are worth it in this market.
 
-**Permit fees.** Apache Junction requires a roofing permit for full replacements. Permit fees typically run $150–$350 depending on project value. Your contractor should pull this permit; if they offer to skip it, walk away.
+**Permit fees.** Apache Junction requires a roofing permit for full replacements. [Permit fees typically run $150–$350 depending on project value](https://www.maricopa.gov/2384/Obtain-a-Building-Permit). Your contractor should pull this permit; if they offer to skip it, walk away.
 
 **Tear-off costs.** If tile was the previous material, tear-off is labor-intensive. Removing existing clay or concrete tile adds $1,000–$2,500 to the project compared to stripping asphalt shingles.
 
@@ -103,7 +103,7 @@ For a side-by-side comparison of all materials used in East Valley climates, see
 
 **What is the best way to get a fair price on a roof replacement in Apache Junction?**
 
-Get at least three written quotes from licensed Arizona contractors, compare them line by line, and verify each contractor's license with the [Arizona Registrar of Contractors](https://roc.az.gov/) before signing anything.
+Get at least three written quotes from [licensed Arizona contractors](https://roc.az.gov/license-classifications), compare them line by line, and [verify each contractor's license](https://roc.az.gov/search) with the [Arizona Registrar of Contractors](https://roc.az.gov/) before signing anything.
 
 Here is what a complete quote should include:
 
