@@ -3,36 +3,42 @@ import Anthropic from '@anthropic-ai/sdk';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-const SQFT_MAP: Record<string, { low: number; high: number; label: string }> = {
-  under1500: { low: 1100, high: 1500, label: 'under 1,500 sq ft' },
-  '1500-2500': { low: 1500, high: 2500, label: '1,500–2,500 sq ft' },
-  '2500-3500': { low: 2500, high: 3500, label: '2,500–3,500 sq ft' },
-  '3500plus': { low: 3500, high: 5000, label: 'over 3,500 sq ft' },
+const SIZE_LABELS: Record<string, string> = {
+  under1500: 'under 1,500 sq ft',
+  '1500-2500': '1,500–2,500 sq ft',
+  '2500-3500': '2,500–3,500 sq ft',
+  '3500plus': 'over 3,500 sq ft',
 };
 
-// AZ average pitch factor: 1.3 (low-slope desert homes skew lower)
-const PITCH = 1.3;
-
-const COST_PER_SQFT: Record<string, Record<string, { low: number; high: number }>> = {
-  shingle: {
-    standard: { low: 7, high: 9 },
-    mid:      { low: 9, high: 13 },
-    premium:  { low: 13, high: 16 },
+// Direct lookup of installed roof replacement cost by home size and material,
+// Arizona 2026 market ranges. Replaces the old per-sqft * pitch formula, which
+// overshot badly at the high end (a large premium tile roof computed to
+// $100k-$182k). Each range already spans standard-to-premium materials, so the
+// low/high here are the final output figures — no further multiplier applied.
+const COST_TABLE: Record<string, Record<string, { low: number; high: number }>> = {
+  under1500: {
+    shingle: { low: 7000,  high: 14000 },
+    tile:    { low: 10000, high: 20000 },
+    foam:    { low: 4000,  high: 8000  },
+    metal:   { low: 8000,  high: 16000 },
   },
-  tile: {
-    standard: { low: 12, high: 16 },
-    mid:      { low: 16, high: 22 },
-    premium:  { low: 22, high: 28 },
+  '1500-2500': {
+    shingle: { low: 8000,  high: 18000 },
+    tile:    { low: 12000, high: 25000 },
+    foam:    { low: 5000,  high: 10000 },
+    metal:   { low: 10000, high: 20000 },
   },
-  foam: {
-    standard: { low: 4, high: 6 },
-    mid:      { low: 6, high: 7 },
-    premium:  { low: 7, high: 8 },
+  '2500-3500': {
+    shingle: { low: 14000, high: 25000 },
+    tile:    { low: 20000, high: 35000 },
+    foam:    { low: 8000,  high: 15000 },
+    metal:   { low: 16000, high: 28000 },
   },
-  metal: {
-    standard: { low: 10, high: 14 },
-    mid:      { low: 14, high: 17 },
-    premium:  { low: 17, high: 20 },
+  '3500plus': {
+    shingle: { low: 20000, high: 35000 },
+    tile:    { low: 28000, high: 50000 },
+    foam:    { low: 12000, high: 22000 },
+    metal:   { low: 22000, high: 40000 },
   },
 };
 
@@ -49,16 +55,16 @@ const TIER_LABELS: Record<string, string> = {
   premium: 'premium',
 };
 
-// Static last-resort ranges by home size, used only if the local cost math
-// itself cannot run (bad input, unexpected throw). Reasonable Arizona market
-// figures so the UI always renders a sane number instead of a 500.
+// Absolute last-resort ranges by home size, used only if the inputs are so
+// malformed that we cannot look up a real range (bad size key, unexpected
+// throw). Keeps the UI rendering a sane number instead of a 500.
 const STATIC_FALLBACK: Record<string, { low: number; high: number }> = {
-  under1500:   { low: 8000,  high: 18000 },
-  '1500-2500': { low: 8000,  high: 18000 },
-  '2500-3500': { low: 18000, high: 35000 },
-  '3500plus':  { low: 18000, high: 35000 },
+  under1500:   { low: 7000,  high: 16000 },
+  '1500-2500': { low: 8000,  high: 20000 },
+  '2500-3500': { low: 14000, high: 35000 },
+  '3500plus':  { low: 20000, high: 50000 },
 };
-const DEFAULT_FALLBACK = { low: 8000, high: 18000 };
+const DEFAULT_FALLBACK = { low: 8000, high: 20000 };
 const FALLBACK_NOTE =
   'Estimate based on current Arizona market ranges. Get a free quote for your specific roof.';
 
@@ -90,23 +96,22 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Missing fields' }, { status: 400 });
     }
 
-    const sqftRange = SQFT_MAP[sqft];
-    const costRange = COST_PER_SQFT[roofType]?.[tier];
-    if (!sqftRange || !costRange) {
+    const sizeLabel = SIZE_LABELS[sqft];
+    const costRange = COST_TABLE[sqft]?.[roofType];
+    if (!sizeLabel || !costRange) {
       return NextResponse.json({ error: 'Invalid inputs' }, { status: 400 });
     }
 
-    // Cost math is fully local — it never needs the API.
-    const roofSqftLow  = Math.round(sqftRange.low  * PITCH);
-    const roofSqftHigh = Math.round(sqftRange.high * PITCH);
-    const costLow  = Math.round((roofSqftLow  * costRange.low)  / 100) * 100;
-    const costHigh = Math.round((roofSqftHigh * costRange.high) / 100) * 100;
+    // Direct table lookup — no per-sqft math, no pitch multiplier. The range is
+    // the answer. Never needs the API.
+    const costLow = costRange.low;
+    const costHigh = costRange.high;
     const midpoint = Math.round((costLow + costHigh) / 200) * 100;
 
     const cacheKey = `${sqft}|${roofType}|${tier}`;
 
-    // 1. Cache hit: return the real estimate with a previously generated
-    //    explanation and make no API call at all.
+    // 1. Cache hit: return the estimate with a previously generated explanation
+    //    and make no API call at all.
     const cached = getCached(cacheKey);
     if (cached) {
       return NextResponse.json({
@@ -116,7 +121,7 @@ export async function POST(req: NextRequest) {
 
     // 2. Cache miss: try the AI explanation. If the API fails for ANY reason
     //    (insufficient credit, timeout, 4xx/5xx), fall back to the static note
-    //    but still return the real, locally computed numbers.
+    //    but still return the real, table-looked-up numbers.
     try {
       const message = await client.messages.create({
         model: 'claude-haiku-4-5-20251001',
@@ -126,7 +131,7 @@ export async function POST(req: NextRequest) {
         messages: [
           {
             role: 'user',
-            content: `Write exactly 3 sentences explaining this roof replacement cost estimate to a homeowner. Facts: home size ${sqftRange.label}, ${ROOF_LABELS[roofType]} roof, ${TIER_LABELS[tier]} materials, estimated total cost $${costLow.toLocaleString()}–$${costHigh.toLocaleString()} in the Arizona market. Explain what's driving the range, one real factor specific to this roof type, and one honest caveat. Output only the 3 sentences.`,
+            content: `Write exactly 3 sentences explaining this roof replacement cost estimate to a homeowner. Facts: home size ${sizeLabel}, ${ROOF_LABELS[roofType]} roof, ${TIER_LABELS[tier]} materials, estimated total cost $${costLow.toLocaleString()}–$${costHigh.toLocaleString()} in the Arizona market. Explain what's driving the range, one real factor specific to this roof type, and one honest caveat. Output only the 3 sentences.`,
           },
         ],
       });
@@ -142,22 +147,18 @@ export async function POST(req: NextRequest) {
         '[estimate] AI explanation unavailable, serving static fallback:',
         aiErr instanceof Error ? aiErr.message : aiErr,
       );
-      // Use the vetted static range for this home size, not the computed number.
-      // The per-sqft formula overshoots badly at the high end, so a conservative
-      // market range is the honest thing to show when we can't generate copy.
-      const fb = STATIC_FALLBACK[sqft] ?? DEFAULT_FALLBACK;
+      // The table lookup is reliable, so serve the real numbers with the static
+      // note. Only the copy degrades, not the estimate.
       return NextResponse.json({
-        low: fb.low,
-        high: fb.high,
-        midpoint: Math.round((fb.low + fb.high) / 200) * 100,
+        low: costLow, high: costHigh, midpoint,
         explanation: FALLBACK_NOTE,
         note: FALLBACK_NOTE,
         fallback: true,
       });
     }
   } catch (err) {
-    // Absolute last resort: even the local math threw. Never 500 — serve a
-    // static range for the home size and a note.
+    // Absolute last resort: inputs were unreadable or something threw before we
+    // could look up a range. Never 500 — serve a static range for the size.
     console.error(
       '[estimate] hard failure, serving static range fallback:',
       err instanceof Error ? err.message : err,
