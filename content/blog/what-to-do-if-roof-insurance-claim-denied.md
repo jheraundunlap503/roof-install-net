@@ -2,7 +2,7 @@
 title: "What to Do If Your Roof Insurance Claim Is Denied"
 slug: what-to-do-if-roof-insurance-claim-denied
 date: 2026-08-03
-published: false
+published: true
 scheduled_date: 2026-08-04
 meta_title: "What to Do If Your Roof Insurance Claim Is Denied"
 meta_description: "Denied roof insurance claim in Arizona? The exact steps to read the denial letter, gather proof, appeal, and file a state complaint that gets results."
