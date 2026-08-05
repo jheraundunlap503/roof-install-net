@@ -2,7 +2,7 @@
 title: "Roofing Financing Options in Arizona: 7 Ways to Pay"
 slug: roofing-financing-options-arizona
 date: 2026-08-03
-published: false
+published: true
 scheduled_date: 2026-08-05
 meta_title: "Roof Financing Options in Arizona: 7 Ways to Pay"
 meta_description: "Compare 7 ways to finance a new roof in Arizona: personal loans, home equity, HELOC, FHA loans, contractor financing, tax credits, and what to avoid."
