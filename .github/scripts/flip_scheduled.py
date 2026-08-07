@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """
 Scans content/blog/, content/services/, content/cities/ for files where
-  published: false  AND  scheduled_date == today (Arizona MST, UTC-7).
+  published: false  AND  scheduled_date <= today (Arizona MST, UTC-7).
 Flips matching files to published: true and writes GITHUB_OUTPUT.
+
+The comparison is <=, not ==, so a day the workflow does not run (GitHub
+outage, dropped runner, missed cron) does not strand an article at
+published: false forever. The backlog drains on the next successful run,
+oldest first, capped at MAX_PER_RUN to honor the 2-per-day publish limit.
 """
 
 import os
@@ -12,6 +17,7 @@ from datetime import datetime, timezone, timedelta
 ARIZONA_TZ    = timezone(timedelta(hours=-7))   # UTC-7 year-round (no DST)
 CONTENT_DIRS  = ['content/blog', 'content/services', 'content/cities']
 GITHUB_OUTPUT = os.environ.get('GITHUB_OUTPUT', '')
+MAX_PER_RUN   = 2                               # never publish >2 per day
 
 
 def today_az():
@@ -40,7 +46,8 @@ def flip_published(content):
 def main():
     today = today_az()
     print(f"Today (Arizona): {today}")
-    changed = []
+
+    due, pending, unreviewed = [], [], []
 
     for d in CONTENT_DIRS:
         if not os.path.isdir(d):
@@ -51,18 +58,39 @@ def main():
             path = os.path.join(d, fn)
             text = open(path, encoding='utf-8').read()
 
+            if get_field(text, 'published') != 'false':
+                continue
+
+            sched = get_field(text, 'scheduled_date')
+            if not sched:
+                continue
+
             # An unreviewed draft must never publish, whatever its date says.
             # Deleting the review_flags line is the human approval signal.
             if has_review_flags(text):
-                if get_field(text, 'scheduled_date') == today:
-                    print(f"  SKIPPED (still unreviewed): {path}")
+                if sched <= today:
+                    unreviewed.append((sched, path))
                 continue
 
-            if get_field(text, 'published') == 'false' \
-                    and get_field(text, 'scheduled_date') == today:
-                open(path, 'w', encoding='utf-8').write(flip_published(text))
-                print(f"  Flipped: {path}")
-                changed.append(path)
+            # ISO dates sort and compare correctly as plain strings.
+            (due if sched <= today else pending).append((sched, path))
+
+    due.sort()          # oldest backlog first
+    changed = []
+
+    for sched, path in due[:MAX_PER_RUN]:
+        text = open(path, encoding='utf-8').read()
+        open(path, 'w', encoding='utf-8').write(flip_published(text))
+        late = '' if sched == today else f'  (LATE, was due {sched})'
+        print(f"  Flipped: {path}{late}")
+        changed.append(path)
+
+    for sched, path in due[MAX_PER_RUN:]:
+        print(f"  HELD (over {MAX_PER_RUN}/run cap, due {sched}): {path}")
+    for sched, path in unreviewed:
+        print(f"  SKIPPED (still unreviewed, due {sched}): {path}")
+    for sched, path in sorted(pending)[:3]:
+        print(f"  Not yet due ({sched}): {path}")
 
     if GITHUB_OUTPUT:
         with open(GITHUB_OUTPUT, 'a') as f:
@@ -70,7 +98,8 @@ def main():
             if changed:
                 f.write(f'changed_paths={",".join(changed)}\n')
 
-    print(f"\n{len(changed)} file(s) flipped.")
+    print(f"\n{len(changed)} file(s) flipped. "
+          f"{len(due) - len(changed)} still due, {len(pending)} scheduled ahead.")
 
 
 if __name__ == '__main__':
