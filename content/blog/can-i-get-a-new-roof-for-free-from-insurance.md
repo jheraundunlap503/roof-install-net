@@ -2,7 +2,7 @@
 title: "Can I Get a New Roof for Free From Insurance?"
 slug: can-i-get-a-new-roof-for-free-from-insurance
 date: 2026-08-03
-published: false
+published: true
 scheduled_date: 2026-08-07
 meta_title: "Can I Get a New Roof for Free From Insurance?"
 meta_description: "Can you get a free roof from insurance? The honest answer, what storm damage is actually covered, why you always pay the deductible, and the free-roof scam."
