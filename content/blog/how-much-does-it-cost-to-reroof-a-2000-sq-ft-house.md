@@ -2,7 +2,7 @@
 title: "How Much Does It Cost to Reroof a 2000 Sq Ft House?"
 slug: how-much-does-it-cost-to-reroof-a-2000-sq-ft-house
 date: 2026-08-03
-published: false
+published: true
 scheduled_date: 2026-08-06
 meta_title: "Cost to Reroof a 2000 Sq Ft House (Arizona 2026)"
 meta_description: "A 2,000 sq ft house needs roughly 20-25 roofing squares. See real Arizona reroof costs by material, what a roofing square is, and what drives the price."
