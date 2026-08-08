@@ -2,7 +2,7 @@
 title: "Does Homeowners Insurance Cover Roof Replacement?"
 slug: does-homeowners-insurance-cover-roof-replacement
 date: 2026-08-03
-published: false
+published: true
 scheduled_date: 2026-08-08
 meta_title: "Does Homeowners Insurance Cover Roof Replacement?"
 meta_description: "Does homeowners insurance cover roof replacement? Yes for storm damage, no for age or wear. How roof age, depreciation, and ACV vs RCV change your payout."
