@@ -5,7 +5,7 @@ city: Scottsdale
 service: Foam Roofing
 date: 2026-08-05
 scheduled_date: 2026-08-11
-published: false
+published: true
 meta_title: Foam Roofing Scottsdale AZ | SPF Cost, Permits & Vetting
 meta_description: Foam roofing in Scottsdale, AZ runs $6-$10 per sq ft installed. Costs by roof size, City of Scottsdale permits, HOA guidance, and how to vet SPF crews.
 primary_keyword: foam roofing scottsdale az
