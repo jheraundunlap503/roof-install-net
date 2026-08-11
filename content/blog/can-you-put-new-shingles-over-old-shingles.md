@@ -68,7 +68,7 @@ Narrow cases, and they are legitimate:
 2. **A property you are selling within two to three years**, where disclosed layer count is acceptable to buyers in your market.
 3. **A small, simple, low-slope-free roof** where tear-off logistics dominate the cost.
 
-If your roof already has two layers, the question is settled. A third is not permitted, and stripping to the deck is the only path.
+If your roof already has two layers, the question is settled. A third is not permitted, and stripping to the deck is the only path. For what each Arizona city publishes on the limit, see [how many layers of shingles you can have on a roof](/blog/how-many-layers-of-shingles-can-you-have-on-a-roof/).
 
 ## How do you tell how many layers you already have?
 
