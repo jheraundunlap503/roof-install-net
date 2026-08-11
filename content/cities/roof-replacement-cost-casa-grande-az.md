@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Casa Grande AZ: 2026 Homeowner Pricing Guide"
 slug: roof-replacement-cost-casa-grande-az
 date: 2026-08-04
-published: false
+published: true
 scheduled_date: 2026-08-10
 meta_title: "Roof Replacement Cost Casa Grande AZ (2026)"
 meta_description: "What roof replacement costs in Casa Grande AZ. Real prices for tile, shingle, and foam roofs, plus City of Casa Grande permits and local heat factors."

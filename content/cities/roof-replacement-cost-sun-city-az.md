@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost in Sun City AZ: 2026 Homeowner Pricing Guide"
 slug: roof-replacement-cost-sun-city-az
 date: 2026-08-04
-published: false
+published: true
 scheduled_date: 2026-08-09
 meta_title: "Roof Replacement Cost Sun City AZ (2026)"
 meta_description: "What roof replacement costs in Sun City AZ. Real prices for foam, tile, and shingle roofs, plus Maricopa County permits and local factors for retirees."
