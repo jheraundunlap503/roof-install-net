@@ -5,7 +5,7 @@ city: Chandler
 service: Tile Roof Replacement
 date: 2026-08-10
 scheduled_date: 2026-08-12
-published: false
+published: true
 meta_title: Tile Roof Replacement Chandler AZ | Cost & Permit Guide
 meta_description: Tile roof replacement in Chandler, AZ runs $12,000 to $24,000. Permit rules, when an engineering analysis is required, HOA steps, and how to vet a crew.
 primary_keyword: tile roof replacement chandler az
