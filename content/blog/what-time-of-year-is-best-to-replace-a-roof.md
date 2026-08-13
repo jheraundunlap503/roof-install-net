@@ -3,7 +3,7 @@ title: What Time of Year Is Best to Replace a Roof?
 slug: what-time-of-year-is-best-to-replace-a-roof
 date: 2026-08-10
 scheduled_date: 2026-08-13
-published: false
+published: true
 meta_title: Best Time of Year to Replace a Roof (Arizona Guide)
 meta_description: Most roofing advice says fall. In Arizona the answer is winter. Why monsoon season, extreme heat, and off-season pricing flip the usual seasonal rules.
 primary_keyword: what time of year is best to replace a roof
