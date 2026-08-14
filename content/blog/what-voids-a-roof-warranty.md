@@ -3,7 +3,7 @@ title: What Voids a Roof Warranty?
 slug: what-voids-a-roof-warranty
 date: 2026-08-11
 scheduled_date: 2026-08-14
-published: false
+published: true
 meta_title: What Voids a Roof Warranty? (Arizona Homeowner Guide)
 meta_description: Satellite dishes do not void your material warranty. What actually voids each roof warranty, plus the 2-year Arizona ROC complaint deadline.
 primary_keyword: what voids a roof warranty
