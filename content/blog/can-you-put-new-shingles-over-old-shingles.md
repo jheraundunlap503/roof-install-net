@@ -3,7 +3,7 @@ title: Can You Put New Shingles Over Old Shingles?
 slug: can-you-put-new-shingles-over-old-shingles
 date: 2026-08-11
 scheduled_date: 2026-08-15
-published: false
+published: true
 meta_title: Can You Put New Shingles Over Old Shingles? (Arizona)
 meta_description: Usually yes, legally. In Arizona you usually should not. What a layover saves, what it hides, and why the layer it covers is the one that fails here.
 primary_keyword: can you put new shingles over old shingles
