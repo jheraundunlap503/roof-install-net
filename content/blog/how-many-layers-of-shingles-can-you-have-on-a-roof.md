@@ -3,7 +3,7 @@ title: How Many Layers of Shingles Can You Have on a Roof?
 slug: how-many-layers-of-shingles-can-you-have-on-a-roof
 date: 2026-08-11
 scheduled_date: 2026-08-16
-published: false
+published: true
 meta_title: How Many Layers of Shingles Are Allowed on a Roof?
 meta_description: Two is the limit in Phoenix, Chandler, and most of Arizona. What each city actually publishes, how to count your layers, and what to do at the cap.
 primary_keyword: how many layers of shingles can you have on a roof
