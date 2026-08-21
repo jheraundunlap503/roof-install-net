@@ -1,123 +1,143 @@
-keyword,type,intent,priority,status,notes
-roofing scam arizona,blog,informational,high,published,Week 1 - trust content
-questions to ask roofing contractor,blog,informational,high,published,Week 1
-storm chaser roofer arizona,blog,informational,high,published,Week 1
-arizona roofing contractor license,blog,informational,medium,published,Week 1
-roofing estimate vs contract,blog,informational,medium,published,Week 1
-negotiate roof insurance claim,blog,informational,high,published,Week 2
-hail damage roof arizona,blog,informational,high,published,Week 2 - Oct 2025 event relevant
-how to file roof insurance claim,blog,informational,high,published,Week 2
-roof damage insurance coverage arizona,blog,informational,high,published,Week 2
-insurance adjuster lowball roof claim,blog,informational,high,published,Week 2
-tile vs shingle roof arizona,blog,informational,high,published,Week 3 - evergreen
-how long does a roof last arizona,blog,informational,high,published,Week 3
-foam roofing arizona,blog,informational,medium,published,Week 3
-metal roof arizona,blog,informational,medium,published,Week 3
-roofing underlayment importance,blog,informational,medium,published,Week 3
-roof replacement cost arizona 2026,blog,commercial,high,published,Week 4 - high intent
-new roof home value arizona,blog,commercial,high,published,Week 4
-how to get roofing bids,blog,informational,medium,published,Week 4
-what does roofing estimate include,blog,informational,medium,published,Week 4
-cost of delaying roof replacement,blog,informational,medium,published,Week 4
-hoa roof replacement gilbert arizona,blog,informational,high,published,Week 4 - local
-hoa roof approval chandler arizona,blog,informational,high,published,Week 4 - local
-maricopa county roofing permit,blog,informational,medium,published,Week 4
-gaf master elite certification,blog,informational,medium,published,Week 4
-pre monsoon roof inspection arizona,blog,informational,high,published,Week 4 - seasonal
-how long does roof replacement take,blog,informational,low,published,Week 5 - FAQ
-spray foam over old roof,blog,informational,medium,published,Week 5 - FAQ
-replace roof before selling house,blog,commercial,high,published,Week 5
-how to tell if roof has hail damage,blog,informational,high,published,Week 5
-roof replacement cost by square footage arizona,blog,commercial,high,published,Month 2
-arizona roofing materials lifespan,blog,informational,medium,skip-duplicate,Month 2 - covered by how-long-does-a-roof-last-arizona
-what causes roof failure arizona,blog,informational,medium,published,Month 2
-how to read roofing warranty,blog,informational,medium,published,Month 2
-permits required roof replacement arizona,blog,informational,medium,published,Month 2
-cool roof coating arizona,blog,informational,medium,published,Month 2
-roof repair vs replacement,blog,commercial,high,published,Month 2
-foam roofing mesa az,service,transactional,high,published,Month 2 - zipper
-tile roof replacement gilbert az,service,transactional,high,published,Month 2 - zipper
-shingle roof replacement chandler az,service,transactional,high,published,Month 2 - zipper
-roof repair queen creek az,service,transactional,high,published,Month 2 - zipper
-emergency roofing mesa az,service,transactional,high,published,Month 2 - zipper
-storm damage roofing gilbert az,service,transactional,high,published,Month 2 - zipper
-roof inspection chandler az,service,transactional,high,published,Month 2 - zipper
-foam roofing gilbert az,service,transactional,high,published,Month 2 - zipper
-tile roof replacement mesa az,service,transactional,high,published,Month 2 - zipper
-shingle roof replacement tempe az,service,transactional,high,published,Month 2 - zipper
-roof repair scottsdale az,service,transactional,high,published,Batch 2 - published 2026-06-24
-foam roofing chandler az,service,transactional,high,published,Batch 2 - published 2026-06-25
-tile roof replacement scottsdale az,service,transactional,high,published,Batch 2 - published 2026-06-24
-emergency roofing gilbert az,service,transactional,high,published,Batch 2 - published 2026-06-25
-roof inspection mesa az,service,transactional,high,published,Batch 3 - published 2026-06-26
-shingle roof replacement gilbert az,service,transactional,high,published,Month 2 - zipper - published 2026-06-27
-foam roofing scottsdale az,service,transactional,medium,published,Month 2 - zipper
-tile roof replacement chandler az,service,transactional,medium,published,Month 2 - zipper
-roof replacement cost phoenix az,city,commercial,high,published,Month 3 - national
-roof installation cost tucson az,city,commercial,high,published,Month 3 - national
-roof replacement cost las vegas nv,city,commercial,high,published,Month 3 - national
-roof installation cost denver co,city,commercial,high,published,Month 3 - national
-roof replacement cost dallas tx,city,commercial,high,hold,Month 6 - national expansion
-roof installation cost houston tx,city,commercial,high,hold,Month 6 - national expansion
-roof replacement cost atlanta ga,city,commercial,high,hold,Month 6 - national expansion
-roof installation cost charlotte nc,city,commercial,high,hold,Month 6 - national expansion
-roof replacement cost tampa fl,city,commercial,high,hold,Month 6 - national expansion
-roof installation cost orlando fl,city,commercial,high,hold,Month 6 - national expansion
-roof replacement cost nashville tn,city,commercial,medium,hold,Month 6 - national expansion
-roof installation cost austin tx,city,commercial,medium,hold,Month 6 - national expansion
-roof replacement cost san antonio tx,city,commercial,medium,hold,Month 6 - national expansion
-roof installation cost albuquerque nm,city,commercial,medium,hold,Month 6 - national expansion
-roof replacement cost salt lake city ut,city,commercial,medium,hold,Month 6 - national expansion
-roof replacement cost gilbert az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost chandler az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost scottsdale az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost queen creek az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost san tan valley az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost peoria az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost glendale az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost tempe az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost ahwatukee az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost apache junction az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost surprise az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost avondale az,city,commercial,high,published,Phoenix metro - local priority
-roof replacement cost goodyear az,city,commercial,high,published,Phoenix metro - local priority
-roofer damaged my property,blog,informational,high,published,Week 5 - FAQ - interleaved
-roof replacement cost buckeye az,city,commercial,high,published,Phoenix metro - local priority
-solar panel roof replacement arizona,blog,informational,high,published,Month 2 - interleaved
-roof replacement cost tucson az,city,commercial,high,published,Phoenix metro adjacent - local priority
-arizona roofing materials climate,blog,informational,high,published,Month 2 - interleaved
-roof replacement cost mesa az,city,commercial,high,published,Phoenix metro - batch 2 interleaved
-attic ventilation roof arizona,blog,informational,high,published,batch 2 interleaved
-roof replacement cost paradise valley az,city,commercial,high,published,Phoenix metro - batch 2 interleaved
-how to find a roof leak,blog,informational,high,published,batch 2 interleaved
-roof replacement cost fountain hills az,city,commercial,high,published,Phoenix metro - batch 2 interleaved
-roof decking replacement cost arizona,blog,informational,high,published,batch 2 interleaved
-roof replacement cost sun city az,city,commercial,high,published,Phoenix metro - batch 2 interleaved
-roofing financing options arizona,blog,commercial,high,published,batch 2 interleaved
-roof replacement cost casa grande az,city,commercial,high,published,Phoenix metro - batch 2 interleaved
-what to do if roof insurance claim denied,blog,informational,high,published,batch 2 interleaved
-what is a fair price for roof replacement,faq,informational,high,published,Batch 3 - published 2026-06-26
-how much does it cost to reroof a 2000 sq ft house,faq,commercial,high,published,FAQ series
-can i get a new roof for free from insurance,faq,informational,high,published,FAQ series
-how long does it take to replace a roof on a house,faq,informational,medium,skip-duplicate,Same intent as published how-long-does-roof-replacement-take (2026-06-10)
-what time of year is best to replace a roof,faq,informational,medium,published,FAQ series
-does homeowners insurance cover roof replacement,faq,informational,high,published,FAQ series
-how do i know if my roof needs to be replaced,faq,informational,high,published,FAQ series - published 2026-06-27
-what voids a roof warranty,faq,informational,medium,published,FAQ series
-can you put new shingles over old shingles,faq,informational,medium,published,FAQ series
-how many layers of shingles can you have on a roof,faq,informational,low,published,FAQ series
-monsoon roof damage arizona 2026,blog,informational,high,drafted,Batch 3 - approved 2026-08-20
-how to find a reputable roofer arizona,blog,informational,high,drafted,Batch 3 - approved 2026-08-20
-emergency roof repair arizona,blog,transactional,high,drafted,Batch 3 - approved 2026-08-20
-roof replacement cost phoenix az 2026,blog,commercial,high,drafted,Batch 3 - approved 2026-08-20
-arizona roof inspection checklist,blog,informational,high,drafted,Batch 3 - approved 2026-08-20
-flat roof replacement cost arizona,blog,commercial,high,drafted,Batch 3 - approved 2026-08-20
-roof warranty arizona what it covers,blog,informational,medium,drafted,Batch 3 - approved 2026-08-20
-roof repair glendale az,service,transactional,medium,drafted,Batch 3 - approved 2026-08-20
-shingle roof replacement peoria az,service,transactional,medium,drafted,Batch 3 - approved 2026-08-20
-tile roof repair arizona,blog,informational,low,drafted,Batch 3 - approved 2026-08-20
-flat roof coating arizona,blog,informational,low,drafted,Batch 3 - approved 2026-08-20
-emergency roof repair phoenix az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21"
-roof inspection phoenix az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21"
-roof repair surprise az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21"
-storm damage roofing phoenix az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21"
+keyword,type,intent,priority,status,notes,pillar
+roofing scam arizona,blog,informational,high,published,Week 1 - trust content,
+questions to ask roofing contractor,blog,informational,high,published,Week 1,
+storm chaser roofer arizona,blog,informational,high,published,Week 1,
+arizona roofing contractor license,blog,informational,medium,published,Week 1,
+roofing estimate vs contract,blog,informational,medium,published,Week 1,
+negotiate roof insurance claim,blog,informational,high,published,Week 2,
+hail damage roof arizona,blog,informational,high,published,Week 2 - Oct 2025 event relevant,
+how to file roof insurance claim,blog,informational,high,published,Week 2,
+roof damage insurance coverage arizona,blog,informational,high,published,Week 2,
+insurance adjuster lowball roof claim,blog,informational,high,published,Week 2,
+tile vs shingle roof arizona,blog,informational,high,published,Week 3 - evergreen,
+how long does a roof last arizona,blog,informational,high,published,Week 3,
+foam roofing arizona,blog,informational,medium,published,Week 3,
+metal roof arizona,blog,informational,medium,published,Week 3,
+roofing underlayment importance,blog,informational,medium,published,Week 3,
+roof replacement cost arizona 2026,blog,commercial,high,published,Week 4 - high intent,
+new roof home value arizona,blog,commercial,high,published,Week 4,
+how to get roofing bids,blog,informational,medium,published,Week 4,
+what does roofing estimate include,blog,informational,medium,published,Week 4,
+cost of delaying roof replacement,blog,informational,medium,published,Week 4,
+hoa roof replacement gilbert arizona,blog,informational,high,published,Week 4 - local,
+hoa roof approval chandler arizona,blog,informational,high,published,Week 4 - local,
+maricopa county roofing permit,blog,informational,medium,published,Week 4,
+gaf master elite certification,blog,informational,medium,published,Week 4,
+pre monsoon roof inspection arizona,blog,informational,high,published,Week 4 - seasonal,
+how long does roof replacement take,blog,informational,low,published,Week 5 - FAQ,
+spray foam over old roof,blog,informational,medium,published,Week 5 - FAQ,
+replace roof before selling house,blog,commercial,high,published,Week 5,
+how to tell if roof has hail damage,blog,informational,high,published,Week 5,
+roof replacement cost by square footage arizona,blog,commercial,high,published,Month 2,
+arizona roofing materials lifespan,blog,informational,medium,skip-duplicate,Month 2 - covered by how-long-does-a-roof-last-arizona,
+what causes roof failure arizona,blog,informational,medium,published,Month 2,
+how to read roofing warranty,blog,informational,medium,published,Month 2,
+permits required roof replacement arizona,blog,informational,medium,published,Month 2,
+cool roof coating arizona,blog,informational,medium,published,Month 2,
+roof repair vs replacement,blog,commercial,high,published,Month 2,
+foam roofing mesa az,service,transactional,high,published,Month 2 - zipper,
+tile roof replacement gilbert az,service,transactional,high,published,Month 2 - zipper,
+shingle roof replacement chandler az,service,transactional,high,published,Month 2 - zipper,
+roof repair queen creek az,service,transactional,high,published,Month 2 - zipper,
+emergency roofing mesa az,service,transactional,high,published,Month 2 - zipper,
+storm damage roofing gilbert az,service,transactional,high,published,Month 2 - zipper,
+roof inspection chandler az,service,transactional,high,published,Month 2 - zipper,
+foam roofing gilbert az,service,transactional,high,published,Month 2 - zipper,
+tile roof replacement mesa az,service,transactional,high,published,Month 2 - zipper,
+shingle roof replacement tempe az,service,transactional,high,published,Month 2 - zipper,
+roof repair scottsdale az,service,transactional,high,published,Batch 2 - published 2026-06-24,
+foam roofing chandler az,service,transactional,high,published,Batch 2 - published 2026-06-25,
+tile roof replacement scottsdale az,service,transactional,high,published,Batch 2 - published 2026-06-24,
+emergency roofing gilbert az,service,transactional,high,published,Batch 2 - published 2026-06-25,
+roof inspection mesa az,service,transactional,high,published,Batch 3 - published 2026-06-26,
+shingle roof replacement gilbert az,service,transactional,high,published,Month 2 - zipper - published 2026-06-27,
+foam roofing scottsdale az,service,transactional,medium,published,Month 2 - zipper,
+tile roof replacement chandler az,service,transactional,medium,published,Month 2 - zipper,
+roof replacement cost phoenix az,city,commercial,high,published,Month 3 - national,
+roof installation cost tucson az,city,commercial,high,published,Month 3 - national,
+roof replacement cost las vegas nv,city,commercial,high,published,Month 3 - national,
+roof installation cost denver co,city,commercial,high,published,Month 3 - national,
+roof replacement cost dallas tx,city,commercial,high,hold,Month 6 - national expansion,
+roof installation cost houston tx,city,commercial,high,hold,Month 6 - national expansion,
+roof replacement cost atlanta ga,city,commercial,high,hold,Month 6 - national expansion,
+roof installation cost charlotte nc,city,commercial,high,hold,Month 6 - national expansion,
+roof replacement cost tampa fl,city,commercial,high,hold,Month 6 - national expansion,
+roof installation cost orlando fl,city,commercial,high,hold,Month 6 - national expansion,
+roof replacement cost nashville tn,city,commercial,medium,hold,Month 6 - national expansion,
+roof installation cost austin tx,city,commercial,medium,hold,Month 6 - national expansion,
+roof replacement cost san antonio tx,city,commercial,medium,hold,Month 6 - national expansion,
+roof installation cost albuquerque nm,city,commercial,medium,hold,Month 6 - national expansion,
+roof replacement cost salt lake city ut,city,commercial,medium,hold,Month 6 - national expansion,
+roof replacement cost gilbert az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost chandler az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost scottsdale az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost queen creek az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost san tan valley az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost peoria az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost glendale az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost tempe az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost ahwatukee az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost apache junction az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost surprise az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost avondale az,city,commercial,high,published,Phoenix metro - local priority,
+roof replacement cost goodyear az,city,commercial,high,published,Phoenix metro - local priority,
+roofer damaged my property,blog,informational,high,published,Week 5 - FAQ - interleaved,
+roof replacement cost buckeye az,city,commercial,high,published,Phoenix metro - local priority,
+solar panel roof replacement arizona,blog,informational,high,published,Month 2 - interleaved,
+roof replacement cost tucson az,city,commercial,high,published,Phoenix metro adjacent - local priority,
+arizona roofing materials climate,blog,informational,high,published,Month 2 - interleaved,
+roof replacement cost mesa az,city,commercial,high,published,Phoenix metro - batch 2 interleaved,
+attic ventilation roof arizona,blog,informational,high,published,batch 2 interleaved,
+roof replacement cost paradise valley az,city,commercial,high,published,Phoenix metro - batch 2 interleaved,
+how to find a roof leak,blog,informational,high,published,batch 2 interleaved,
+roof replacement cost fountain hills az,city,commercial,high,published,Phoenix metro - batch 2 interleaved,
+roof decking replacement cost arizona,blog,informational,high,published,batch 2 interleaved,
+roof replacement cost sun city az,city,commercial,high,published,Phoenix metro - batch 2 interleaved,
+roofing financing options arizona,blog,commercial,high,published,batch 2 interleaved,
+roof replacement cost casa grande az,city,commercial,high,published,Phoenix metro - batch 2 interleaved,
+what to do if roof insurance claim denied,blog,informational,high,published,batch 2 interleaved,
+what is a fair price for roof replacement,faq,informational,high,published,Batch 3 - published 2026-06-26,
+how much does it cost to reroof a 2000 sq ft house,faq,commercial,high,published,FAQ series,
+can i get a new roof for free from insurance,faq,informational,high,published,FAQ series,
+how long does it take to replace a roof on a house,faq,informational,medium,skip-duplicate,Same intent as published how-long-does-roof-replacement-take (2026-06-10),
+what time of year is best to replace a roof,faq,informational,medium,published,FAQ series,
+does homeowners insurance cover roof replacement,faq,informational,high,published,FAQ series,
+how do i know if my roof needs to be replaced,faq,informational,high,published,FAQ series - published 2026-06-27,
+what voids a roof warranty,faq,informational,medium,published,FAQ series,
+can you put new shingles over old shingles,faq,informational,medium,published,FAQ series,
+how many layers of shingles can you have on a roof,faq,informational,low,published,FAQ series,
+monsoon roof damage arizona 2026,blog,informational,high,drafted,Batch 3 - approved 2026-08-20,
+how to find a reputable roofer arizona,blog,informational,high,drafted,Batch 3 - approved 2026-08-20,
+emergency roof repair arizona,blog,transactional,high,drafted,Batch 3 - approved 2026-08-20,
+roof replacement cost phoenix az 2026,blog,commercial,high,drafted,Batch 3 - approved 2026-08-20,
+arizona roof inspection checklist,blog,informational,high,drafted,Batch 3 - approved 2026-08-20,
+flat roof replacement cost arizona,blog,commercial,high,drafted,Batch 3 - approved 2026-08-20,
+roof warranty arizona what it covers,blog,informational,medium,drafted,Batch 3 - approved 2026-08-20,
+roof repair glendale az,service,transactional,medium,drafted,Batch 3 - approved 2026-08-20,
+shingle roof replacement peoria az,service,transactional,medium,drafted,Batch 3 - approved 2026-08-20,
+tile roof repair arizona,blog,informational,low,drafted,Batch 3 - approved 2026-08-20,
+flat roof coating arizona,blog,informational,low,drafted,Batch 3 - approved 2026-08-20,
+emergency roof repair phoenix az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21",
+roof inspection phoenix az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21",
+roof repair surprise az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21",
+storm damage roofing phoenix az,service,transactional,high,drafted,"Batch 4 - Phoenix service gap, approved 2026-08-21",
+roof replacement cost reddit,faq,commercial,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roof replacement cost 2026 reddit,faq,commercial,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+best roofing contractor reddit,faq,commercial,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+how to find a good roofer reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roofing contractor red flags reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+metal roof vs shingles reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+tile roof vs shingle reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+foam roofing reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roof repair vs replacement reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+is a new roof worth it reddit,faq,commercial,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roof insurance claim denied reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roof insurance claim tips reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+storm chaser roofer reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+diy roof replacement reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roof warranty worth it reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+how long does a roof last reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roof underlayment reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+arizona roofing reddit,faq,informational,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+phoenix roofers reddit,faq,commercial,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources
+roofing quotes too high reddit,faq,commercial,high,queued,Batch 5 Reddit pillar; requested numeric priority 9 stored as high (see below),reddit_resources

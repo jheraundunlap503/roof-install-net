@@ -115,6 +115,8 @@ Key facts for Arizona homeowners:
 
 Before accepting any settlement, verify that the scope covers all damaged areas. Accepting a partial repair payment closes that claim.
 
+If you are still weighing the call, the questions homeowners raise most often about repairing versus replacing are collected in our [roofing advice from Reddit](/blog/roofing-advice-reddit-2026/) rundown.
+
 ## Frequently Asked Questions
 
 **How do I know if my Arizona roof needs repair or replacement without calling a contractor?**

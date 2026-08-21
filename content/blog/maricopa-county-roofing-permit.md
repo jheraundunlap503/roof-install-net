@@ -102,6 +102,8 @@ If your contractor refuses to provide permit documentation, contact the city bui
 
 For a full checklist of what to verify before signing a roofing contract, see [what a roofing estimate vs contract should include](/blog/roofing-estimate-vs-contract) and our guide to [Arizona roofing contractor licensing](/blog/arizona-roofing-contractor-license).
 
+Permit questions come up constantly when homeowners compare notes online. See [roofing advice from Reddit](/blog/roofing-advice-reddit-2026/) for the questions that recur most and a straight answer to each.
+
 ## Frequently Asked Questions
 
 **Can I do my own roofing without a permit in Maricopa County?**

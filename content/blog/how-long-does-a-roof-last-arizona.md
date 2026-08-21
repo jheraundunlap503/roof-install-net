@@ -100,6 +100,8 @@ Our guide on [roof replacement costs in Arizona](/blog/roof-replacement-cost-ari
 
 ---
 
+For the questions homeowners ask most often about roof age, replacement timing, and whether a quote is fair, see [roofing advice from Reddit](/blog/roofing-advice-reddit-2026/).
+
 ## Frequently Asked Questions
 
 **How can I find out how old my Arizona roof is?**
