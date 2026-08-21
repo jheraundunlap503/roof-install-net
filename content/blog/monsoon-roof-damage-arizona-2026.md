@@ -3,7 +3,7 @@ title: "Monsoon Roof Damage in Arizona: 2026 Season Guide"
 slug: monsoon-roof-damage-arizona-2026
 date: 2026-08-20
 scheduled_date: 2026-08-21
-published: false
+published: true
 meta_title: "Monsoon Roof Damage Arizona: 2026 Season Guide"
 meta_description: "The 2026 monsoon has already put 84 mph gusts through the West Valley. What to check, what insurance covers, and whether a claim is worth filing."
 primary_keyword: monsoon roof damage arizona 2026
