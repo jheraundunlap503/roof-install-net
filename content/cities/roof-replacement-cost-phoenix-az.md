@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Roof Replacement Cost in Phoenix, AZ: What Homeowners Actually Pay"
 slug: roof-replacement-cost-phoenix-az
