@@ -3,7 +3,7 @@ title: "Roofing Advice from Reddit: What Homeowners Are Actually Saying in 2026"
 slug: roofing-advice-reddit-2026
 date: 2026-08-21
 scheduled_date: 2026-08-22
-published: false
+published: true
 meta_title: "Roofing Advice from Reddit: What Homeowners Ask in 2026"
 meta_description: "The roofing questions homeowners actually ask on Reddit, and straight answers to each one, from quote sanity checks to denied claims and door knockers."
 primary_keyword: roofing advice reddit
