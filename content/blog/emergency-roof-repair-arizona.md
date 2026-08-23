@@ -3,7 +3,7 @@ title: "Emergency Roof Repair in Arizona: What to Do First"
 slug: emergency-roof-repair-arizona
 date: 2026-08-20
 scheduled_date: 2026-08-23
-published: false
+published: true
 meta_title: "Emergency Roof Repair Arizona: What to Do First"
 meta_description: "Water is coming in. What to do in the first hour, what tarping costs, why your policy requires you to act, and how to avoid the wrong crew at 2 a.m."
 primary_keyword: emergency roof repair arizona
