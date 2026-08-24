@@ -3,7 +3,7 @@ title: "Roof Replacement Cost in Phoenix, AZ: What Changed in 2026"
 slug: roof-replacement-cost-phoenix-az-2026
 date: 2026-08-20
 scheduled_date: 2026-08-24
-published: false
+published: true
 meta_title: "Phoenix Roof Replacement Cost: What Changed in 2026"
 meta_description: "Phoenix roof pricing in 2026: what monsoon demand, insurance tightening, and permit rules are doing to quotes, and when waiting actually costs you money."
 primary_keyword: roof replacement cost phoenix az 2026
