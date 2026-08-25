@@ -3,7 +3,7 @@ title: "Arizona Roof Inspection Checklist"
 slug: arizona-roof-inspection-checklist
 date: 2026-08-20
 scheduled_date: 2026-08-25
-published: false
+published: true
 meta_title: "Arizona Roof Inspection Checklist (Free Homeowner Guide)"
 meta_description: "What a real Arizona roof inspection covers, what you can check yourself from the ground, and the desert-specific items national checklists leave out."
 primary_keyword: arizona roof inspection checklist
