@@ -3,7 +3,7 @@ title: "Flat Roof Replacement Cost in Arizona"
 slug: flat-roof-replacement-cost-arizona
 date: 2026-08-20
 scheduled_date: 2026-08-26
-published: false
+published: true
 meta_title: "Flat Roof Replacement Cost in Arizona (2026)"
 meta_description: "Flat roof replacement in Arizona runs $6 to $12 per square foot. Foam, TPO, and modified bitumen compared, plus why recoating changes the math entirely."
 primary_keyword: flat roof replacement cost arizona
