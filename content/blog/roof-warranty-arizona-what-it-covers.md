@@ -3,7 +3,7 @@ title: "Roof Warranty in Arizona: What It Actually Covers"
 slug: roof-warranty-arizona-what-it-covers
 date: 2026-08-20
 scheduled_date: 2026-08-27
-published: false
+published: true
 meta_title: "Roof Warranty in Arizona: What It Actually Covers"
 meta_description: "Lifetime does not mean free replacement. What each roof warranty tier covers, how proration works, and why labor is the line item that decides the payout."
 primary_keyword: roof warranty arizona what it covers
