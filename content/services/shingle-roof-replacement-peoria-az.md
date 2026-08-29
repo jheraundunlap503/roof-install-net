@@ -5,7 +5,7 @@ city: Peoria
 service: Shingle Roof Replacement
 date: 2026-08-20
 scheduled_date: 2026-08-29
-published: false
+published: true
 meta_title: Shingle Roof Replacement Peoria AZ | Cost & Permits
 meta_description: Shingle roof replacement in Peoria, AZ runs $9,000 to $18,000. Why shingles last 15 to 20 years here, Peoria permit process, and what belongs in a bid.
 primary_keyword: shingle roof replacement peoria az
