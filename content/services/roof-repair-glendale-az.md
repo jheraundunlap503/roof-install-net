@@ -5,7 +5,7 @@ city: Glendale
 service: Roof Repair
 date: 2026-08-20
 scheduled_date: 2026-08-28
-published: false
+published: true
 meta_title: Roof Repair Glendale AZ | Cost, Permits & When to Repair
 meta_description: Roof repair in Glendale, AZ runs $400 to $2,500 for common fixes. West Valley storm exposure, city permit rules, and when repair stops making sense.
 primary_keyword: roof repair glendale az
