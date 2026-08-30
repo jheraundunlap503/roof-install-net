@@ -3,7 +3,7 @@ title: "Tile Roof Repair in Arizona"
 slug: tile-roof-repair-arizona
 date: 2026-08-20
 scheduled_date: 2026-08-30
-published: false
+published: true
 meta_title: "Tile Roof Repair in Arizona: Cost & When It Works"
 meta_description: "Tile roof repair in Arizona runs $400 to $2,500. Why the tile is rarely the problem, how to match discontinued profiles, and when repair stops paying off."
 primary_keyword: tile roof repair arizona
