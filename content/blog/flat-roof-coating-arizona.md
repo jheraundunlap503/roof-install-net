@@ -3,7 +3,7 @@ title: "Flat Roof Coating in Arizona: How the Job Should Be Done"
 slug: flat-roof-coating-arizona
 date: 2026-08-20
 scheduled_date: 2026-08-31
-published: false
+published: true
 meta_title: "Flat Roof Coating in Arizona: How It Should Be Done"
 meta_description: "Coating a flat roof is mostly prep. Silicone vs acrylic for ponding, the moisture survey that decides everything, and how to spot a bad application."
 primary_keyword: flat roof coating arizona
