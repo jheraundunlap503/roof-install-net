@@ -5,7 +5,7 @@ city: Phoenix
 service: Emergency Roof Repair
 date: 2026-08-21
 scheduled_date: 2026-09-01
-published: false
+published: true
 meta_title: Emergency Roof Repair Phoenix AZ | Costs & First Steps
 meta_description: Emergency roof tarping in Phoenix runs $400 to $1,200 and is usually reimbursable. What to do first, what to authorize, and what to refuse at 2 a.m.
 primary_keyword: emergency roof repair phoenix az
