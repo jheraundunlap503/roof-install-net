@@ -5,7 +5,7 @@ city: Phoenix
 service: Roof Inspection
 date: 2026-08-21
 scheduled_date: 2026-09-02
-published: false
+published: true
 meta_title: Roof Inspection Phoenix AZ | Cost, Scope & Free vs Paid
 meta_description: Free Phoenix roof inspections are sales visits. What a paid one costs, what the report must contain, and why underlayment age is the real finding.
 primary_keyword: roof inspection phoenix az
