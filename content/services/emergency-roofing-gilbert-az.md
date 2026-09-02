@@ -34,6 +34,8 @@ Not every storm problem is an emergency. Contractors reserve emergency response 
 
 A few cracked tiles or minor granule loss is not an emergency; it is a repair to schedule within a week or two. Reserving emergency slots for genuine exposure keeps response fast for the homes that need it.
 
+Gilbert's own emergency management guidance describes the same timeline. The town's [thunderstorms, lightning and monsoons page](https://www.gilbertaz.gov/departments/emergency-management/hazards-emergency-situations/thunderstorms-lightning-and-monsoons) tells residents that "severe weather happens fast" and to be ready to anticipate wind, rain, dust, and potential power outages. That ordering is the reason roofing emergencies here cluster in the hour after a cell passes rather than during it. The outflow wind arrives first and lifts tile, and the rain that follows finds the opening the wind just made.
+
 ## How fast do Gilbert emergency roofers respond?
 
 Response time during monsoon season depends on how active the storm track was the night before:

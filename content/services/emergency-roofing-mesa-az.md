@@ -82,6 +82,8 @@ A licensed contractor will know where the line is. If they say a significant rep
 
 Thorough documentation before any work starts is the difference between a fair claim settlement and a lowball one:
 
+Tie the damage to a dated event, because causation is what insurers dispute on an older roof. The [National Weather Service publishes event summaries](https://www.weather.gov/psr/eventsummaries) for the Phoenix metro, and the specifics in them are what make a claim concrete. Its [August 9, 2026 summary](https://www.weather.gov/psr/August92026) recorded radar-sampled winds of 70 to 80 mph, an 84 mph peak gust, and "roof parts blown off," though that storm tracked through the West Valley rather than Mesa. Find the summary matching your own date and location instead. A documented gust above your roof system's wind rating turns "this roof is old" into "this roof saw wind beyond its rating on a specific day," which is a materially different conversation with an adjuster.
+
 1. **Photograph all exterior damage** — missing or displaced tile, cracked shingles, dented metal, damaged fascia, gutter damage
 2. **Photograph soft metals** — AC unit cover, gutters, downspouts, metal trim. Denting on soft metals confirms hail impact force. See [how to identify hail damage on your roof](/blog/how-to-tell-if-roof-has-hail-damage/) for what to look for
 3. **Photograph all interior water intrusion** before cleanup

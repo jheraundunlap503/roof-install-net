@@ -86,6 +86,12 @@ An inspection that finds issues produces one of three outcomes:
 
 For help deciding between a targeted fix and a full replacement, see [roof repair vs. replacement](/blog/roof-repair-vs-replacement/). When repair is not enough, our Mesa service pages cover [tile roof replacement in Mesa](/services/tile-roof-replacement-mesa-az/) and [foam roofing in Mesa](/services/foam-roofing-mesa-az/). Use the [roofinstall.net estimator](/estimator/) to get a cost range before committing to a contractor.
 
+## Where does a Mesa re-roof permit actually go?
+
+Mesa handles residential permitting itself rather than through Maricopa County, and two separate groups are involved. Applications and plan review run through [Building Permit and Plan Review](https://www.mesaaz.gov/Business-Development/Development-Services/Building-Permit-Plan-Review) within Development Services, while field visits are handled by a distinct Construction Inspections team. Both sit under [Mesa Building Safety](https://www.mesaaz.gov/business/building-safety).
+
+That split matters once you have an inspection report in hand. A city inspection is a code compliance check tied to a permitted job. It is not a condition assessment, and it will not tell you how much service life your underlayment has left. Those are different questions answered by different people, and Mesa homeowners routinely assume a passed city inspection means the roof is sound.
+
 ## Frequently Asked Questions
 
 **Do I need a permit for a roof inspection in Mesa?**

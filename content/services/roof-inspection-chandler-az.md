@@ -86,6 +86,14 @@ An inspection that finds issues produces one of three outcomes:
 
 Use the findings to get a cost estimate through the [roofinstall.net estimator](/estimator/) before committing to a contractor.
 
+## Does the repair your inspection recommends need a Chandler permit?
+
+Often not, and that surprises people. The [City of Chandler Homeowner Building Permit Manual](https://www.chandleraz.gov/sites/default/files/departments/development-services/City-of-Chandler-Home-Owners-Building-Permit-Manual.pdf) exempts "like for like replacement of ... roof coverings where the replacement roof does not increase the load imposed upon the structural frame." Same tile for same tile adds no load, so no permit.
+
+The exception matters if your inspection recommends changing materials. Chandler requires a permit to re-roof when "replacing the old roofing material with a different material such as concrete tile," and the manual states that "an engineering analysis is required to determine if the existing roof assembly will withstand the additional loads." Budget $500 to $1,500 and two to four weeks for that report before a permit issues.
+
+There is a consequence homeowners rarely think about. Because most Chandler re-roofs are exempt, no city inspector ever looks at your decking. Confirm your scope with [Chandler Building Safety](https://www.chandleraz.gov/government/departments/development-services/building-safety-plan-review-permits-and-inspections), and understand that the inspection you pay for is the only one that happens.
+
 ## Frequently Asked Questions
 
 **Do I need a permit for a roof inspection in Chandler?**
