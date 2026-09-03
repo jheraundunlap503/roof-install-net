@@ -5,7 +5,7 @@ city: Surprise
 service: Roof Repair
 date: 2026-08-21
 scheduled_date: 2026-09-03
-published: false
+published: true
 meta_title: Roof Repair Surprise AZ | Cost, Permits & When to Stop
 meta_description: Roof repair in Surprise, AZ runs $400 to $2,500. West Valley storm exposure, city permit process, and the point where repairs stop being worth it.
 primary_keyword: roof repair surprise az
