@@ -5,7 +5,7 @@ city: Phoenix
 service: Storm Damage Roofing
 date: 2026-08-21
 scheduled_date: 2026-09-04
-published: false
+published: true
 meta_title: Storm Damage Roofing Phoenix AZ | Claims & Repair Guide
 meta_description: Phoenix storm damage is wind damage, not hail. How to document it against an NWS event date, when to file, and why most claims turn on causation.
 primary_keyword: storm damage roofing phoenix az
