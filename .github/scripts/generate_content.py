@@ -58,6 +58,7 @@ WEB_SEARCH_TOOL = {
 }
 
 MARKDOWN_LINK = re.compile(r'\[([^\]]+)\]\((https?://[^)\s]+)\)')
+INTERNAL_LINK = re.compile(r'\[([^\]]+)\]\((/(?:blog|services|cities)/[^)/]+)/?\)')
 
 CONTENT_DIR = {
     'blog':    'content/blog',
@@ -65,6 +66,33 @@ CONTENT_DIR = {
     'city':    'content/cities',
     'faq':     'content/blog',
 }
+
+
+def get_frontmatter_field(text, field):
+    m = re.search(rf'^{field}:\s*["\']?(.+?)["\']?\s*$', text, re.MULTILINE)
+    return m.group(1).strip() if m else None
+
+
+def real_site_pages():
+    """Every already-published page as (path, title), for internal linking.
+
+    The model has no other way to know what pages actually exist on the site.
+    Without this, it invents plausible-looking slugs that 404.
+    """
+    pages = []
+    for url_prefix, directory in [('blog', 'content/blog'),
+                                   ('services', 'content/services'),
+                                   ('cities', 'content/cities')]:
+        if not os.path.isdir(directory):
+            continue
+        for fn in sorted(os.listdir(directory)):
+            if not fn.endswith('.md'):
+                continue
+            slug = fn[:-3]
+            text = open(os.path.join(directory, fn), encoding='utf-8').read()
+            title = get_frontmatter_field(text, 'title') or slug
+            pages.append((f'/{url_prefix}/{slug}/', title))
+    return pages
 
 
 def now():
@@ -146,10 +174,11 @@ def fetch_pexels_image(keyword):
         return '', ''
 
 
-def build_prompt(keyword, ktype, slug, image_url, image_alt, sources):
+def build_prompt(keyword, ktype, slug, image_url, image_alt, sources, internal_pages):
     today_str = now().strftime('%Y-%m-%d')
     scheduled = sched_date()
     source_block = '\n'.join(f'- {title}: {url}' for url, title in sources)
+    internal_block = '\n'.join(f'- {title}: {path}' for path, title in internal_pages)
 
     return f"""You are writing content for roofinstall.net — an independent homeowner resource for the U.S. roofing industry. Primary focus: Arizona / Phoenix metro East Valley.
 
@@ -158,12 +187,21 @@ Write a complete, publish-ready markdown article for this keyword: "{keyword}"
 VERIFIED SOURCES — these were retrieved by a live web search and are the ONLY URLs you may cite:
 {source_block}
 
+EXISTING SITE PAGES — these are the ONLY paths you may use for internal links:
+{internal_block}
+
 CITATION RULES (non-negotiable):
 - Cite 7-10 of the verified URLs above as inline markdown links, embedded in contextual anchor text. Example: the [Arizona ROC workmanship standards](https://roc.az.gov/...) require flashing at every penetration.
 - Copy each URL EXACTLY as written above. Do not edit, shorten, or "clean up" a URL.
 - NEVER cite a URL that is not in the list above. Do not write a URL from memory, do not guess a path, do not invent a homepage. A fabricated citation is the single worst thing you can produce.
 - Every citation must be load-bearing: it supports a specific number, code requirement, or factual claim in that sentence. Do not decorate.
 - If a claim has no matching source above, state it plainly with no citation rather than inventing one.
+
+INTERNAL LINK RULES (non-negotiable):
+- Link only to paths from the EXISTING SITE PAGES list above, copied exactly.
+- NEVER invent a path or guess one that "should" exist. A page that isn't in the list above does not exist on the site.
+- Anchor text must accurately describe what the linked page is actually about, per its title above. Do not write anchor text for a topic the target page doesn't cover.
+- If no existing page is a good fit for a given internal link, skip it rather than force a mismatched or invented one. Fewer real links is better than a wrong one.
 
 CONTENT RULES (non-negotiable):
 - No em-dashes anywhere
@@ -174,7 +212,7 @@ CONTENT RULES (non-negotiable):
 - 7-10 inline source citations, drawn only from the VERIFIED SOURCES list above
 - Primary keyword "{keyword}" within the first 100 words
 - 4-6 FAQ questions at the close
-- 3-5 internal links using relative paths (e.g. /blog/slug/ or /services/slug/)
+- 3-5 internal links, drawn only from the EXISTING SITE PAGES list above
 - Arizona context where relevant: UV index 11+, monsoon June 15–Sep 30, shingle lifespan 15-20 yrs, tile 30-50 yrs
 - Honest tone — tell homeowners when they do NOT need a new roof
 
@@ -289,8 +327,10 @@ def generate_article(keyword, ktype, slug, image_url, image_alt):
     if len(sources) < 3:
         raise RuntimeError(f'only {len(sources)} sources found for "{keyword}"')
 
+    internal_pages = real_site_pages()
+
     # Pass 2: write with no tools, citing only the verified URLs from pass 1.
-    prompt = build_prompt(keyword, ktype, slug, image_url, image_alt, sources)
+    prompt = build_prompt(keyword, ktype, slug, image_url, image_alt, sources, internal_pages)
     with client.messages.stream(
         model=MODEL,
         max_tokens=MAX_TOKENS,
@@ -298,7 +338,7 @@ def generate_article(keyword, ktype, slug, image_url, image_alt):
     ) as stream:
         msg = stream.get_final_message()
 
-    return extract_article(msg), {u for u, _ in sources}
+    return extract_article(msg), {u for u, _ in sources}, {p for p, _ in internal_pages}
 
 
 def check_url(url):
@@ -342,6 +382,32 @@ def validate_links(markdown, verified=None):
         return match.group(0)
 
     return MARKDOWN_LINK.sub(resolve, markdown), dead
+
+
+def validate_internal_links(markdown, valid_paths):
+    """Unwrap any internal link that isn't one of the real, existing site pages.
+
+    The model is told the exact page list and told never to guess, but that's
+    a prompt instruction, not a guarantee. This is the actual gate: an
+    internal link to a page that doesn't exist cannot reach the site.
+    """
+    dead = []
+
+    def resolve(match):
+        anchor, path = match.group(1), match.group(2)
+        normalized = path if path.endswith('/') else path + '/'
+        if normalized not in valid_paths:
+            dead.append(path)
+            return anchor
+        return match.group(0)
+
+    return INTERNAL_LINK.sub(resolve, markdown), dead
+
+
+def strip_emdashes(text):
+    """Hard safety net. The prompt already says 'no em-dashes' but the model
+    ignores that instruction often enough that it can't be trusted alone."""
+    return text.replace(' — ', ', ').replace('—', ', ')
 
 
 def save_article(ktype, slug, content):
@@ -393,13 +459,21 @@ def main():
         print(f'[{i}/{len(picks)}] Generating [{kt}]: {kw}')
         try:
             image_url, image_alt = fetch_pexels_image(kw)
-            content, verified = generate_article(kw, kt, slug, image_url, image_alt)
+            content, verified, valid_paths = generate_article(kw, kt, slug, image_url, image_alt)
+
+            content = strip_emdashes(content)
 
             content, dead = validate_links(content, verified)
             live = len(set(m.group(2) for m in MARKDOWN_LINK.finditer(content)))
             for url, reason in dead:
                 print(f'  LINK STRIPPED ({reason}): {url}')
             print(f'  Citations: {live} live, {len(dead)} stripped')
+
+            content, dead_internal = validate_internal_links(content, valid_paths)
+            live_internal = len(INTERNAL_LINK.findall(content))
+            for path_ in dead_internal:
+                print(f'  INTERNAL LINK STRIPPED (invented, not a real page): {path_}')
+            print(f'  Internal links: {live_internal} live, {len(dead_internal)} stripped')
 
             path = save_article(kt, slug, content)
         except Exception as e:
