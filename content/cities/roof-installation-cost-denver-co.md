@@ -81,7 +81,7 @@ Yes, significantly. Denver averages around 57 hail events per year and receives 
 - Ice and water shield membrane should run a minimum of 36 inches up from the eave, and many Denver contractors recommend 60 inches or more.
 - Ventilation matters enormously. Attic heat buildup under snow can cause ice dam formation along eaves, which forces water back under shingles and into the decking.
 
-For comparison, homeowners in the Arizona / Phoenix East Valley deal with a different set of extremes. UV index levels regularly exceed 11 during summer, and the [monsoon season runs June 15 through September 30](https://www.weather.gov/), bringing wind-driven rain that tests flashing and underlayment quality. Phoenix homeowners often see asphalt shingles degrade in 15 to 20 years due to UV and thermal cycling, while tile roofs can last 30 to 50 years. If you are researching Arizona roofing decisions, see our guide at [/blog/roof-replacement-phoenix-az/](/blog/roof-replacement-phoenix-az/).
+For comparison, homeowners in the Arizona / Phoenix East Valley deal with a different set of extremes. UV index levels regularly exceed 11 during summer, and the [monsoon season runs June 15 through September 30](https://www.weather.gov/), bringing wind-driven rain that tests flashing and underlayment quality. Phoenix homeowners often see asphalt shingles degrade in 15 to 20 years due to UV and thermal cycling, while tile roofs can last 30 to 50 years. If you are researching Arizona roofing decisions, see our guide at [/blog/roof-replacement-phoenix-az/](/cities/roof-replacement-cost-phoenix-az/).
 
 Denver's environment is the inverse in many ways: less UV stress, more mechanical load from snow, and repeated hail cycles that physically degrade shingles over time.
 
@@ -133,7 +133,7 @@ Tear-off and disposal of old shingles costs $50 to $80 per square (100 square fe
 
 Older Denver homes may require ventilation upgrades or additional ice and water shield coverage to meet current International Residential Code standards as adopted by Colorado. These upgrades can add $300 to $1,200 depending on what exists already.
 
-For a detailed look at how these line items play out in the total number, see [/blog/roofing-quote-breakdown/](/blog/roofing-quote-breakdown/).
+For a detailed look at how these line items play out in the total number, see /blog/roofing-quote-breakdown/.
 
 ---
 
@@ -169,7 +169,7 @@ Know your policy type before a storm hits. ACV policies pay what the roof is wor
 
 Colorado law limits how insurers apply depreciation, and [state insurance division guidance is available through the Colorado Division of Insurance](https://www.colorado.gov/pacific/dora/division-insurance). If you believe your claim was underpaid, you have the right to request a re-inspection or hire a public adjuster.
 
-For homeowners in Arizona, a similar dynamic exists. Monsoon-related roof claims are common, and insurers often dispute whether damage is storm-related or wear-related. See our overview at [/blog/insurance-claims-for-roof-damage/](/blog/insurance-claims-for-roof-damage/).
+For homeowners in Arizona, a similar dynamic exists. Monsoon-related roof claims are common, and insurers often dispute whether damage is storm-related or wear-related. See our overview at [/blog/insurance-claims-for-roof-damage/](/blog/insurance-adjuster-lowball-roof-claim/).
 
 ---
 

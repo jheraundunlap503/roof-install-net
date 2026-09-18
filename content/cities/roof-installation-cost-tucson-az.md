@@ -85,7 +85,7 @@ The key maintenance note: tile itself rarely fails, but the underlayment beneath
 
 **What is the right system for flat sections of a Tucson home?** SPF foam is the most popular solution locally and performs well in the desert when the elastomeric top coat is maintained and reapplied every 10 to 15 years. Modified bitumen and TPO membrane systems are also used, particularly on commercial-style residential properties. Expect SPF installed costs of $3.50 to $5.50 per square foot for residential applications.
 
-See our related guide to [flat roof repair and replacement options](/services/flat-roof-repair/) for a full breakdown of low-slope systems used across southern Arizona.
+See our related guide to [flat roof repair and replacement options](/blog/tile-roof-repair-arizona/) for a full breakdown of low-slope systems used across southern Arizona.
 
 ---
 
@@ -106,7 +106,7 @@ Signs that replacement is likely necessary:
 - A foam roof where the top coat has completely oxidized and the foam itself is exposed and deteriorating
 - Any roof older than 20 years (shingle) or 40 years (tile) with no documented maintenance history
 
-If you are not sure, consider scheduling a [professional roof inspection](/services/roof-inspection/) before committing to a contractor's quote for full replacement.
+If you are not sure, consider scheduling a [professional roof inspection](/services/roof-inspection-mesa-az/) before committing to a contractor's quote for full replacement.
 
 ---
 
@@ -122,7 +122,7 @@ Additional bid checklist items:
 - Ask for proof of general liability and workers' compensation insurance
 - Get the estimated project timeline in writing, especially if it falls during monsoon season
 
-For more detail on evaluating contractor credentials, see our guide on [how to hire a roofing contractor in Arizona](/blog/how-to-hire-roofing-contractor-arizona/).
+For more detail on evaluating contractor credentials, see our guide on [how to hire a roofing contractor in Arizona](/blog/best-roofing-contractor-reddit/).
 
 ---
 
@@ -146,7 +146,7 @@ Financing options widely available in the Tucson market include:
 - FHA Title I property improvement loans for qualified borrowers
 - Arizona-specific utility rebates for cool-roof or energy-efficient materials through [Tucson Electric Power](https://www.tep.com)
 
-For a full breakdown of Arizona-specific financing programs, visit our resource page on [roof financing options for Arizona homeowners](/blog/roof-financing-arizona/).
+For a full breakdown of Arizona-specific financing programs, visit our resource page on [roof financing options for Arizona homeowners](/blog/roofing-financing-options-arizona/).
 
 ---
 

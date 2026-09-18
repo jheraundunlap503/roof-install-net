@@ -134,7 +134,7 @@ Storm chasing is real in the West Valley after monsoon events. The Arizona Attor
 
 Three bids is the standard advice, and it holds. The spread between lowest and highest quote on the same job in Surprise can be $4,000 to $6,000. The middle quote is not automatically the right one. Look at what each bid specifies, not just the total number. A lower bid using a thinner underlayment or skipping ice-and-water shield at penetrations is not a savings, it is a future problem.
 
-For guidance on what questions to ask before signing, review our [roofing contractor vetting checklist](/services/find-a-roofer/).
+For guidance on what questions to ask before signing, review our roofing contractor vetting checklist.
 
 ---
 
@@ -178,4 +178,4 @@ Many Surprise roofing contractors offer third-party financing through companies 
 
 ---
 
-*For more local roofing guidance, see our overview of [Arizona roofing costs and climate considerations](/blog/arizona-roof-replacement-cost/) or browse our [flat and low-slope roofing resource](/services/flat-roof-replacement/).*
+*For more local roofing guidance, see our overview of Arizona roofing costs and climate considerations or browse our [flat and low-slope roofing resource](/blog/flat-roof-replacement-cost-arizona/).*

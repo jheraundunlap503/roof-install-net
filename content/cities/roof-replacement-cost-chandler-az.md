@@ -75,7 +75,7 @@ Three-tab shingles are disappearing from East Valley roofs for good reason. They
 
 ### Concrete and Clay Tile
 
-Tile is the dominant material in Chandler subdivisions and for good reason. It reflects radiant heat, handles monsoon rain without absorbing moisture, and does not degrade under UV the way organic-based shingles do. The tradeoff is upfront cost and the need for periodic re-underlayment, typically after 20 to 25 years even when the tile itself is intact. See our [tile vs. shingle comparison for Arizona homeowners](/blog/tile-vs-shingle-arizona/) for a side-by-side breakdown.
+Tile is the dominant material in Chandler subdivisions and for good reason. It reflects radiant heat, handles monsoon rain without absorbing moisture, and does not degrade under UV the way organic-based shingles do. The tradeoff is upfront cost and the need for periodic re-underlayment, typically after 20 to 25 years even when the tile itself is intact. See our [tile vs. shingle comparison for Arizona homeowners](/blog/tile-vs-shingle-roof-arizona/) for a side-by-side breakdown.
 
 ### Spray Polyurethane Foam (SPF)
 
@@ -154,7 +154,7 @@ Key questions to ask each contractor:
 
 [Remodeling Magazine's annual Cost vs. Value report](https://www.remodeling.hw.net/cost-vs-value/2025/) consistently shows roofing as one of the highest-return exterior projects for resale value, with asphalt shingle replacement recouping 60 to 70 percent of cost at resale in Western markets. Tile, due to its higher upfront cost and already-expected presence in Chandler neighborhoods, shows somewhat lower percentage recoup but significantly higher absolute resale contribution.
 
-For more on evaluating contractor bids, see our [guide to hiring a roofing contractor in Arizona](/services/find-roofing-contractor-arizona/).
+For more on evaluating contractor bids, see our [guide to hiring a roofing contractor in Arizona](/blog/arizona-roofing-contractor-license/).
 
 ---
 
@@ -166,7 +166,7 @@ Insurance typically covers replacement when damage results from a sudden event l
 
 Chandler has seen increased insurer scrutiny of roof claims following several active monsoon seasons. Some carriers have shifted Arizona policies to actual cash value (ACV) coverage for roofs over 10 years old, which means your payout will reflect depreciation rather than full replacement cost. Review your declarations page before storm season and ask your agent whether you have ACV or replacement cost value (RCV) coverage on the roof. This distinction can mean a difference of $4,000 to $8,000 out of pocket on a mid-range replacement.
 
-Explore our [insurance claim guide for Arizona homeowners](/blog/roof-insurance-claim-arizona/) for a step-by-step walkthrough of the claims process.
+Explore our [insurance claim guide for Arizona homeowners](/blog/roof-damage-insurance-coverage-arizona/) for a step-by-step walkthrough of the claims process.
 
 ---
 

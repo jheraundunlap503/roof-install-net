@@ -52,7 +52,7 @@ What this means for your budget:
 - Ice-and-water shield at penetrations: Required by many contractors even without freeze risk, because driving monsoon rain behaves like ice-dam conditions at flashings. Add $150 to $400.
 - Ventilation: Proper attic ventilation is critical in desert heat. If ridge and soffit vents need upgrading during the re-roof, budget an additional $400 to $1,200.
 
-See our breakdown of [how Arizona climate affects roofing material choices](/blog/arizona-roofing-materials-climate-guide/) for a deeper look at thermal cycling and UV degradation data.
+See our breakdown of [how Arizona climate affects roofing material choices](/blog/arizona-roofing-materials-climate/) for a deeper look at thermal cycling and UV degradation data.
 
 ---
 
@@ -122,7 +122,7 @@ Signs you likely do need replacement:
 - Widespread active leaks after normal rain, not just extreme events
 - Roof is 20+ years old for shingles or 40+ years old for tile underlayment
 
-Our [roof repair vs. replacement decision guide](/blog/roof-repair-vs-replacement-az/) walks through a full inspection checklist you can use before calling any contractor.
+Our [roof repair vs. replacement decision guide](/blog/roof-repair-vs-replacement/) walks through a full inspection checklist you can use before calling any contractor.
 
 ---
 
@@ -143,7 +143,7 @@ Key things every Ahwatukee roofing bid should include in writing:
 
 Arizona law requires roofing contractors to carry both general liability insurance and workers' compensation. You can verify a contractor's license status through the [Arizona Registrar of Contractors](https://roc.az.gov/), which maintains a public-facing license and complaint lookup tool. Always check before you sign.
 
-For guidance on what questions to ask during the bid process, see our [roofing contractor hiring checklist for Arizona homeowners](/services/find-a-roofer-arizona/).
+For guidance on what questions to ask during the bid process, see our [roofing contractor hiring checklist for Arizona homeowners](/blog/foam-roofing-arizona/).
 
 ---
 

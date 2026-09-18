@@ -71,3 +71,9 @@ Schedule a contractor inspection at year 5 regardless of how the topcoat looks. 
 
 **Does foam roofing affect my homeowner's insurance in Chandler?**
 Foam is a code-compliant material in Arizona and does not typically cause coverage issues. Tell your insurer when the new roof is complete and provide the contractor documentation and any permit record. Some insurers offer modest premium adjustments for newer, code-compliant roofs. Contact your agent with the installation date after the project closes.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Tile Roof Replacement in Chandler, AZ](/services/tile-roof-replacement-chandler-az/)

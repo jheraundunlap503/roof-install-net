@@ -14,7 +14,7 @@ image_alt: roofer installing underlayment on Arizona roof deck during replacemen
 
 # What Roofing Underlayment Does and Why It Matters in Arizona
 
-**TLDR:** Roofing underlayment is the moisture barrier installed on the roof deck before tile, shingles, or any other outer material goes down. In Arizona, the type and condition of underlayment often determines how long a roof actually protects your home — because when a tile cracks or blows off in a monsoon, the underlayment is the only thing between the deck and the interior. Synthetic underlayment dramatically outperforms traditional felt in Arizona's heat and should be standard on any quality roof replacement.
+**TLDR:** Roofing underlayment is the moisture barrier installed on the roof deck before tile, shingles, or any other outer material goes down. In Arizona, the type and condition of underlayment often determines how long a roof actually protects your home, because when a tile cracks or blows off in a monsoon, the underlayment is the only thing between the deck and the interior. Synthetic underlayment dramatically outperforms traditional felt in Arizona's heat and should be standard on any quality roof replacement.
 
 ---
 
@@ -22,7 +22,7 @@ Most homeowners think about their roof in terms of what is visible from the stre
 
 [Roofing underlayment sits between the structural roof deck and the exterior roofing material](https://www.gaf.com/en-us/blog/your-home/what-is-roof-underlayment-e369622d-4be3-4a4f-9392-6a8eb3f5ad27). A contractor rolls it across the plywood or OSB sheathing before tiles or shingles are installed. On a tile roof, it covers 100 percent of the deck area. On an asphalt shingle roof, code requires it at minimum along the eaves and valleys, and most quality contractors install it across the full surface.
 
-When an outer roofing material fails — a tile cracks, a shingle tears back in a monsoon wind, or a vent flashing separates — the underlayment is the secondary barrier that prevents water from reaching the deck and the living space below.
+When an outer roofing material fails, a tile cracks, a shingle tears back in a monsoon wind, or a vent flashing separates, the underlayment is the secondary barrier that prevents water from reaching the deck and the living space below.
 
 ## What is roofing underlayment?
 
@@ -36,7 +36,7 @@ Arizona's climate degrades traditional underlayment faster than most of the coun
 
 [NOAA's climate data](https://www.ncei.noaa.gov/cdo-web/) shows Phoenix averages over 100 days above 100 degrees Fahrenheit per year. In that environment, a 15-pound asphalt felt underlayment that might last 20 years in a cooler climate can become dry, brittle, and cracked in 10 to 12 years under Arizona tile.
 
-This matters most on concrete and clay tile roofs. Tile is a rigid individual-unit material — individual tiles crack, slip, or displace during monsoon events. When that happens, the underlayment is exposed directly to rain and UV. If it has dried out and cracked, water moves directly onto the deck and into the structure.
+This matters most on concrete and clay tile roofs. Tile is a rigid individual-unit material, individual tiles crack, slip, or displace during monsoon events. When that happens, the underlayment is exposed directly to rain and UV. If it has dried out and cracked, water moves directly onto the deck and into the structure.
 
 A roofer who relays tile over a failed underlayment has not repaired the roof. They have installed new material over a compromised system.
 
@@ -63,7 +63,7 @@ Lifespan varies by product type and by how well the outer material protects it:
 
 These ranges assume the outer material stays intact. When a tile cracks or a shingle tears and the underlayment is directly exposed to UV, degradation accelerates significantly.
 
-Many Phoenix-area roofers find that homes built in the 1980s and 1990s with concrete tile now need full re-roofing primarily because of underlayment failure — not because the tile itself is structurally compromised. For a full breakdown of expected lifespan by material type under Arizona conditions, see [how long a roof lasts in Arizona](/blog/how-long-does-a-roof-last-arizona).
+Many Phoenix-area roofers find that homes built in the 1980s and 1990s with concrete tile now need full re-roofing primarily because of underlayment failure, not because the tile itself is structurally compromised. For a full breakdown of expected lifespan by material type under Arizona conditions, see [how long a roof lasts in Arizona](/blog/how-long-does-a-roof-last-arizona).
 
 ## What happens when roofing underlayment fails?
 
@@ -73,9 +73,9 @@ Underlayment failure does not always show up immediately after a storm. In Arizo
 2. A monsoon event cracks a tile or lifts a shingle edge
 3. Rain enters the gap and contacts the damaged underlayment
 4. Water moves to the deck, to the rafter tops, and eventually through the ceiling
-5. Interior staining or mold may appear weeks after the storm event — not immediately
+5. Interior staining or mold may appear weeks after the storm event, not immediately
 
-The time lag between roof event and visible interior damage is why underlayment condition matters during inspection. A contractor doing a thorough inspection should assess the underlayment specifically — not just count cracked or missing tiles. For a full checklist of what a pre-season inspection should cover, see [pre-monsoon roof inspection in Arizona](/blog/pre-monsoon-roof-inspection-arizona).
+The time lag between roof event and visible interior damage is why underlayment condition matters during inspection. A contractor doing a thorough inspection should assess the underlayment specifically, not just count cracked or missing tiles. For a full checklist of what a pre-season inspection should cover, see [pre-monsoon roof inspection in Arizona](/blog/pre-monsoon-roof-inspection-arizona).
 
 ## Does tile roofing need underlayment?
 
@@ -85,7 +85,7 @@ The International Residential Code, which Arizona jurisdictions enforce, require
 
 Skipping underlayment or using substandard material on a tile roof violates building code and voids most tile manufacturer warranties. [Any permitted re-roofing project will include an inspection of underlayment installation](https://ww2.scottsdaleaz.gov/Assets/ScottsdaleAZ/Building/Re-RoofingHandout.pdf) before the tile covers it.
 
-For a full comparison of how tile and shingle roofs handle Arizona conditions — including underlayment requirements for each — see [tile vs shingle roof in Arizona](/blog/tile-vs-shingle-roof-arizona).
+For a full comparison of how tile and shingle roofs handle Arizona conditions, including underlayment requirements for each, see [tile vs shingle roof in Arizona](/blog/tile-vs-shingle-roof-arizona).
 
 ## How do you know if your underlayment needs replacement?
 
@@ -99,9 +99,9 @@ You cannot see underlayment under intact tile or shingles from the ground. Indic
 
 The only reliable confirmation is a professional inspection. A licensed roofer can lift representative tiles, visually inspect and flex the underlayment, and tell you whether it has failed or is near the end of its service life.
 
-Verify any roofing contractor through the [Arizona Registrar of Contractors](https://roc.az.gov/) before hiring. Underlayment specification and installation quality are not visible after the tile is laid — which makes contractor trustworthiness critical for this type of work.
+Verify any roofing contractor through the [Arizona Registrar of Contractors](https://roc.az.gov/) before hiring. Underlayment specification and installation quality are not visible after the tile is laid, which makes contractor trustworthiness critical for this type of work.
 
-When getting bids, ask each contractor to specify the exact underlayment product — brand, product name, and weight or thickness — in the written estimate. See [roof replacement cost in Arizona for 2026](/blog/roof-replacement-cost-arizona-2026) for how underlayment type affects overall project cost across different roofing materials.
+When getting bids, ask each contractor to specify the exact underlayment product, brand, product name, and weight or thickness, in the written estimate. See [roof replacement cost in Arizona for 2026](/blog/roof-replacement-cost-arizona-2026) for how underlayment type affects overall project cost across different roofing materials.
 
 ## Frequently Asked Questions
 
@@ -112,7 +112,7 @@ Sometimes. If the tile is in structurally sound condition, a roofer can carefull
 The numbers approximate the weight per 100 square feet. 30lb felt is thicker, heavier, and more durable than 15lb. For Arizona tile roofing, [30lb is the code minimum](https://sfb.az.gov/sites/default/files/2022-04/07%2032%2016%20-%20Concrete%20Tile%20FINAL.pdf), and synthetic is increasingly preferred over both grades because it handles heat and UV significantly better over the long term.
 
 **Should I ask for synthetic underlayment when getting quotes?**
-Yes. In Arizona, requesting synthetic underlayment rather than felt is a reasonable specification that protects your investment. Ask for the specific product name and manufacturer in the written estimate so you know exactly what will be installed — not just "synthetic underlayment."
+Yes. In Arizona, requesting synthetic underlayment rather than felt is a reasonable specification that protects your investment. Ask for the specific product name and manufacturer in the written estimate so you know exactly what will be installed, not just "synthetic underlayment."
 
 **Does underlayment affect my roofing warranty?**
 It can. Many tile manufacturers require specific underlayment products for the full material warranty to apply. Ask your contractor whether the proposed underlayment is compatible with the tile manufacturer's warranty terms before signing the contract.

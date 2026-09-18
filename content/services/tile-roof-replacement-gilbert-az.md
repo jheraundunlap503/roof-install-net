@@ -16,11 +16,11 @@ image_alt: aerial view of a sunlit residential neighborhood with terracotta tile
 
 # Tile Roof Replacement in Gilbert, AZ
 
-**TLDR:** Tile roof replacement in Gilbert, AZ runs $12,000 to $25,000 for a standard 2,000 to 2,500 square foot home, with concrete tile at the lower end and clay tile at the higher end. The Town of Gilbert requires a building permit for all re-roofing work. Most Gilbert HOA communities — including Power Ranch, Morrison Ranch, and Cooley Station — require written ARC approval with material documentation before work begins. Starting the HOA process before signing a contractor contract prevents delays that can push your project past the monsoon season window.
+**TLDR:** Tile roof replacement in Gilbert, AZ runs $12,000 to $25,000 for a standard 2,000 to 2,500 square foot home, with concrete tile at the lower end and clay tile at the higher end. The Town of Gilbert requires a building permit for all re-roofing work. Most Gilbert HOA communities, including Power Ranch, Morrison Ranch, and Cooley Station, require written ARC approval with material documentation before work begins. Starting the HOA process before signing a contractor contract prevents delays that can push your project past the monsoon season window.
 
 ---
 
-Gilbert's housing stock is predominantly tile. The master-planned communities that define the city — Power Ranch, Morrison Ranch, Cooley Station, Finley Farms, Val Vista Lakes — were built with concrete and clay tile roofs. Tile handles Arizona heat better than shingles: it does not curl, blister, or shed granules under UV exposure. But tile roofs are not maintenance-free, and underlayment failure is the hidden cost that surprises most Gilbert homeowners at replacement time.
+Gilbert's housing stock is predominantly tile. The master-planned communities that define the city, Power Ranch, Morrison Ranch, Cooley Station, Finley Farms, Val Vista Lakes, were built with concrete and clay tile roofs. Tile handles Arizona heat better than shingles: it does not curl, blister, or shed granules under UV exposure. But tile roofs are not maintenance-free, and underlayment failure is the hidden cost that surprises most Gilbert homeowners at replacement time.
 
 ## What does tile roof replacement cost in Gilbert, AZ?
 
@@ -38,7 +38,7 @@ Several factors move the number within that range:
 
 - **Tile type and profile**: Standard flat or low-S concrete tile is the most available and affordable. Barrel tile, specialty profiles, or premium clay adds $2 to $4 per square foot
 - **Roof pitch and complexity**: Steeper pitches and multiple valleys, skylights, or HVAC penetrations add meaningful labor time
-- **Existing tile reuse**: If the original tile is intact, a re-tile — remove tile, replace underlayment, reinstall original tile — costs less than full replacement. Many Gilbert contractors offer this on tile in good condition
+- **Existing tile reuse**: If the original tile is intact, a re-tile, remove tile, replace underlayment, reinstall original tile, costs less than full replacement. Many Gilbert contractors offer this on tile in good condition
 - **Material lead time**: Discontinued tile colors or profiles may require special ordering, adding 2 to 4 weeks before work can begin
 
 ## How long do tile roofs last in Gilbert's climate?
@@ -49,7 +49,7 @@ See [how long roofing materials last in Arizona](/blog/how-long-does-a-roof-last
 
 ## Does Gilbert require a permit for tile roof replacement?
 
-Yes. The [Town of Gilbert Development Services](https://www.gilbertaz.gov/departments/development-services) requires a building permit for tile roof replacement. Your contractor pulls the permit before work begins. A permit triggers a midpoint deck inspection before tile is reinstalled — which protects you if underlayment damage or deck rot is found during tear-off. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for typical timelines.
+Yes. The [Town of Gilbert Development Services](https://www.gilbertaz.gov/departments/development-services) requires a building permit for tile roof replacement. Your contractor pulls the permit before work begins. A permit triggers a midpoint deck inspection before tile is reinstalled, which protects you if underlayment damage or deck rot is found during tear-off. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for typical timelines.
 
 ## What do Gilbert HOAs require for tile roof replacement?
 
@@ -68,9 +68,9 @@ Allow 30 to 60 days for HOA approval before your planned start date. Start the A
 Before signing:
 
 1. Verify active license at the [Arizona Registrar of Contractors](https://roc.az.gov/)
-2. Confirm the bid specifies underlayment replacement — not just tile
+2. Confirm the bid specifies underlayment replacement, not just tile
 3. Ask how many Gilbert HOA projects they've completed in your specific community
-4. Get the manufacturer name and product code in writing — required for ARC submission
+4. Get the manufacturer name and product code in writing, required for ARC submission
 5. Confirm the contractor pulls the permit, not you
 
 A contractor who says HOA paperwork is the homeowner's problem is a red flag. Experienced Gilbert tile roofers handle ARC submissions regularly.

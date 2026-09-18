@@ -14,7 +14,7 @@ image_alt: how to file roof insurance claim
 
 # How to File an Arizona Roof Insurance Claim Step by Step
 
-**TLDR:** After an Arizona monsoon or hail event, start with a licensed roofer's inspection before calling your insurer — the contractor's photos and written estimate are your strongest evidence. File promptly, have your roofer present when the adjuster visits, and do not accept a lowball offer without pushing back. Arizona homeowners typically have one year to file, but waiting weakens the claim.
+**TLDR:** After an Arizona monsoon or hail event, start with a licensed roofer's inspection before calling your insurer, the contractor's photos and written estimate are your strongest evidence. File promptly, have your roofer present when the adjuster visits, and do not accept a lowball offer without pushing back. Arizona homeowners typically have one year to file, but waiting weakens the claim.
 
 ---
 
@@ -69,3 +69,11 @@ Your deductible is the out-of-pocket amount you are responsible for before insur
 The entire process usually takes three to six weeks. The adjuster inspection happens within a week of filing, you receive an initial estimate a week later, and funds are disbursed shortly after. Scheduling the actual roof replacement depends on your contractor's availability.
 
 Use our free cost estimator to get a ballpark for your home.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [What to Do If Your Roof Insurance Claim Is Denied](/blog/what-to-do-if-roof-insurance-claim-denied/)
+- [How to Negotiate a Roof Insurance Claim and Get What You're Owed](/blog/negotiate-roof-insurance-claim/)
+- [Why Insurance Adjusters Lowball Roof Claims and How to Push Back](/blog/insurance-adjuster-lowball-roof-claim/)

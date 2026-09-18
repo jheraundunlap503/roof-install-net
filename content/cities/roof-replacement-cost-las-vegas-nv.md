@@ -73,11 +73,11 @@ Clark County and the City of Las Vegas both require permits for roof replacement
 
 Yes, significantly. Intense UV radiation, extreme summer heat above 115 degrees F, and monsoon-season wind events all shorten the life of materials that perform well in milder climates. Material selection in Las Vegas is not just a style decision.
 
-The [NOAA Climate Data for Nevada](https://www.ncei.noaa.gov/cdo-web/) documents Las Vegas receiving roughly 294 sunny days per year, with summer UV index values consistently in the extreme range. This is comparable to the Phoenix metro conditions that roofinstall.net covers extensively, where [UV index 11+ accelerates shingle granule loss](/blog/uv-damage-shingles-arizona/) and reduces the effective life of standard 3-tab asphalt shingles to 12 to 18 years rather than the labeled 25 to 30 years.
+The [NOAA Climate Data for Nevada](https://www.ncei.noaa.gov/cdo-web/) documents Las Vegas receiving roughly 294 sunny days per year, with summer UV index values consistently in the extreme range. This is comparable to the Phoenix metro conditions that roofinstall.net covers extensively, where UV index 11+ accelerates shingle granule loss and reduces the effective life of standard 3-tab asphalt shingles to 12 to 18 years rather than the labeled 25 to 30 years.
 
 ### Asphalt Shingles in Las Vegas
 
-Asphalt shingles are the most affordable option but carry the shortest lifespan in this climate. Standard 3-tab shingles often fail in 12 to 15 years in the Las Vegas valley. Architectural (dimensional) shingles with a Class 4 impact rating and algae-resistant granules perform better and are often the minimum worth installing. Look for shingles rated for high-wind environments, since the Las Vegas valley experiences wind gusts associated with monsoon outflow events from late June through September, a pattern similar to [Arizona monsoon season June 15 through September 30](/blog/monsoon-roof-prep-checklist/).
+Asphalt shingles are the most affordable option but carry the shortest lifespan in this climate. Standard 3-tab shingles often fail in 12 to 15 years in the Las Vegas valley. Architectural (dimensional) shingles with a Class 4 impact rating and algae-resistant granules perform better and are often the minimum worth installing. Look for shingles rated for high-wind environments, since the Las Vegas valley experiences wind gusts associated with monsoon outflow events from late June through September, a pattern similar to Arizona monsoon season June 15 through September 30.
 
 ### Concrete and Clay Tile
 
@@ -176,7 +176,7 @@ Las Vegas and the Phoenix metro East Valley share similar climate stressors: ext
 
 Labor rates in Las Vegas run slightly higher than in Phoenix due to a smaller pool of specialty roofing contractors and higher general cost of living. Concrete tile, the dominant residential material in both markets, costs roughly 5 to 10 percent more in Las Vegas than in the Phoenix East Valley when comparing similar contractor tiers.
 
-If you are comparing roofing projects across the region, the [cost and material considerations for Phoenix area homes](/services/roof-replacement-phoenix/) provide a useful baseline. The climate variables are similar enough that contractor advice relevant to one market usually applies to the other.
+If you are comparing roofing projects across the region, the [cost and material considerations for Phoenix area homes](/cities/roof-replacement-cost-phoenix-az/) provide a useful baseline. The climate variables are similar enough that contractor advice relevant to one market usually applies to the other.
 
 ---
 
@@ -205,3 +205,10 @@ Both the City of Las Vegas and Clark County unincorporated areas require buildin
 ### How do I know if my tile underlayment needs replacement even if my tiles look fine?
 
 This is one of the most commonly missed issues on Las Vegas homes built in the 1990s. The [concrete or clay tiles themselves may look intact, but the underlayment beneath them waterproofs the roof](https://www.iko.com/na/blog/how-much-does-a-new-roof-cost/). Original 15-pound felt underlayment from the early 1990s has a real-world lifespan of 15 to 20 years in desert UV conditions. If your home is 20 or more years old and has never had the underlay
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Roof Replacement Cost in Tucson, AZ: 2026 Pricing Guide](/cities/roof-replacement-cost-tucson-az/)
+- [Roof Replacement Cost in Sun City AZ: 2026 Homeowner Pricing Guide](/cities/roof-replacement-cost-sun-city-az/)

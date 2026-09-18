@@ -69,7 +69,7 @@ It can. Maricopa County's official monsoon season runs June 15 through September
 
 Contractors frequently discover rotted sheathing or water-damaged insulation only after tear-off begins. Board replacement typically runs $2.50 to $4.50 per square foot and is billed as a change order. A roof with significant decking damage can add $1,500 to $4,000 to the original project cost.
 
-If your roof is approaching 15 years old, scheduling an inspection before June 15 is a practical move. See our [monsoon roof prep checklist](/blog/monsoon-roof-prep-checklist/) for what inspectors should be looking at.
+If your roof is approaching 15 years old, scheduling an inspection before June 15 is a practical move. See our [monsoon roof prep checklist](/blog/arizona-roof-inspection-checklist/) for what inspectors should be looking at.
 
 ### Roof Pitch and Complexity
 
@@ -175,7 +175,7 @@ In Glendale and broader Maricopa County, tile roofs carry a perceived quality pr
 
 A concrete tile roof in good condition is genuinely one of the better long-term investments for a Glendale home because of its 30 to 50 year Arizona lifespan and buyer appeal. The upfront cost is significantly higher, but the per-year cost when amortized over the roof's life is often comparable to replacing asphalt shingles twice over the same period.
 
-If you are planning to sell within 5 years, a mid-grade architectural shingle replacement is likely the most cost-efficient choice. If you are planning to stay 15 or more years, tile or metal warrant serious consideration. Our [roofing materials comparison for Arizona homes](/services/roofing-materials/) breaks this down further.
+If you are planning to sell within 5 years, a mid-grade architectural shingle replacement is likely the most cost-efficient choice. If you are planning to stay 15 or more years, tile or metal warrant serious consideration. Our [roofing materials comparison for Arizona homes](/blog/arizona-roofing-materials-climate/) breaks this down further.
 
 ---
 
@@ -207,4 +207,4 @@ In most of the country, architectural shingles carry 25 to 30 year manufacturer 
 
 ---
 
-*For more on roofing decisions specific to the Phoenix metro, see our [Arizona roofing overview](/blog/arizona-roofing-guide/) and our [guide to finding a licensed roofer in Maricopa County](/blog/find-licensed-roofer-maricopa-county/).*
+*For more on roofing decisions specific to the Phoenix metro, see our Arizona roofing overview and our guide to finding a licensed roofer in Maricopa County.*

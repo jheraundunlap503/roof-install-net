@@ -94,7 +94,7 @@ You likely do NOT need a full replacement if:
 
 [NOAA monsoon data](https://www.noaa.gov) shows Buckeye receives the bulk of its annual precipitation between June 15 and September 30, which is the window when most sudden roof failures are discovered. If you find a leak after a monsoon storm, get a repair quote before assuming you need a new roof.
 
-See our guide to [identifying when roof repairs are enough](/blog/roof-repair-vs-replacement/) for a full decision framework.
+See our guide to identifying when roof repairs are enough for a full decision framework.
 
 ---
 
@@ -136,7 +136,7 @@ Get at least three quotes from licensed Arizona contractors. Verify each contrac
 
 Watch for low-ball bids that omit underlayment specifications or show vague line items like "miscellaneous materials." Those are almost always padded after project start with change orders.
 
-See our full breakdown of [how to evaluate roofing contractor quotes](/services/get-a-quote/) and our [Arizona contractor license verification guide](/blog/verify-az-roofing-contractor-license/).
+See our full breakdown of how to evaluate roofing contractor quotes and our [Arizona contractor license verification guide](/blog/arizona-roofing-contractor-license/).
 
 ---
 
@@ -167,7 +167,7 @@ For a standard 2,000 square foot Buckeye home, plan on three to six weeks from i
 
 Material lead times have stabilized since 2022 supply chain disruptions, but specialty tile colors and imported clay products can still add two to four weeks. If you are replacing a roof before monsoon season starts June 15, schedule your contractor contact by early May at the latest.
 
-Also check our [monsoon roof preparation checklist](/blog/monsoon-roof-prep-arizona/) for steps to take if your replacement cannot happen before the season starts.
+Also check our [monsoon roof preparation checklist](/blog/monsoon-roof-damage-arizona-2026/) for steps to take if your replacement cannot happen before the season starts.
 
 ---
 
@@ -196,3 +196,9 @@ October through early May is the ideal window. Temperatures are lower, which mak
 **How do I verify a roofing contractor is licensed to work in Arizona?**
 
 Use the free license lookup tool at the [Arizona Registrar of Contractors website](https://roc.az.gov). Enter the contractor's name or license number and confirm the license is active, in the correct classification (CR-35 for roofing), and free of unresolved complaints. This step takes under two minutes and protects you from unlicensed operators who have no accountability if something goes wrong.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Roof Replacement Cost in Mesa, AZ: What Homeowners Should Expect](/cities/roof-replacement-cost-mesa-az/)

@@ -130,7 +130,7 @@ A legitimate tile re-roof in Mesa therefore often involves:
 
 This process runs less than a full new-tile installation when tile is reusable, often landing between $8,000 and $14,000 for a 2,000 sq ft home. Get a separate quote for tile-reuse versus full tile replacement so you can compare.
 
-For more on tile-specific considerations, see our [tile roof repair and replacement guide](/services/tile-roof-replacement/).
+For more on tile-specific considerations, see our [tile roof repair and replacement guide](/services/tile-roof-replacement-mesa-az/).
 
 ---
 
@@ -162,7 +162,7 @@ Key points:
 - Have a licensed contractor (not a door-to-door "storm chaser") perform the inspection before you file a claim
 - Filing a claim for normal wear is unlikely to succeed and may affect your premium
 
-See our [Arizona roof insurance claims guide](/blog/arizona-roof-insurance-claims/) for a step-by-step walkthrough.
+See our [Arizona roof insurance claims guide](/blog/negotiate-roof-insurance-claim/) for a step-by-step walkthrough.
 
 ---
 

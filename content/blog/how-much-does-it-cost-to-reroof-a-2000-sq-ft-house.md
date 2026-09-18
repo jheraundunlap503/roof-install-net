@@ -69,3 +69,9 @@ It should, but confirm it. Tear-off of the existing roof is standard on a reroof
 
 **How long does reroofing a 2,000 sq ft house take?**
 Most single-family reroofs take one to three days depending on material, complexity, and weather. Tile and steep roofs take longer than a straightforward shingle job, and monsoon season can add delays.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Roof Replacement Cost in Tucson, AZ: 2026 Pricing Guide](/cities/roof-replacement-cost-tucson-az/)

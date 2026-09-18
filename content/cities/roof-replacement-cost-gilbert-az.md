@@ -76,7 +76,7 @@ Many Gilbert homeowners are quoted full replacements when a targeted repair woul
 - Age past the expected lifespan for your material (15-20 years for asphalt in AZ, per [NRCA lifespan guidance](https://www.nrca.net))
 - Energy bills that have increased without explanation, suggesting lost reflectivity in roofing material
 
-If you're unsure, request an infrared moisture scan before agreeing to a full replacement. Some East Valley roofing companies offer this as a standalone inspection service. See our [roof inspection checklist](/blog/roof-inspection-checklist/) for what a thorough inspection should cover.
+If you're unsure, request an infrared moisture scan before agreeing to a full replacement. Some East Valley roofing companies offer this as a standalone inspection service. See our [roof inspection checklist](/blog/arizona-roof-inspection-checklist/) for what a thorough inspection should cover.
 
 ---
 
@@ -98,7 +98,7 @@ Your quote is built from a combination of fixed measurements and conditions the 
 
 **Permits.** Gilbert requires a building permit for roof replacements. Permit fees typically run $150-$400 depending on valuation. Any contractor who suggests "skipping the permit to save money" is creating a liability for you at resale and potentially voiding manufacturer warranties.
 
-For a deeper look at how pitch affects your quote, see our [roof pitch and cost explainer](/blog/roof-pitch-cost-factor/).
+For a deeper look at how pitch affects your quote, see our [roof pitch and cost explainer](/cities/roof-replacement-cost-tucson-az/).
 
 ---
 
@@ -134,7 +134,7 @@ Get a minimum of three written, itemized quotes before signing anything. A good 
 
 **Seasonal timing affects price.** Spring (February through May) and fall (October through November) are peak scheduling periods in Gilbert. If your roof is not actively leaking, scheduling a late-fall replacement can sometimes yield better pricing and faster crew availability.
 
-See our guide on [how to vet a roofing contractor in Arizona](/services/find-roofing-contractor-arizona/) for a full vetting checklist.
+See our guide on [how to vet a roofing contractor in Arizona](/blog/arizona-roofing-contractor-license/) for a full vetting checklist.
 
 ---
 
@@ -150,7 +150,7 @@ If your insurer disputes the damage or scope, you have the right to request a re
 
 One caution: Arizona HB 2057, enacted in 2022, changed how insurers can apply depreciation to roofing claims. Some policies now use Actual Cash Value (ACV) rather than Replacement Cost Value (RCV) for roofing material, meaning you receive the depreciated value of the old roof rather than the full cost of a new one. Review your policy declarations page carefully before assuming full coverage.
 
-For more detail on filing roof insurance claims in Arizona, read our [Arizona roof insurance claim walkthrough](/blog/arizona-roof-insurance-claim/).
+For more detail on filing roof insurance claims in Arizona, read our [Arizona roof insurance claim walkthrough](/blog/negotiate-roof-insurance-claim/).
 
 ---
 

@@ -67,7 +67,7 @@ Clay tile is the premium choice at $12 to $18 per square foot installed. It is l
 
 Many Tempe homes, particularly ranch-style builds from the 1960s through 1980s, have flat or low-slope sections. These areas typically use TPO, modified bitumen, or foam (SPF) systems rather than tile or shingles. TPO membrane replacement runs $5 to $9 per square foot installed. Foam roofing, which is popular in Arizona because it adds insulation value, runs $4 to $7 per square foot but requires recoating every 5 to 10 years.
 
-See our full breakdown at [/services/flat-roof-replacement/](/services/flat-roof-replacement/) for more on low-slope options in the Phoenix metro.
+See our full breakdown at [/services/flat-roof-replacement/](/blog/flat-roof-replacement-cost-arizona/) for more on low-slope options in the Phoenix metro.
 
 ---
 
@@ -125,7 +125,7 @@ A few additional points specific to the Tempe market:
 - Confirm that the quote includes permit fees, disposal, and a written warranty on both materials and labor. Labor warranties of two to five years are standard for quality contractors; anything less deserves scrutiny.
 - Ask specifically whether they are a manufacturer-certified installer. Certifications like GAF Master Elite or Owens Corning Preferred can unlock extended material warranties.
 
-Check our [/blog/how-to-hire-roofing-contractor-arizona/](/blog/how-to-hire-roofing-contractor-arizona/) article for a full contractor vetting checklist.
+Check our [/blog/how-to-hire-roofing-contractor-arizona/](/blog/best-roofing-contractor-reddit/) article for a full contractor vetting checklist.
 
 ---
 
@@ -152,7 +152,7 @@ If you are financing, compare total interest cost carefully. A $14,000 roof at 9
 | TPO membrane (flat) | $7,000 - $12,000 | 15-25 years |
 | SPF foam | $6,000 - $10,000 | 20+ yrs with recoating |
 
-For a more detailed regional comparison, see [/blog/roofing-costs-phoenix-east-valley/](/blog/roofing-costs-phoenix-east-valley/).
+For a more detailed regional comparison, see /blog/roofing-costs-phoenix-east-valley/.
 
 ---
 

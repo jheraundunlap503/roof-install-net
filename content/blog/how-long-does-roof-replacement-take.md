@@ -20,7 +20,7 @@ image_alt: terracotta tile roof installation in progress on an Arizona home
 
 When a roofer gives you a price, the next question is usually how long the job will take. In Arizona, the answer has two parts: the number of days workers are physically on your roof, and the total elapsed time from signing a contract to holding a completed permit.
 
-These are often very different numbers. A tile re-roof might involve 4 days of active installation, but take 3 weeks total because of permit processing time, material delivery lead time, and the inspector availability window. Planning around that total timeline — not just the installation days — prevents scheduling surprises.
+These are often very different numbers. A tile re-roof might involve 4 days of active installation, but take 3 weeks total because of permit processing time, material delivery lead time, and the inspector availability window. Planning around that total timeline, not just the installation days, prevents scheduling surprises.
 
 ## How long does it take to replace an asphalt shingle roof in Arizona?
 
@@ -41,7 +41,7 @@ Typical timelines:
 - **Average tile roof (1,500 to 2,500 sq ft)**: 4 to 6 days
 - **Large or complex tile roof**: 6 to 10 days
 
-These ranges assume a standard Phoenix-area crew size and straightforward access. A steeply pitched roof or a home with many valleys, dormers, skylights, or chimneys adds meaningful time. The [NRCA](https://www.nrca.net/) notes that tile installation requires skilled labor for proper setting and alignment — rushing tile work to compress the timeline increases the risk of improper installation.
+These ranges assume a standard Phoenix-area crew size and straightforward access. A steeply pitched roof or a home with many valleys, dormers, skylights, or chimneys adds meaningful time. The [NRCA](https://www.nrca.net/) notes that tile installation requires skilled labor for proper setting and alignment, rushing tile work to compress the timeline increases the risk of improper installation.
 
 ## How long does it take to replace a foam roof in Arizona?
 
@@ -60,7 +60,7 @@ The installation days are only part of the picture. Several factors extend the t
 
 **Material lead time**: Concrete tile is the most common Arizona roofing material, and most colors are stocked locally. Specialty tile colors, discontinued profiles, or premium shingles may require ordering, adding 1 to 3 weeks before work can begin.
 
-**Inspection scheduling**: [Most Maricopa County cities require a deck or underlayment inspection after tear-off](https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/forms/re-roofinghandout.pdf?sfvrsn=12be0afa_1) and before the tile or shingles are installed. Inspector availability varies by city and season — scheduling that inspection can add 2 to 5 days mid-project.
+**Inspection scheduling**: [Most Maricopa County cities require a deck or underlayment inspection after tear-off](https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/forms/re-roofinghandout.pdf?sfvrsn=12be0afa_1) and before the tile or shingles are installed. Inspector availability varies by city and season, scheduling that inspection can add 2 to 5 days mid-project.
 
 **Weather**: Arizona's monsoon season (roughly June through September) introduces daily afternoon weather uncertainty. Roofing work stops in rain or lightning. A project that would take 4 days in dry spring conditions may take 6 to 7 days if afternoon storms interrupt work sessions repeatedly.
 
@@ -82,21 +82,21 @@ A realistic timeline for a standard Arizona tile re-roof:
 
 For shingles, the same flow typically compresses to 2 to 4 weeks total because installation is faster and permit processing timelines are similar.
 
-If your project has a hard deadline — you are selling, you have a move-in date, or you want the roof done before monsoon season — communicate that to contractors when requesting bids. A contractor who books 6 weeks out cannot compress to 3 weeks just because you ask. Knowing your timeline constraint early in the process gives you the ability to act before lead times close the window.
+If your project has a hard deadline, you are selling, you have a move-in date, or you want the roof done before monsoon season, communicate that to contractors when requesting bids. A contractor who books 6 weeks out cannot compress to 3 weeks just because you ask. Knowing your timeline constraint early in the process gives you the ability to act before lead times close the window.
 
 ## What happens on installation day?
 
 Knowing the sequence helps you prepare your home and set expectations:
 
-1. **Crew arrives early** — typically 6:00 to 7:00 AM in Arizona summer to work before peak heat
-2. **Soft goods protection** — tarps over AC units, pool equipment, and planted areas around the foundation
-3. **Tear-off** — old material is removed and thrown into a dumpster or trailer; the roof deck is exposed
-4. **Deck inspection** — contractor checks for soft spots, rot, or compromised sheathing
-5. **Underlayment installation** — synthetic or felt is rolled and secured across the deck
-6. **Midpoint inspection** (if required by your city) — inspector visits before tile or shingles are installed
-7. **Primary material installation** — tile is set, shingles are nailed, or foam is sprayed
-8. **Flashing, ridge cap, and trim** — all transition points and edges are completed
-9. **Cleanup** — magnetic nail sweep of the yard, dumpster removal, final site walkthrough
+1. **Crew arrives early**, typically 6:00 to 7:00 AM in Arizona summer to work before peak heat
+2. **Soft goods protection**, tarps over AC units, pool equipment, and planted areas around the foundation
+3. **Tear-off**, old material is removed and thrown into a dumpster or trailer; the roof deck is exposed
+4. **Deck inspection**, contractor checks for soft spots, rot, or compromised sheathing
+5. **Underlayment installation**, synthetic or felt is rolled and secured across the deck
+6. **Midpoint inspection** (if required by your city), inspector visits before tile or shingles are installed
+7. **Primary material installation**, tile is set, shingles are nailed, or foam is sprayed
+8. **Flashing, ridge cap, and trim**, all transition points and edges are completed
+9. **Cleanup**, magnetic nail sweep of the yard, dumpster removal, final site walkthrough
 
 On a shingle job, steps 1 through 8 often happen in a single day. On a tile job, steps are spread across multiple days.
 
@@ -104,19 +104,19 @@ On a shingle job, steps 1 through 8 often happen in a single day. On a tile job,
 
 Roof replacement creates vibration and debris throughout the project. A few steps protect your property:
 
-- Remove wall art, mirrors, and shelved items near exterior walls — vibration from nail guns and tile impact can knock things down
+- Remove wall art, mirrors, and shelved items near exterior walls, vibration from nail guns and tile impact can knock things down
 - Park vehicles away from the home or garage entrance
 - Keep pets indoors for the full project duration
 - Trim tree branches overhanging the roof if possible, or point them out to the foreman so the crew can work around them
 - Note the location of any buried irrigation lines near where the dumpster will be placed
 
-Ask your contractor which [questions to confirm with a roofing contractor](/blog/questions-to-ask-roofing-contractor) before work begins — including start time, crew size, and daily cleanup expectations.
+Ask your contractor which [questions to confirm with a roofing contractor](/blog/questions-to-ask-roofing-contractor) before work begins, including start time, crew size, and daily cleanup expectations.
 
 ## What is the best time of year to replace a roof in Arizona?
 
-October through May. Arizona's dry season produces stable, predictable weather that allows roofing work to proceed on schedule. Spring (March through May) is particularly good — temperatures are manageable for the crew, material availability is typically strong, and the project is complete well before the June monsoon onset.
+October through May. Arizona's dry season produces stable, predictable weather that allows roofing work to proceed on schedule. Spring (March through May) is particularly good, temperatures are manageable for the crew, material availability is typically strong, and the project is complete well before the June monsoon onset.
 
-Replacing a roof in June through September is possible but involves weather delays and more complex scheduling. If your roof needs immediate attention during monsoon season, good contractors still work through it — they just schedule earlier start times and plan for interruptions.
+Replacing a roof in June through September is possible but involves weather delays and more complex scheduling. If your roof needs immediate attention during monsoon season, good contractors still work through it, they just schedule earlier start times and plan for interruptions.
 
 See [roof replacement cost in Arizona for 2026](/blog/roof-replacement-cost-arizona-2026) for current pricing across all material types, and [what a roofing estimate should include](/blog/what-does-roofing-estimate-include) to confirm your contract covers the full project scope before work begins.
 

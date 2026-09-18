@@ -16,7 +16,7 @@ image_alt: aerial view of a sprawling Arizona residential neighborhood under a b
 
 # Roof Inspection in Chandler, AZ
 
-**TLDR:** A professional roof inspection in Chandler, AZ costs $0 to $300 depending on whether you use a licensed roofing contractor or an independent inspector. Most roofing contractors inspect for free when repairs or replacement are possible. The best times to schedule in Chandler are April through May before monsoon season, and before listing a home for sale. On a Chandler tile roof, the most important thing an inspection reveals is underlayment condition — which cannot be assessed from the ground.
+**TLDR:** A professional roof inspection in Chandler, AZ costs $0 to $300 depending on whether you use a licensed roofing contractor or an independent inspector. Most roofing contractors inspect for free when repairs or replacement are possible. The best times to schedule in Chandler are April through May before monsoon season, and before listing a home for sale. On a Chandler tile roof, the most important thing an inspection reveals is underlayment condition, which cannot be assessed from the ground.
 
 ---
 
@@ -27,7 +27,7 @@ Most Chandler homeowners don't think about their roof until water appears on a c
 Inspection pricing varies by who performs it:
 
 - **Roofing contractor inspection**: Free to $150 for most Chandler homes. Contractors typically inspect at no charge when repair or replacement is a realistic outcome. If you want a paid written report with no sales follow-up, expect $150 to $300
-- **Independent roofing inspector**: $200 to $400 for a detailed written assessment with photos — useful for pre-purchase, pre-listing, or insurance documentation
+- **Independent roofing inspector**: $200 to $400 for a detailed written assessment with photos, useful for pre-purchase, pre-listing, or insurance documentation
 - **General home inspector**: $75 to $150 as part of a full home inspection, but coverage is less detailed than a dedicated roofing inspection. A home inspector typically walks the roof or views it from a ladder; a roofing contractor will lift tiles to assess underlayment
 
 For pre-purchase or pre-listing purposes, a dedicated roofing contractor inspection produces more actionable findings than a general home inspection's roof section. See [whether to replace a roof before selling in Arizona](/blog/replace-roof-before-selling-house/) for how inspection findings affect the sale timeline.
@@ -48,7 +48,7 @@ Four situations call for a roof inspection:
 
 A complete inspection on a Chandler tile roof includes:
 
-**Tile field**: Each section checked for cracked, chipped, or displaced tiles. Hip and ridge caps are assessed separately — they take more wind stress than flat field tiles and fail first.
+**Tile field**: Each section checked for cracked, chipped, or displaced tiles. Hip and ridge caps are assessed separately, they take more wind stress than flat field tiles and fail first.
 
 **Underlayment condition**: Requires lifting representative tiles in multiple roof sections. This is the most critical part of a Chandler inspection and the step that separates a real inspection from a visual scan. Degraded underlayment is often the deciding factor between repair and full replacement.
 
@@ -70,7 +70,7 @@ Always verify the contractor's ROC license at the [Arizona Registrar of Contract
 
 ## What do Chandler HOAs require related to roof inspections?
 
-Fulton Ranch, Ocotillo, and other Chandler HOA communities don't require homeowners to schedule proactive inspections. However, HOA governing documents typically include maintenance standards — if an HOA board observes visibly deteriorating roofing, they may issue a maintenance notice requiring the homeowner to address it.
+Fulton Ranch, Ocotillo, and other Chandler HOA communities don't require homeowners to schedule proactive inspections. However, HOA governing documents typically include maintenance standards, if an HOA board observes visibly deteriorating roofing, they may issue a maintenance notice requiring the homeowner to address it.
 
 If you receive an HOA maintenance notice related to your roof, get a contractor inspection before responding. The notice may be based on a visual observation that doesn't reflect actual structural condition. A written contractor assessment is appropriate documentation when responding to an HOA maintenance requirement. See [HOA roof approval in Chandler](/blog/hoa-roof-approval-chandler-arizona/) for how formal roof work interfaces with Chandler's ARC process.
 
@@ -97,7 +97,7 @@ There is a consequence homeowners rarely think about. Because most Chandler re-r
 ## Frequently Asked Questions
 
 **Do I need a permit for a roof inspection in Chandler?**
-No. Inspections — including tile lifting for underlayment assessment — do not require a City of Chandler permit. Permits are required when repair or replacement work begins. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what scope triggers a permit obligation.
+No. Inspections, including tile lifting for underlayment assessment, do not require a City of Chandler permit. Permits are required when repair or replacement work begins. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what scope triggers a permit obligation.
 
 **How long does a roof inspection take in Chandler?**
 A thorough contractor inspection on an average Chandler home takes 45 minutes to 2 hours, depending on roof size, pitch, and number of penetrations. A written report with photos typically follows within 24 to 48 hours.

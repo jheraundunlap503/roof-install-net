@@ -56,7 +56,7 @@ Contractors apply a pitch multiplier once a slope exceeds 6:12. A 7:12 or steepe
 
 Arizona sits in [NOAA Climate Zone 2](https://www.noaa.gov/), characterized by extreme solar radiation and sporadic but intense precipitation. Fountain Hills experiences UV index readings of 11 or higher for several months each year. This accelerates oxidation of asphalt shingles, causes thermal cracking in underlayment, and drives granule loss faster than manufacturers' lab conditions predict. The National Roofing Contractors Association recommends that Arizona homeowners account for a 20 to 30 percent reduction in rated shingle lifespan due to UV and thermal stress.
 
-Monsoon season runs June 15 through September 30. Hail, high winds, and windblown debris during haboobs can cause sudden damage that compresses a marginal roof into an emergency replacement situation. See our guide to [roof storm damage inspection after monsoon season](/blog/roof-storm-damage-inspection-arizona/) for what to look for after a storm.
+Monsoon season runs June 15 through September 30. Hail, high winds, and windblown debris during haboobs can cause sudden damage that compresses a marginal roof into an emergency replacement situation. See our guide to [roof storm damage inspection after monsoon season](/blog/roof-damage-insurance-coverage-arizona/) for what to look for after a storm.
 
 ### Does removing old tile cost extra?
 
@@ -98,7 +98,7 @@ A full concrete tile replacement on a typical 2,500-square-foot Fountain Hills h
 
 Underlayment is the silent cost that many contractors underquote. The NRCA Roofing Manual recommends a minimum 40-year rated synthetic underlayment under tile in hot-climate zones. Upgraded underlayment adds $800 to $2,000 to the job but is worth every dollar under Fountain Hills sun. Ask your contractor specifically what underlayment product they spec, and request the manufacturer data sheet. [GAF's technical documentation](https://www.gaf.com/en-us/for-professionals/technical) is one example of where to cross-reference manufacturer specifications against what your contractor is actually installing.
 
-For a deeper look at how tile and shingle costs compare across the East Valley, visit our [roof replacement cost guide for Scottsdale and the East Valley](/blog/roof-replacement-cost-scottsdale-east-valley/).
+For a deeper look at how tile and shingle costs compare across the East Valley, visit our [roof replacement cost guide for Scottsdale and the East Valley](/cities/roof-replacement-cost-scottsdale-az/).
 
 ---
 
@@ -108,7 +108,7 @@ For a deeper look at how tile and shingle costs compare across the East Valley, 
 
 Many Fountain Hills homes built in the 1980s and 1990s include covered patios, casitas, or garage sections with low-slope roofing. These areas typically use modified bitumen, TPO, or foam roofing systems.
 
-TPO and modified bitumen replacements on a 400-to-800-square-foot patio roof section run $2,500 to $6,500. Spray polyurethane foam (SPF) systems, popular in Arizona for their seamless application and insulating value, cost $3 to $5 per square foot installed. Foam roofs require UV-protective elastomeric coatings and re-coating every five to ten years, which is an ongoing maintenance cost to factor in. Our [Arizona flat roof options overview](/services/flat-roof-replacement-arizona/) covers material comparisons in more detail.
+TPO and modified bitumen replacements on a 400-to-800-square-foot patio roof section run $2,500 to $6,500. Spray polyurethane foam (SPF) systems, popular in Arizona for their seamless application and insulating value, cost $3 to $5 per square foot installed. Foam roofs require UV-protective elastomeric coatings and re-coating every five to ten years, which is an ongoing maintenance cost to factor in. Our [Arizona flat roof options overview](/blog/flat-roof-replacement-cost-arizona/) covers material comparisons in more detail.
 
 ---
 
@@ -128,7 +128,7 @@ Key questions to ask every bidder:
 
 Door-to-door solicitation after a hail storm is a well-known tactic in the Phoenix metro. The [Arizona Attorney General's consumer protection office](https://www.azag.gov/complaints/consumer) handles contractor fraud complaints if you experience high-pressure or fraudulent sales tactics.
 
-Price shop against our [Phoenix metro roofing cost comparison](/blog/roof-replacement-cost-phoenix-metro/) to understand whether your Fountain Hills quotes are in a reasonable range.
+Price shop against our [Phoenix metro roofing cost comparison](/cities/roof-replacement-cost-phoenix-az/) to understand whether your Fountain Hills quotes are in a reasonable range.
 
 ---
 

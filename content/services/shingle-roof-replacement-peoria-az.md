@@ -56,7 +56,7 @@ Your contractor should pull the permit if one is required. A roofer who cannot t
 
 Two total, consistent with the codes Valley jurisdictions adopt.
 
-That means one original layer plus at most one layover. If your roof already carries two, your next roof is a full tear-off with disposal of both, which costs more than a single-layer tear-off. Our guides to [shingle layovers](/blog/can-you-put-new-shingles-over-old-shingles/) and [how many layers are allowed](/blog/how-many-layers-of-shingles-can-you-have-on-a-roof/) cover the rule and why a layover is a poor idea in this climate specifically.
+That means one original layer plus at most one layover. If your roof already carries two, your next roof is a full tear-off with disposal of both, which costs more than a single-layer tear-off. Our guides to shingle layovers and [how many layers are allowed](/blog/how-many-layers-of-shingles-can-you-have-on-a-roof/) cover the rule and why a layover is a poor idea in this climate specifically.
 
 Check your layer count before accepting any bid. It changes the tear-off line item materially.
 

@@ -145,3 +145,10 @@ Yes, when time allows. [Three estimates help you spot missing scope, unusually l
 ---
 
 Before reviewing bids, run your address through the [free roof replacement cost estimator](/estimator/) so you know the realistic range before a contractor sets the anchor.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [What a Roofing Estimate Should Include Line by Line](/blog/what-does-roofing-estimate-include/)
+- [Questions to Ask a Roofing Contractor Before You Sign Anything](/blog/questions-to-ask-roofing-contractor/)

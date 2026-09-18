@@ -42,7 +42,7 @@ That means many tile "replacements" are underlayment jobs. If your tile is sound
 
 More often than a salesperson will admit. Sound tile over failed underlayment, a foam roof due for a recoat, or isolated storm damage are all repairs, not full replacements. An honest inspection tells you which you are facing.
 
-Get a straight assessment before authorizing a tear-off. A partial repair or an underlayment job can add years for a fraction of full-replacement cost. If a contractor insists on total replacement without showing you the damage, get a second opinion. Understanding [what a fair roof price looks like](/blog/roof-replacement-cost-arizona-2026/) helps you judge whether the scope matches the problem.
+Get a straight assessment before authorizing a tear-off. A partial repair or an underlayment job can add years for a fraction of full-replacement cost. If a contractor insists on total replacement without showing you the damage, get a second opinion. Understanding what a fair roof price looks like helps you judge whether the scope matches the problem.
 
 ## How to get an accurate quote and pull permits in Casa Grande
 

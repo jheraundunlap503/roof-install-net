@@ -55,7 +55,7 @@ The National Roofing Contractors Association recommends a full replacement when 
 - A second layer of shingles is already in place. [Arizona building code generally limits roofs to two layers before a full tear-off is required](https://codes.iccsafe.org/codes/arizona).
 - Granule loss is severe and uniform, meaning the shingles have lost their UV-reflective coating.
 
-If you are unsure, pay for an independent inspection before committing to a full replacement. A reputable inspector charges $150–$400 and has no financial stake in the outcome. See our guide on [how to read a roof inspection report](/blog/how-to-read-a-roof-inspection-report/) before you hire anyone.
+If you are unsure, pay for an independent inspection before committing to a full replacement. A reputable inspector charges $150–$400 and has no financial stake in the outcome. See our guide on [how to read a roof inspection report](/blog/how-to-read-roofing-warranty/) before you hire anyone.
 
 ---
 
@@ -95,7 +95,7 @@ Concrete and clay tile dominate Apache Junction for good reason: they handle UV 
 
 **TPO and modified bitumen** are relevant only for flat or low-slope sections common on mid-century homes or room additions. These materials require re-coating every 7–12 years but cost significantly less to install than tile or metal.
 
-For a side-by-side comparison of all materials used in East Valley climates, see our [roofing materials guide for Arizona homeowners](/blog/best-roofing-materials-arizona/).
+For a side-by-side comparison of all materials used in East Valley climates, see our roofing materials guide for Arizona homeowners.
 
 ---
 
@@ -137,7 +137,7 @@ Arizona sees periodic hail events, particularly in the eastern Valley during mon
 
 Contractors who offer to "work with your insurance" and waive your deductible are asking you to commit insurance fraud. That is a criminal offense in Arizona. Pay your deductible.
 
-For help understanding what your policy actually covers, see our article on [homeowners insurance and roof damage in Arizona](/blog/insurance-roof-damage-arizona/).
+For help understanding what your policy actually covers, see our article on [homeowners insurance and roof damage in Arizona](/blog/monsoon-roof-damage-arizona-2026/).
 
 ---
 
@@ -177,4 +177,4 @@ Yes. Ask contractors if they have any scheduling flexibility in exchange for a l
 
 **Should I get a second opinion before replacing my roof?**
 
-Absolutely. If a contractor tells you that you need a full replacement after a quick visual inspection, paying for an independent inspection is money well spent. See our [roof inspection guide for Arizona homeowners](/services/roof-inspection/) to understand what a thorough inspection should include.
+Absolutely. If a contractor tells you that you need a full replacement after a quick visual inspection, paying for an independent inspection is money well spent. See our [roof inspection guide for Arizona homeowners](/services/roof-inspection-mesa-az/) to understand what a thorough inspection should include.

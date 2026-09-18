@@ -14,19 +14,19 @@ image_alt: southwestern stucco home in a sunny Tucson Arizona suburb ready for s
 
 # Should You Replace Your Roof Before Selling Your House in Arizona?
 
-**TLDR:** Whether to replace an Arizona roof before listing depends on three things: the roof's actual condition, the buyer pool you expect, and whether your lender situation requires it. A roof near end of life will surface in the home inspection and typically triggers a buyer credit demand or price reduction anyway. In many cases, proactive replacement produces a cleaner sale than waiting for the inspection to force the conversation — but a pre-listing inspection first tells you exactly where you stand before spending the money.
+**TLDR:** Whether to replace an Arizona roof before listing depends on three things: the roof's actual condition, the buyer pool you expect, and whether your lender situation requires it. A roof near end of life will surface in the home inspection and typically triggers a buyer credit demand or price reduction anyway. In many cases, proactive replacement produces a cleaner sale than waiting for the inspection to force the conversation, but a pre-listing inspection first tells you exactly where you stand before spending the money.
 
 ---
 
 Deciding whether to replace a roof before selling is one of the more expensive pre-listing decisions an Arizona homeowner faces. [A concrete tile re-roof in the Phoenix metro runs $15,000 to $30,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). [A shingle replacement runs $8,000 to $14,000](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost). That is real money to spend on a home you are leaving.
 
-But the alternative — listing with a roof that has 2 to 5 years of life left — creates its own costs. Buyers discount aging roofs. Inspectors flag them. Lenders can refuse to finance homes where the appraiser notes roof condition as a risk. And negotiations that drag over roof condition delay closings, sometimes fatally.
+But the alternative, listing with a roof that has 2 to 5 years of life left, creates its own costs. Buyers discount aging roofs. Inspectors flag them. Lenders can refuse to finance homes where the appraiser notes roof condition as a risk. And negotiations that drag over roof condition delay closings, sometimes fatally.
 
 Understanding how Arizona buyers, inspectors, appraisers, and lenders each view roof age helps you make the right call before you list.
 
 ## What do buyers and agents look for on an Arizona roof?
 
-Experienced buyers and their agents in the Phoenix metro know the lifespan of Arizona roofing materials. A concrete tile roof from 2002 is 24 years old. A shingle roof from 2010 is 16 years old. Buyers in this market are aware that [shingles in Arizona UV and heat typically last 15 to 20 years](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time) — shorter than the national average — and that tile underlayment fails on a similar or shorter timeline.
+Experienced buyers and their agents in the Phoenix metro know the lifespan of Arizona roofing materials. A concrete tile roof from 2002 is 24 years old. A shingle roof from 2010 is 16 years old. Buyers in this market are aware that [shingles in Arizona UV and heat typically last 15 to 20 years](https://www.certainteed.com/inspiration/how-tos/sun-exposure-and-your-roof-what-uv-rays-do-over-time), shorter than the national average, and that tile underlayment fails on a similar or shorter timeline.
 
 When a buyer's agent walks a property, roof age is one of the first questions after HVAC age. In a competitive market, a newer roof is a selling point. In a soft market, an aging roof gives buyers leverage to negotiate down or request credits.
 
@@ -44,9 +44,9 @@ Arizona home inspectors look at every accessible roof surface. Common items they
 - Foam roofs with topcoat degradation or bare foam exposure
 - Estimated remaining useful life under 3 to 5 years
 
-An inspection report with multiple roof flags does not kill a sale automatically — but it creates a negotiation document. Buyers use each flagged item to justify a credit request or price reduction. A thorough roof section in the inspection report can result in $5,000 to $15,000 in concessions even if full replacement is not required.
+An inspection report with multiple roof flags does not kill a sale automatically, but it creates a negotiation document. Buyers use each flagged item to justify a credit request or price reduction. A thorough roof section in the inspection report can result in $5,000 to $15,000 in concessions even if full replacement is not required.
 
-Getting a pre-listing roof inspection from a licensed contractor before your home goes on market lets you see what the buyer's inspector will see — and decide in advance whether to fix, disclose, or price accordingly. See [pre-monsoon roof inspection in Arizona](/blog/pre-monsoon-roof-inspection-arizona) for what a thorough inspection should cover.
+Getting a pre-listing roof inspection from a licensed contractor before your home goes on market lets you see what the buyer's inspector will see, and decide in advance whether to fix, disclose, or price accordingly. See [pre-monsoon roof inspection in Arizona](/blog/pre-monsoon-roof-inspection-arizona) for what a thorough inspection should cover.
 
 ## Do lenders require a certain roof condition to approve a loan?
 
@@ -54,13 +54,13 @@ Yes, in some cases. FHA and VA loans have specific property condition standards 
 
 Fannie Mae's Selling Guide similarly requires that the property be in a condition that does not jeopardize the health and safety of occupants or the security of the property. Appraisers marking a roof as near end-of-life or actively leaking can result in a required repair condition on a conventional loan.
 
-If your buyer pool is likely to include FHA or VA borrowers — common for homes in the $300,000 to $500,000 range in Maricopa County — a roof in poor condition is a real financing risk, not just an aesthetic objection.
+If your buyer pool is likely to include FHA or VA borrowers, common for homes in the $300,000 to $500,000 range in Maricopa County, a roof in poor condition is a real financing risk, not just an aesthetic objection.
 
 ## Does a new roof increase what you can ask for the home?
 
 It can support the asking price, but the dollar-for-dollar return is usually less than the cost of replacement. [Remodeling Magazine's annual Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/) consistently shows roofing replacement returning 60 to 70 percent of cost at resale on a national basis. In Arizona's high-UV climate where buyers are attuned to roof age, the return may be at the higher end of that range.
 
-The more relevant calculation for most sellers is not "will a new roof add $20,000 to my sale price" — it is "will listing with a roof near end of life cost me more in concessions and delays than replacing it now would." Those are different questions with different answers depending on your specific home, market, and buyer pool.
+The more relevant calculation for most sellers is not "will a new roof add $20,000 to my sale price", it is "will listing with a roof near end of life cost me more in concessions and delays than replacing it now would." Those are different questions with different answers depending on your specific home, market, and buyer pool.
 
 For a detailed look at how Arizona buyers value a new roof in the context of a full home sale, see [how a new roof affects home value in Arizona](/blog/new-roof-home-value-arizona).
 
@@ -84,7 +84,7 @@ Offering a buyer credit sounds simpler than a full replacement, but credits ofte
 
 ## How do you get a pre-listing roof inspection in Arizona?
 
-Hire a licensed Arizona roofing contractor — not a general home inspector — to inspect the roof specifically. A roofer who works with tile, shingle, and foam systems can assess underlayment condition, identify flashing failures, and give you an honest remaining-life estimate.
+Hire a licensed Arizona roofing contractor, not a general home inspector, to inspect the roof specifically. A roofer who works with tile, shingle, and foam systems can assess underlayment condition, identify flashing failures, and give you an honest remaining-life estimate.
 
 Make sure the contractor is active and in good standing through the [Arizona Registrar of Contractors](https://roc.az.gov/) before they get on your roof. Ask for the inspection findings in writing with photos so you have documentation regardless of which direction you decide to go.
 
@@ -108,13 +108,13 @@ The [NRCA](https://www.nrca.net/) recommends obtaining multiple written estimate
 Not always, but experienced buyers in Arizona will notice roof age and factor it into their offer. In a seller's market, buyers may waive objections to avoid losing the home. In a buyer's market, an aging roof is a negotiating point that almost always surfaces.
 
 **Can I sell an Arizona home with a roof that is actively leaking?**
-You can list it, but disclosure is legally required in Arizona. Active roof leaks must be disclosed to buyers. Most buyers — and all lenders — will require repair or significant price adjustment before closing.
+You can list it, but disclosure is legally required in Arizona. Active roof leaks must be disclosed to buyers. Most buyers, and all lenders, will require repair or significant price adjustment before closing.
 
 **Does a new roof add to the listing photos or curb appeal?**
 In most Arizona neighborhoods, roofs are visible from the street and in listing photos. A clean, newer tile or shingle roof photographs better than one showing visible cracking, weathering, or missing pieces. It is a minor factor in showing quality but a real one.
 
 **Is it worth replacing the roof if I am only selling for a modest profit?**
-Run the numbers specifically. If the expected buyer concession on an aging roof is $10,000 to $15,000, and a replacement costs $12,000, the financial difference is small — but the replacement gives you a cleaner transaction. If the expected concession is $5,000 and replacement costs $18,000, the credit is the better economic choice.
+Run the numbers specifically. If the expected buyer concession on an aging roof is $10,000 to $15,000, and a replacement costs $12,000, the financial difference is small, but the replacement gives you a cleaner transaction. If the expected concession is $5,000 and replacement costs $18,000, the credit is the better economic choice.
 
 **How long does a new roof last for the buyer after purchase?**
 That depends on material type. [A new shingle roof in Arizona realistically lasts 15 to 20 years](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost). [New concrete tile with synthetic underlayment can last 30 to 40 years](https://www.owenscorning.com/en-us/roofing/blog/roof-replacement-cost). Providing the buyer with the contractor's warranty documents, permit records, and material specs adds value and reduces post-sale disputes.

@@ -129,3 +129,11 @@ No. Certifications such as GAF Master Elite or other manufacturer programs can b
 ---
 
 Before you compare roofing bids, use the [free roof replacement cost estimator](/estimator/) to get a baseline for your ZIP code and roof type.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Roofing Contractor Red Flags Reddit Homeowners Keep Posting About](/blog/roofing-contractor-red-flags-reddit/)
+- [Roof Replacement Cost in Mesa, AZ: What Homeowners Should Expect](/cities/roof-replacement-cost-mesa-az/)
+- [Metal Roofing in Arizona: What Homeowners Should Know](/blog/metal-roof-arizona/)

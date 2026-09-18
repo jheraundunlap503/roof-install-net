@@ -38,7 +38,7 @@ Concrete and clay tile, which dominate older East Valley neighborhoods in Chandl
 - Multiple cracked, lifted, or missing tiles
 - Sagging decking or soft spots visible from the attic
 
-See our [roof inspection checklist for Arizona homeowners](/blog/roof-inspection-checklist-arizona/) for a room-by-room walkthrough you can complete before calling anyone.
+See our [roof inspection checklist for Arizona homeowners](/blog/arizona-roof-inspection-checklist/) for a room-by-room walkthrough you can complete before calling anyone.
 
 ---
 
@@ -85,7 +85,7 @@ The [Remodeling Magazine Cost vs. Value Report](https://www.remodeling.hw.net/co
 
 For shingle material specifically, consider upgrading to a Class 4 impact-resistant shingle rated for Arizona monsoon hail exposure. Monsoon season runs June 15 through September 30, and hail events, while not annual, have caused widespread damage in East Valley communities including Queen Creek and San Tan Valley within the past decade.
 
-Visit our [Arizona roofing cost calculator](/services/roofing-cost-calculator/) for a more precise estimate based on your roof dimensions and material preference.
+Visit our Arizona roofing cost calculator for a more precise estimate based on your roof dimensions and material preference.
 
 ---
 
@@ -119,7 +119,7 @@ In Arizona, roofing contractors must hold a valid license through the [Arizona R
 
 Avoid any contractor who asks you to pull an owner-builder permit for a job they are performing. That structure transfers the liability to you and disqualifies you from most workmanship warranty claims.
 
-Also review our [guide to hiring a licensed Arizona roofer](/blog/hiring-licensed-roofer-arizona/) before you collect bids.
+Also review our guide to hiring a licensed Arizona roofer before you collect bids.
 
 ---
 
@@ -163,4 +163,4 @@ Adding solar panels typically increases the insured value of your home, which ca
 
 ---
 
-*For related reading, see our overview of [Arizona monsoon roof preparation](/blog/monsoon-roof-prep-arizona/) and our breakdown of [tile vs. shingle roofing costs in the East Valley](/blog/tile-vs-shingle-roofing-east-valley/).*
+*For related reading, see our overview of [Arizona monsoon roof preparation](/blog/monsoon-roof-damage-arizona-2026/) and our breakdown of [tile vs. shingle roofing costs in the East Valley](/blog/tile-vs-shingle-roof-arizona/).*

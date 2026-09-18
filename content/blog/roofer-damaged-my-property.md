@@ -14,7 +14,7 @@ image_alt: "Roofers working on brick home in Allen, Texas, addressing shingles a
 
 # Roofer Damaged My Property: What to Do When the Job Goes Wrong
 
-**If a roofer damaged your property, you have real legal and financial options — but the clock starts ticking the moment work ends. Document everything before anyone leaves your driveway. Arizona contractors are required to carry liability insurance, and you can file complaints with the state registrar if they refuse to make things right. This guide walks you through every step from evidence gathering to getting reimbursed.**
+**If a roofer damaged your property, you have real legal and financial options, but the clock starts ticking the moment work ends. Document everything before anyone leaves your driveway. Arizona contractors are required to carry liability insurance, and you can file complaints with the state registrar if they refuse to make things right. This guide walks you through every step from evidence gathering to getting reimbursed.**
 
 ---
 
@@ -111,7 +111,7 @@ For broader consumer fraud or deceptive trade complaints, the [Arizona Attorney 
 
 ## Can I Make a Claim on the Contractor's Liability Insurance?
 
-**Yes. If the contractor caused the damage, their general liability policy should cover it. You file directly with their insurer, not your own homeowner's policy — though your own insurer can help you navigate the process.**
+**Yes. If the contractor caused the damage, their general liability policy should cover it. You file directly with their insurer, not your own homeowner's policy, though your own insurer can help you navigate the process.**
 
 Here is how to approach the contractor's insurance:
 
@@ -126,7 +126,7 @@ If the contractor's insurer disputes responsibility or the contractor has no val
 
 **This is the most common dispute tactic. Pre-job photos, a third-party inspection report, and Google Street View historical imagery can counter this argument effectively.**
 
-Arizona shingle roofs typically last [15 to 20 years under our UV and monsoon conditions](/blog/how-long-does-a-roof-last-in-arizona/), and tile roofs can run 30 to 50 years. If your roof was documented as serviceable before work began and damage appeared during or after the job, the burden shifts toward the contractor to prove otherwise.
+Arizona shingle roofs typically last 15 to 20 years under our UV and monsoon conditions, and tile roofs can run 30 to 50 years. If your roof was documented as serviceable before work began and damage appeared during or after the job, the burden shifts toward the contractor to prove otherwise.
 
 ---
 
@@ -172,10 +172,10 @@ Best practices:
 
 ## Internal Resources
 
-- Learn how to vet a contractor before hiring: [/blog/how-to-hire-a-roofer-in-arizona/](/blog/how-to-hire-a-roofer-in-arizona/)
-- Understand what monsoon prep your roof needs: [/blog/arizona-monsoon-roof-preparation/](/blog/arizona-monsoon-roof-preparation/)
-- See how long your roof type should last in Arizona's climate: [/blog/how-long-does-a-roof-last-in-arizona/](/blog/how-long-does-a-roof-last-in-arizona/)
-- Get a free local estimate: [/services/free-roof-inspection/](/services/free-roof-inspection/)
+- Learn how to vet a contractor before hiring: [/blog/how-to-hire-a-roofer-in-arizona/](/blog/how-to-find-a-reputable-roofer-arizona/)
+- Understand what monsoon prep your roof needs: [/blog/arizona-monsoon-roof-preparation/](/blog/pre-monsoon-roof-inspection-arizona/)
+- See how long your roof type should last in Arizona's climate: [/blog/how-long-does-a-roof-last-in-arizona/](/blog/how-long-does-a-roof-last-arizona/)
+- Get a free local estimate: [/services/free-roof-inspection/](/services/roof-inspection-mesa-az/)
 
 ---
 

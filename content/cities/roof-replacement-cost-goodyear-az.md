@@ -14,7 +14,7 @@ image_alt: "Roofer using nail gun for shingle installation on residential roof."
 
 # Roof Replacement Cost in Goodyear, AZ: What Homeowners Actually Pay in 2026
 
-**The roof replacement cost in Goodyear, AZ typically falls between $8,500 and $22,000 for an average single-family home, depending on material, roof size, and current labor rates in the West Valley. Asphalt shingles run lower; concrete tile and foam systems push the high end. Not every damaged roof needs full replacement — this article will tell you when repair is the smarter call. Read on for a complete breakdown of what drives cost and how to avoid overpaying.**
+**The roof replacement cost in Goodyear, AZ typically falls between $8,500 and $22,000 for an average single-family home, depending on material, roof size, and current labor rates in the West Valley. Asphalt shingles run lower; concrete tile and foam systems push the high end. Not every damaged roof needs full replacement, this article will tell you when repair is the smarter call. Read on for a complete breakdown of what drives cost and how to avoid overpaying.**
 
 ---
 
@@ -67,13 +67,13 @@ Absolutely. The Phoenix metro regularly records a [UV Index of 11 or higher](htt
 - Concrete and clay tile last 30 to 50 years but require periodic underlayment replacement around the 20 to 25 year mark.
 - Foam roofs need recoating every 5 to 10 years; without maintenance they fail quickly.
 
-See our [guide to roofing materials for Arizona's desert climate](/blog/best-roofing-materials-arizona/) for a deeper comparison.
+See our guide to roofing materials for Arizona's desert climate for a deeper comparison.
 
 ### What permits does Goodyear require for a roof replacement?
 
 **Do you need a permit to replace a roof in Goodyear?**
 
-Yes. The City of Goodyear Development Services requires a building permit for full roof replacements. Permit fees typically run $150 to $400 depending on project valuation. Any licensed contractor operating in Arizona must be registered with the [Arizona Registrar of Contractors](https://roc.az.gov/) — always verify your contractor's ROC number before signing a contract.
+Yes. The City of Goodyear Development Services requires a building permit for full roof replacements. Permit fees typically run $150 to $400 depending on project valuation. Any licensed contractor operating in Arizona must be registered with the [Arizona Registrar of Contractors](https://roc.az.gov/), always verify your contractor's ROC number before signing a contract.
 
 ---
 
@@ -98,7 +98,7 @@ Signs you likely do need full replacement:
 - A tile underlayment that is 20-plus years old and brittle
 - An asphalt roof that is 18-plus years old in full sun exposure
 
-Read more about the repair vs. replace decision in our [roof repair vs. replacement resource](/blog/roof-repair-vs-replacement-arizona/).
+Read more about the repair vs. replace decision in our [roof repair vs. replacement resource](/blog/roof-repair-vs-replacement/).
 
 ---
 
@@ -172,7 +172,7 @@ You do not need to be home during the work itself, but you should be available f
 
 ### How do I verify a Goodyear roofing contractor is licensed?
 
-Use the [Arizona Registrar of Contractors license lookup tool](https://roc.az.gov/) to confirm the contractor's ROC number is active and in good standing. Check the license classification as well — a residential roofer should hold a CR-42 (roofing) classification. Verify the contractor carries liability insurance and workers' compensation coverage before work begins.
+Use the [Arizona Registrar of Contractors license lookup tool](https://roc.az.gov/) to confirm the contractor's ROC number is active and in good standing. Check the license classification as well, a residential roofer should hold a CR-42 (roofing) classification. Verify the contractor carries liability insurance and workers' compensation coverage before work begins.
 
 ### Will a new roof increase my home's value in Goodyear?
 

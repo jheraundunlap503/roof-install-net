@@ -20,7 +20,7 @@ image_alt: aerial view of a suburban Mesa, Arizona neighborhood with flat and lo
 
 ---
 
-Mesa's residential roofscape is built for foam. A large share of Mesa's single-family homes — particularly in Dobson Ranch, Red Mountain Ranch, Eastmark, and Las Sendas — feature the flat and low-pitch stucco profiles that foam was designed for. Unlike shingle or tile roofs that shed water by gravity, flat roofs need an airtight, seamlessly bonded surface. Foam delivers that, plus R-values that no tile or shingle product can match.
+Mesa's residential roofscape is built for foam. A large share of Mesa's single-family homes, particularly in Dobson Ranch, Red Mountain Ranch, Eastmark, and Las Sendas, feature the flat and low-pitch stucco profiles that foam was designed for. Unlike shingle or tile roofs that shed water by gravity, flat roofs need an airtight, seamlessly bonded surface. Foam delivers that, plus R-values that no tile or shingle product can match.
 
 ## What does foam roofing cost in Mesa, AZ?
 
@@ -33,13 +33,13 @@ Several variables move the price within that range:
 - **Roof condition**: Soft spots, significant ponding damage, or failed flashing need prep work before foam can be applied. Surface repairs add cost before the foam even goes down.
 - **Existing roofing layers**: If the current surface has multiple layers or a failed foam roof underneath, removal adds $1 to $2 per square foot.
 - **Foam thickness**: A minimum 1.5-inch application provides basic waterproofing. The [National Roofing Contractors Association](https://www.nrca.net/) recommends 1.5 to 2 inches for most residential applications; thicker passes improve insulation but increase cost.
-- **Topcoat type**: Silicone coatings cost more upfront than acrylic but hold up significantly better under UV exposure and standing water — both common on Mesa flat roofs after monsoon rains.
+- **Topcoat type**: Silicone coatings cost more upfront than acrylic but hold up significantly better under UV exposure and standing water, both common on Mesa flat roofs after monsoon rains.
 
 See our full breakdown of [foam roofing in Arizona](/blog/foam-roofing-arizona/) for material comparisons and how SPF stacks up against tile across Arizona's climate zones.
 
 ## How long does foam roofing last in Mesa's heat?
 
-A properly installed foam roof with a high-quality silicone topcoat lasts 20 to 30 years in Mesa's climate. The key variable is maintenance. Foam degrades quickly when the topcoat fails and UV hits bare foam — Mesa averages 299 sunny days per year, and summer UV index regularly exceeds 12. Most foam manufacturers and the [NRCA](https://www.nrca.net/) recommend a recoating inspection at year 5 and a full recoat by year 7 to 10, depending on topcoat type.
+A properly installed foam roof with a high-quality silicone topcoat lasts 20 to 30 years in Mesa's climate. The key variable is maintenance. Foam degrades quickly when the topcoat fails and UV hits bare foam, Mesa averages 299 sunny days per year, and summer UV index regularly exceeds 12. Most foam manufacturers and the [NRCA](https://www.nrca.net/) recommend a recoating inspection at year 5 and a full recoat by year 7 to 10, depending on topcoat type.
 
 A recoat typically costs $1 to $3 per square foot, far cheaper than full replacement. Building that maintenance cycle into your planning makes foam one of the most cost-effective roofing options for Mesa flat-roof homes over a 20-year horizon.
 
@@ -51,16 +51,16 @@ Yes. The [City of Mesa Building Safety Division](https://www.mesaaz.gov/business
 
 Most Mesa HOA communities built with flat-to-low-slope rooflines treat foam re-roofing as a like-for-like replacement that doesn't require Architectural Review Committee approval. Communities like Dobson Ranch and Red Mountain Ranch generally approve foam work that stays on existing flat roof sections without altering the roofline profile.
 
-If your home is in a Mesa community where tile covers pitched sections, those sections typically require matching tile — foam is generally approved only on the flat portions. Check your CC&Rs or contact your HOA management company before scheduling work. Under [A.R.S. 33-1261](https://www.azleg.gov/ars/33/01261.htm), Arizona HOAs cannot prohibit energy-efficient roofing materials outright, which provides legal backing if a specific HOA pushes back on foam.
+If your home is in a Mesa community where tile covers pitched sections, those sections typically require matching tile, foam is generally approved only on the flat portions. Check your CC&Rs or contact your HOA management company before scheduling work. Under [A.R.S. 33-1261](https://www.azleg.gov/ars/33/01261.htm), Arizona HOAs cannot prohibit energy-efficient roofing materials outright, which provides legal backing if a specific HOA pushes back on foam.
 
 ## How do you verify a Mesa foam roofing contractor?
 
-Foam roofing requires specialized equipment — a heated proportioner, a spray rig, and trained applicators who understand mix ratios and cure conditions. Not every licensed roofer does foam work well. Before signing a contract:
+Foam roofing requires specialized equipment, a heated proportioner, a spray rig, and trained applicators who understand mix ratios and cure conditions. Not every licensed roofer does foam work well. Before signing a contract:
 
 1. Verify the contractor holds an active license at the [Arizona Registrar of Contractors](https://roc.az.gov/)
 2. Confirm they carry general liability and workers' compensation insurance
 3. Ask specifically how many Mesa foam projects they've completed in the last 12 months
-4. Get the foam manufacturer name and product line in writing — Gaco, Henry, and Dow are established manufacturers in the Arizona market
+4. Get the foam manufacturer name and product line in writing, Gaco, Henry, and Dow are established manufacturers in the Arizona market
 
 A contractor who discourages you from checking ROC status or can't name their foam manufacturer is a red flag.
 
@@ -77,3 +77,9 @@ Schedule a contractor inspection at year 5 regardless of visible topcoat conditi
 
 **Does foam roofing affect my homeowner's insurance in Arizona?**
 Foam roofing is a code-compliant material in Arizona and does not typically cause insurance coverage issues. Inform your insurer when the new roof is complete and provide the permit record and contractor documentation. Some insurers offer modest premium adjustments for newer, code-compliant roofs. Contact your agent with the installation date and permit number after the project closes.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Tile Roof Replacement in Mesa, AZ](/services/tile-roof-replacement-mesa-az/)

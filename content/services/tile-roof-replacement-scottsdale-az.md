@@ -80,3 +80,10 @@ In communities like DC Ranch, Silverleaf, and Grayhawk, the Architectural Review
 
 **Is clay or concrete tile better for a Scottsdale roof?**
 Both perform well in the desert. Concrete tile costs less and is the most common choice across Scottsdale's master-planned communities. Clay tile costs more, holds its color longer, and is common in higher-end North Scottsdale custom homes. Your HOA may also dictate which is allowed, so check community guidelines before choosing.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Tile Roof Replacement in Mesa, AZ](/services/tile-roof-replacement-mesa-az/)
+- [Tile Roof Replacement in Gilbert, AZ](/services/tile-roof-replacement-gilbert-az/)

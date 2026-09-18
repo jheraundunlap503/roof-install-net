@@ -16,11 +16,11 @@ image_alt: southwestern stucco residential home in a sunny Arizona suburb under 
 
 # Foam Roofing in Gilbert, AZ
 
-**TLDR:** Spray polyurethane foam (SPF) roofing in Gilbert, AZ runs $5 to $9 per square foot installed — the same range as the broader Phoenix metro. Foam is well suited to Gilbert's flat and low-slope roof sections, which appear on homes throughout Power Ranch, Morrison Ranch, and Cooley Station even in communities that are otherwise tile-dominant. The Town of Gilbert requires a permit for foam roofing installation. HOA rules in Gilbert's master-planned communities vary: foam on existing flat sections is generally permitted; foam on pitched tile sections is not. Check your specific CC&Rs before scheduling any work.
+**TLDR:** Spray polyurethane foam (SPF) roofing in Gilbert, AZ runs $5 to $9 per square foot installed, the same range as the broader Phoenix metro. Foam is well suited to Gilbert's flat and low-slope roof sections, which appear on homes throughout Power Ranch, Morrison Ranch, and Cooley Station even in communities that are otherwise tile-dominant. The Town of Gilbert requires a permit for foam roofing installation. HOA rules in Gilbert's master-planned communities vary: foam on existing flat sections is generally permitted; foam on pitched tile sections is not. Check your specific CC&Rs before scheduling any work.
 
 ---
 
-Gilbert is a tile city by reputation, but most of its single-family homes have at least one flat or low-slope section — an entryway, covered patio, or garage extension — where tile doesn't drain effectively and foam is the right material. These sections are where Gilbert homeowners encounter foam roofing most often, and where a failed or degraded foam coat leads to the moisture intrusion calls contractors see throughout the monsoon season.
+Gilbert is a tile city by reputation, but most of its single-family homes have at least one flat or low-slope section, an entryway, covered patio, or garage extension, where tile doesn't drain effectively and foam is the right material. These sections are where Gilbert homeowners encounter foam roofing most often, and where a failed or degraded foam coat leads to the moisture intrusion calls contractors see throughout the monsoon season.
 
 ## What does foam roofing cost in Gilbert, AZ?
 
@@ -42,13 +42,13 @@ Recoating an existing foam roof in good structural condition costs significantly
 
 ## How long does foam roofing last in Gilbert?
 
-A foam roof with a silicone topcoat lasts 20 to 30 years in Gilbert's climate when maintained properly. Gilbert averages over 296 sunny days per year and summer UV index regularly exceeds 11 — conditions that degrade topcoat faster than in more temperate markets. Plan for a recoating inspection at year 5 and a full recoat between years 7 and 10.
+A foam roof with a silicone topcoat lasts 20 to 30 years in Gilbert's climate when maintained properly. Gilbert averages over 296 sunny days per year and summer UV index regularly exceeds 11, conditions that degrade topcoat faster than in more temperate markets. Plan for a recoating inspection at year 5 and a full recoat between years 7 and 10.
 
-Skipping recoating to save cost produces the opposite result — bare foam exposed to Gilbert UV degrades within one to two seasons and requires full tear-off and replacement rather than a surface recoat. See our overview of [foam roofing in Arizona](/blog/foam-roofing-arizona/) for detailed lifespan comparisons across Arizona climate zones.
+Skipping recoating to save cost produces the opposite result, bare foam exposed to Gilbert UV degrades within one to two seasons and requires full tear-off and replacement rather than a surface recoat. See our overview of [foam roofing in Arizona](/blog/foam-roofing-arizona/) for detailed lifespan comparisons across Arizona climate zones.
 
 ## Does Gilbert require a permit for foam roofing?
 
-Yes. The [Town of Gilbert Development Services](https://www.gilbertaz.gov/departments/development-services) requires a building permit for foam roofing installation and re-roofing. Your licensed contractor pulls the permit before any material goes down. Recoat-only projects that don't alter the roof's structural character may fall below the permit threshold — confirm the specific scope with your contractor before work begins. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what typically crosses into permit-required territory.
+Yes. The [Town of Gilbert Development Services](https://www.gilbertaz.gov/departments/development-services) requires a building permit for foam roofing installation and re-roofing. Your licensed contractor pulls the permit before any material goes down. Recoat-only projects that don't alter the roof's structural character may fall below the permit threshold, confirm the specific scope with your contractor before work begins. See [Maricopa County roofing permit requirements](/blog/maricopa-county-roofing-permit/) for what typically crosses into permit-required territory.
 
 ## What do Gilbert HOAs say about foam roofing?
 
@@ -67,20 +67,20 @@ Under [A.R.S. 33-1261](https://www.azleg.gov/ars/33/01261.htm), Arizona HOAs can
 Foam SPF requires specialized spray equipment and trained applicators. Not every licensed roofer has that capability. Before hiring:
 
 1. Verify active ROC license at the [Arizona Registrar of Contractors](https://roc.az.gov/)
-2. Ask which foam manufacturer's product they use — Gaco, Henry, and Dow are established in the Arizona market
+2. Ask which foam manufacturer's product they use, Gaco, Henry, and Dow are established in the Arizona market
 3. Confirm they carry the silicone or acrylic topcoat product in your HOA's approved color before scheduling
 4. Ask for two to three Gilbert references from the past 12 months
 5. Get the permit number before any spray equipment rolls onto your driveway
 
-See [tile vs. shingle roofing in Arizona](/blog/tile-vs-shingle-roof-arizona/) for context on how foam fits into the broader Arizona material decision — particularly useful if you're weighing options on a home with both flat and pitched sections.
+See [tile vs. shingle roofing in Arizona](/blog/tile-vs-shingle-roof-arizona/) for context on how foam fits into the broader Arizona material decision, particularly useful if you're weighing options on a home with both flat and pitched sections.
 
 ## Frequently Asked Questions
 
 **Can foam be applied over existing foam on my Gilbert home?**
-Yes, in most cases, if the existing foam is structurally sound and adhered to the substrate. A contractor will test adhesion at multiple points. Delaminated or moisture-compromised foam requires removal before a new application — applying fresh foam over failed material doesn't restore performance.
+Yes, in most cases, if the existing foam is structurally sound and adhered to the substrate. A contractor will test adhesion at multiple points. Delaminated or moisture-compromised foam requires removal before a new application, applying fresh foam over failed material doesn't restore performance.
 
 **Does foam roofing affect my Gilbert home's resale value?**
-A well-maintained foam roof on appropriate flat sections is not a negative for buyers in the Gilbert market. Buyers familiar with Arizona construction understand foam on flat sections. A poorly maintained foam roof — visible topcoat failure, bare foam exposure — is a disclosure item that does affect buyer perception. Keep your recoating schedule current.
+A well-maintained foam roof on appropriate flat sections is not a negative for buyers in the Gilbert market. Buyers familiar with Arizona construction understand foam on flat sections. A poorly maintained foam roof, visible topcoat failure, bare foam exposure, is a disclosure item that does affect buyer perception. Keep your recoating schedule current.
 
 **How does monsoon season affect foam roofing installation timing in Gilbert?**
 Foam cannot be sprayed during rain or when relative humidity exceeds approximately 85%. Gilbert's monsoon season (June through September) introduces daily afternoon weather uncertainty. Most experienced Gilbert foam contractors schedule projects for spring (March through May) when conditions are consistently dry. Monsoon season work is possible but requires more flexible daily scheduling.

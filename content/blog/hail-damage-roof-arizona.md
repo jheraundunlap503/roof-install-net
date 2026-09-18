@@ -15,13 +15,13 @@ pexels_photo_id: 4170441
 
 # Hail Damage Roof Arizona: How to Spot It, Document It, and Act Fast
 
-**TLDR:** On September 26, 2025, hail up to 2.5 inches in diameter hit Chandler, Tempe, Scottsdale, and Phoenix. Less than three weeks later, a second storm on October 13 brought 2-inch hail to Tempe and Apache Junction, damaging more than 500 homes. Hail damage is not always visible from the ground — especially on tile roofs where hairline cracks form under intact-looking surfaces. Arizona's heat accelerates the deterioration of any undetected damage, and most insurers impose a one-year window to file. This guide shows you exactly what to look for and what to do within the first 72 hours.
+**TLDR:** On September 26, 2025, hail up to 2.5 inches in diameter hit Chandler, Tempe, Scottsdale, and Phoenix. Less than three weeks later, a second storm on October 13 brought 2-inch hail to Tempe and Apache Junction, damaging more than 500 homes. Hail damage is not always visible from the ground, especially on tile roofs where hairline cracks form under intact-looking surfaces. Arizona's heat accelerates the deterioration of any undetected damage, and most insurers impose a one-year window to file. This guide shows you exactly what to look for and what to do within the first 72 hours.
 
 ---
 
-The fall 2025 hail season reminded East Valley homeowners of something important: you don't need a tornado to need a new roof. Storms on September 26 and October 13 brought hail measuring up to 2.5 inches — roughly the size of a golf ball — to neighborhoods across Chandler, Tempe, Mesa, Scottsdale, and Apache Junction. In Tempe alone, the October storm damaged more than 500 homes.
+The fall 2025 hail season reminded East Valley homeowners of something important: you don't need a tornado to need a new roof. Storms on September 26 and October 13 brought hail measuring up to 2.5 inches, roughly the size of a golf ball, to neighborhoods across Chandler, Tempe, Mesa, Scottsdale, and Apache Junction. In Tempe alone, the October storm damaged more than 500 homes.
 
-What makes Arizona hail events particularly damaging is what happens after the storm clears. With 300+ days of sun per year and summer temperatures above 110°F, any undetected roof damage — cracked tile, exposed asphalt under stripped granules — begins degrading fast. UV exposure accelerates shingle breakdown by 2–3 times compared to milder climates. A small crack or impact bruise that might take years to cause a leak in Minnesota can cause one in Arizona inside of a single summer.
+What makes Arizona hail events particularly damaging is what happens after the storm clears. With 300+ days of sun per year and summer temperatures above 110°F, any undetected roof damage, cracked tile, exposed asphalt under stripped granules, begins degrading fast. UV exposure accelerates shingle breakdown by 2–3 times compared to milder climates. A small crack or impact bruise that might take years to cause a leak in Minnesota can cause one in Arizona inside of a single summer.
 
 Acting within 72 hours of a hail event matters both for documentation and for protecting your claim.
 
@@ -29,11 +29,11 @@ Acting within 72 hours of a hail event matters both for documentation and for pr
 
 ## What does hail damage look like on an Arizona asphalt shingle roof?
 
-[Hail knocks off the ceramic granules that protect the asphalt layer underneath](https://www.gaf.com/en-us/resources/roofing-technology/hail-damage-roof-systems). Look for dark circular spots — roughly quarter to golf-ball size depending on hail diameter — where the surface appears bare or shiny. The damage often feels soft or spongy when pressed, similar to a bruise. Dented gutters and downspouts on the same side of the house confirm the direction of impact.
+[Hail knocks off the ceramic granules that protect the asphalt layer underneath](https://www.gaf.com/en-us/resources/roofing-technology/hail-damage-roof-systems). Look for dark circular spots, roughly quarter to golf-ball size depending on hail diameter, where the surface appears bare or shiny. The damage often feels soft or spongy when pressed, similar to a bruise. Dented gutters and downspouts on the same side of the house confirm the direction of impact.
 
 ## What does hail damage look like on a tile roof?
 
-Tile damage is harder to spot. Hail causes spider cracks or hairline fractures that may not be visible from the ground and won't show as missing pieces. On concrete tile, look for chipped edges or corners. On clay tile, the glaze cracks before the body does — visible as dull spots in an otherwise glossy surface. Spider-cracked tile allows moisture intrusion that only shows up inside the home months later.
+Tile damage is harder to spot. Hail causes spider cracks or hairline fractures that may not be visible from the ground and won't show as missing pieces. On concrete tile, look for chipped edges or corners. On clay tile, the glaze cracks before the body does, visible as dull spots in an otherwise glossy surface. Spider-cracked tile allows moisture intrusion that only shows up inside the home months later.
 
 ## How can I check for hail damage without climbing on my roof?
 
@@ -52,11 +52,11 @@ Normal Arizona wear produces uniform fading, cracking along shingle edges (not i
 
 ## How soon do I need to file a hail damage claim in Arizona?
 
-Most Arizona homeowner policies require hail claims to be filed within one year of the storm event. Some policies are shorter — check your "Duties After Loss" section for the exact language. [Filing a claim does not mean accepting a settlement; it preserves your rights under the policy](https://difi.az.gov/consumers/homeowners-insurance). Document the storm date using [NOAA's storm events database](https://www.ncdc.noaa.gov/stormevents/) to create a time-stamped record that ties the damage to a specific event.
+Most Arizona homeowner policies require hail claims to be filed within one year of the storm event. Some policies are shorter, check your "Duties After Loss" section for the exact language. [Filing a claim does not mean accepting a settlement; it preserves your rights under the policy](https://difi.az.gov/consumers/homeowners-insurance). Document the storm date using [NOAA's storm events database](https://www.ncdc.noaa.gov/stormevents/) to create a time-stamped record that ties the damage to a specific event.
 
 ## What does hail damage repair or replacement cost in Arizona?
 
-Partial hail repair (replacing one slope or section of damaged shingles) runs $800–$3,500 depending on damage area and access. [Full replacement after severe hail — quarter-sized or larger — typically runs $9,000–$22,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator) for an average Arizona home depending on roof type and material tier. Tile replacement costs significantly more than shingle due to labor. Use our [free cost estimator](/estimator/) to get a range specific to your home size and material.
+Partial hail repair (replacing one slope or section of damaged shingles) runs $800–$3,500 depending on damage area and access. [Full replacement after severe hail, quarter-sized or larger, typically runs $9,000–$22,000](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator) for an average Arizona home depending on roof type and material tier. Tile replacement costs significantly more than shingle due to labor. Use our [free cost estimator](/estimator/) to get a range specific to your home size and material.
 
 ---
 
@@ -77,16 +77,16 @@ After identifying damage, read our guide on [how to negotiate a roof insurance c
 ## Frequently Asked Questions
 
 **Does quarter-sized hail always damage an Arizona roof?**
-Not always, but it frequently does — especially on shingles older than 10 years and on tile roofs where brittleness increases with age. Quarter-sized hail (1-inch diameter) is the threshold at which most roofing professionals and insurers consider damage likely. Any hail larger than a quarter warrants a professional inspection regardless of visible symptoms.
+Not always, but it frequently does, especially on shingles older than 10 years and on tile roofs where brittleness increases with age. Quarter-sized hail (1-inch diameter) is the threshold at which most roofing professionals and insurers consider damage likely. Any hail larger than a quarter warrants a professional inspection regardless of visible symptoms.
 
 **Can I inspect my own roof for hail damage?**
-A ground-level check of gutters, AC unit, and screens is safe and useful. Actual roof surface inspection should be done by a licensed contractor — both for safety and because [proper hail assessment on tile requires physical manipulation of tiles](https://www.nachi.org/hail-damage-part12-39.htm) that a homeowner should not attempt without training. Verify any contractor's R-42 license at [roc.az.gov](https://roc.az.gov) before allowing them on your roof.
+A ground-level check of gutters, AC unit, and screens is safe and useful. Actual roof surface inspection should be done by a licensed contractor, both for safety and because [proper hail assessment on tile requires physical manipulation of tiles](https://www.nachi.org/hail-damage-part12-39.htm) that a homeowner should not attempt without training. Verify any contractor's R-42 license at [roc.az.gov](https://roc.az.gov) before allowing them on your roof.
 
 **Will a hail claim raise my Arizona homeowner's insurance premium?**
 It can, but not always. Arizona insurers treat hail claims differently from liability or fire claims. A single hail claim on an otherwise clean policy rarely triggers a surcharge. Multiple claims within three years are more likely to affect your rate at renewal. Contact your agent before filing to understand your specific policy's claim history provisions.
 
 **How long does hail damage take to cause a leak?**
-In Arizona's climate, faster than most people expect. UV exposure degrades exposed asphalt after granule loss within one to two monsoon seasons. A tile hairline crack may not cause an active leak until the first heavy monsoon rain — sometimes months after the hail event. This is why early inspection matters even when there are no visible interior symptoms.
+In Arizona's climate, faster than most people expect. UV exposure degrades exposed asphalt after granule loss within one to two monsoon seasons. A tile hairline crack may not cause an active leak until the first heavy monsoon rain, sometimes months after the hail event. This is why early inspection matters even when there are no visible interior symptoms.
 
 **What if the hail storm happened months ago and I didn't file a claim?**
 You may still have time depending on when the storm occurred and your policy's claim window. Pull your policy and check the "Duties After Loss" section. If you are within one year of the storm, file immediately. Use NOAA's storm events database to document the exact date, hail size, and affected ZIP codes as part of your claim submission.
@@ -94,3 +94,10 @@ You may still have time depending on when the storm occurred and your policy's c
 ---
 
 If you're not sure what roof repair or replacement would cost for your home, get a ballpark from our [free cost estimator](/estimator/) before talking to any contractor or adjuster.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [How to Tell If Your Roof Has Hail Damage](/blog/how-to-tell-if-roof-has-hail-damage/)
+- [Storm Damage Roofing in Phoenix, AZ](/services/storm-damage-roofing-phoenix-az/)

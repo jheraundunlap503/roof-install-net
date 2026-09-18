@@ -140,3 +140,11 @@ Use the Arizona Registrar of Contractors at [roc.az.gov](https://roc.az.gov). Se
 ---
 
 Use the [free roof replacement cost estimator](/estimator/) before you meet with contractors so you know whether a storm repair bid is in the right range.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Storm Chaser Roofer Reddit: What Homeowners Actually Need to Know](/blog/storm-chaser-roofer-reddit/)
+- [Storm Damage Roofing in Phoenix, AZ](/services/storm-damage-roofing-phoenix-az/)
+- [Roofer Damaged My Property: What to Do Next](/blog/roofer-damaged-my-property/)

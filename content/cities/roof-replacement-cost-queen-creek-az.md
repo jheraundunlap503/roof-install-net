@@ -123,7 +123,7 @@ Here is what to ask for before signing anything:
 
 Getting three quotes is the standard advice, and it holds up. In the East Valley market, quote variation of 20 to 30 percent on the same scope of work is common. The lowest bid is not always the worst choice, but it warrants more questions about what might be cut from the scope.
 
-For guidance on vetting contractors before you hire, see [how to choose a roofing contractor in Arizona](/blog/how-to-choose-a-roofing-contractor-arizona/).
+For guidance on vetting contractors before you hire, see how to choose a roofing contractor in Arizona.
 
 ---
 
@@ -160,7 +160,7 @@ Practical steps Queen Creek homeowners can take to extend roof life:
 - Clear debris from valleys and gutters twice a year
 - Schedule a professional inspection every two to three years, especially after major storm events
 
-For a full seasonal maintenance checklist, see [Arizona roof maintenance tips for homeowners](/blog/arizona-roof-maintenance-tips/).
+For a full seasonal maintenance checklist, see Arizona roof maintenance tips for homeowners.
 
 ---
 
@@ -192,4 +192,11 @@ A new roof adds measurable value, particularly in Queen Creek's competitive resa
 
 ---
 
-*Looking for contractor recommendations or repair cost estimates for your specific situation? See our [East Valley roofing services overview](/services/east-valley-roofing/) for additional resources.*
+*Looking for contractor recommendations or repair cost estimates for your specific situation? See our East Valley roofing services overview for additional resources.*
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [Roof Replacement Cost in Tucson, AZ: 2026 Pricing Guide](/cities/roof-replacement-cost-tucson-az/)
+- [Roof Replacement Cost in Surprise, AZ (2026 Guide)](/cities/roof-replacement-cost-surprise-az/)

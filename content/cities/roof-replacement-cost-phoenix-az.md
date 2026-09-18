@@ -144,7 +144,7 @@ For flat-roof sections, which are common on Phoenix ranch homes and casitas, spr
 
 If budget requires asphalt shingles, choose architectural (laminate) shingles rated Class 3 or Class 4 impact-resistant and carry a manufacturer warranty of at least 30 years. Look for shingles with a high Solar Reflectance Index (SRI) score, which can meaningfully reduce attic temperatures and lower cooling costs. ENERGY STAR certified roofing products list qualifying shingles by brand and SKU.
 
-For more on choosing the right material for East Valley homes, see our [Arizona roofing materials comparison](/blog/arizona-roofing-materials/).
+For more on choosing the right material for East Valley homes, see our [Arizona roofing materials comparison](/blog/arizona-roofing-materials-climate/).
 
 ---
 
@@ -165,7 +165,7 @@ Verify that any contractor you hire holds a current Arizona Registrar of Contrac
 
 Also confirm the contractor carries general liability insurance (minimum $500,000) and workers' compensation. If a worker is injured on your property and the contractor is uninsured, you may face liability exposure.
 
-See our [how to hire a Phoenix roofing contractor](/services/hire-roofing-contractor-phoenix/) page for a full vetting checklist.
+See our [how to hire a Phoenix roofing contractor](/blog/best-roofing-contractor-reddit/) page for a full vetting checklist.
 
 ---
 

@@ -4,7 +4,7 @@ slug: how-to-tell-if-roof-has-hail-damage
 date: 2026-06-10
 published: true
 meta_title: How to Tell If Your Roof Has Hail Damage | Arizona Guide
-meta_description: Learn the specific signs of hail damage on tile, shingle, and metal roofing in Arizona — and what to check on the ground before calling a roofer or insurer.
+meta_description: Learn the specific signs of hail damage on tile, shingle, and metal roofing in Arizona, and what to check on the ground before calling a roofer or insurer.
 primary_keyword: how to tell if roof has hail damage
 keyword_cluster: hail damage roof signs arizona, identify hail damage shingles, hail damage tile roof arizona
 type: blog
@@ -14,13 +14,13 @@ image_alt: hailstones scattered on a wet surface after an Arizona monsoon storm
 
 # How to Tell If Your Roof Has Hail Damage
 
-**TLDR:** Hail damage on an Arizona roof shows up differently depending on the material — bruised or granule-stripped shingles, cracked or chipped tile, and dented soft metals like vents and gutters. You can spot most hail indicators from the ground or by checking accessible areas before getting on the roof. The soft-metals check is the fastest first step: if your gutters, downspouts, or AC unit cover are dented, there was enough hail force to damage roofing materials too.
+**TLDR:** Hail damage on an Arizona roof shows up differently depending on the material, bruised or granule-stripped shingles, cracked or chipped tile, and dented soft metals like vents and gutters. You can spot most hail indicators from the ground or by checking accessible areas before getting on the roof. The soft-metals check is the fastest first step: if your gutters, downspouts, or AC unit cover are dented, there was enough hail force to damage roofing materials too.
 
 ---
 
-Arizona's monsoon season, which runs roughly June through September, produces some of the most intense isolated hailstorms in the Southwest. [NOAA's Storm Events Database](https://www.ncei.noaa.gov/stormevents/) records multiple Maricopa County hail events every year, including storms with hail reaching 1.5 to 2 inches in diameter — large enough to crack concrete tile, fracture clay tile, and bruise asphalt shingles.
+Arizona's monsoon season, which runs roughly June through September, produces some of the most intense isolated hailstorms in the Southwest. [NOAA's Storm Events Database](https://www.ncei.noaa.gov/stormevents/) records multiple Maricopa County hail events every year, including storms with hail reaching 1.5 to 2 inches in diameter, large enough to crack concrete tile, fracture clay tile, and bruise asphalt shingles.
 
-The challenge for homeowners is that hail damage is not always obvious. A bruised shingle looks fine from the street. A cracked tile may shed water normally for a full season before it fails. Knowing what to look for — and where to look first — helps you identify damage while it is still a roofing issue, before it becomes a water intrusion issue.
+The challenge for homeowners is that hail damage is not always obvious. A bruised shingle looks fine from the street. A cracked tile may shed water normally for a full season before it fails. Knowing what to look for, and where to look first, helps you identify damage while it is still a roofing issue, before it becomes a water intrusion issue.
 
 ## What should you check first after a hail storm?
 
@@ -36,11 +36,11 @@ Start from the ground and work your way up. Do not climb onto a wet or freshly i
 
 If you find consistent denting on multiple soft-metal surfaces, hail was present and heavy enough to warrant a roof inspection. The [Insurance Institute for Business and Home Safety](https://ibhs.org/) uses soft metal denting as a primary field indicator for evaluating storm intensity during post-event inspections.
 
-**Check the ground around downspouts.** Granules washed off asphalt shingles accumulate in gutters and at downspout outlets. A significant volume of granules after a storm — especially if they were not there before — indicates shingle surface loss from hail impact.
+**Check the ground around downspouts.** Granules washed off asphalt shingles accumulate in gutters and at downspout outlets. A significant volume of granules after a storm, especially if they were not there before, indicates shingle surface loss from hail impact.
 
 ## What does hail damage look like on asphalt shingles?
 
-Hail strikes on asphalt shingles create bruises — circular or irregular impact points where the granule layer has been knocked loose, exposing the dark asphalt mat beneath. Unlike normal granule loss, which is uniform and gradual, hail bruising creates a random scatter pattern across the shingle surface.
+Hail strikes on asphalt shingles create bruises, circular or irregular impact points where the granule layer has been knocked loose, exposing the dark asphalt mat beneath. Unlike normal granule loss, which is uniform and gradual, hail bruising creates a random scatter pattern across the shingle surface.
 
 Specific indicators:
 - **Black circular spots** scattered randomly across the shingle field, roughly corresponding to hailstone size
@@ -70,7 +70,7 @@ Metal roofing shows hail impact as dents, which vary in severity by gauge and pa
 
 Stone-coated steel tiles can show knocked-off stone aggregate at impact points, similar to granule loss on shingles. That aggregate loss exposes the underlying coating to UV degradation.
 
-If you have metal roofing and the soft-metal check around your home shows heavy denting, have a roofer assess the panels — particularly around seams, ridges, and any penetrations where impact stress concentrates.
+If you have metal roofing and the soft-metal check around your home shows heavy denting, have a roofer assess the panels, particularly around seams, ridges, and any penetrations where impact stress concentrates.
 
 ## What does hail damage look like on foam roofing?
 
@@ -81,13 +81,13 @@ Indicators on foam:
 - Cracked or flaking topcoat at impact points
 - Areas where the underlying foam is visible through a damaged coating
 
-Any point where the topcoat has cracked and foam is exposed needs recoating promptly — exposed foam degrades quickly under Arizona UV.
+Any point where the topcoat has cracked and foam is exposed needs recoating promptly, exposed foam degrades quickly under Arizona UV.
 
 ## How do you document hail damage for an insurance claim?
 
 Good documentation protects you from lowball settlements. After a storm, before anything is cleaned up:
 
-1. Photograph the dented soft metals on your home — gutters, vents, AC unit
+1. Photograph the dented soft metals on your home, gutters, vents, AC unit
 2. Photograph granule accumulation at downspout outlets
 3. Take ground-level photos of any visible tile or shingle damage
 4. Note the date, approximate start time, and duration of the storm
@@ -101,7 +101,7 @@ For more on how to build a documented case if the insurance adjuster undervalues
 
 Get the roofer inspection first. A contractor who inspects before a claim is filed gives you an independent assessment of what was actually damaged. That documentation is more useful going into a claim than the insurer's first look.
 
-[Arizona DIFI](https://difi.az.gov/) advises homeowners to contact the insurer promptly after a covered event — but a brief delay to gather documentation and contractor findings is reasonable and does not typically jeopardize the claim. Do not make permanent repairs before the insurer has a chance to inspect, but emergency mitigation (tarping an opening, for example) is expected and appropriate.
+[Arizona DIFI](https://difi.az.gov/) advises homeowners to contact the insurer promptly after a covered event, but a brief delay to gather documentation and contractor findings is reasonable and does not typically jeopardize the claim. Do not make permanent repairs before the insurer has a chance to inspect, but emergency mitigation (tarping an opening, for example) is expected and appropriate.
 
 For a full walkthrough of the Arizona insurance claim process after a storm, see [how to file a roof insurance claim in Arizona](/blog/negotiate-roof-insurance-claim) and [what Arizona homeowner insurance covers for roof damage](/blog/roof-damage-insurance-coverage-arizona).
 
@@ -120,4 +120,4 @@ No. Localized tile cracking or minor shingle bruising may be repairable rather t
 Quarter-size hail (about 1 inch diameter) and larger typically causes damage to asphalt shingles. Larger hail (1.25 inches and above) can crack concrete or clay tile. Soft metals show denting from hail as small as 0.75 inches depending on fall velocity and wind conditions.
 
 **Does my insurance cover cosmetic hail damage to tile or metal roofing?**
-It depends on your policy. Some Arizona homeowner policies include cosmetic damage exclusions for metal or tile roofing. Review your policy endorsements carefully — a cosmetic exclusion can significantly reduce the payout on an otherwise covered hail event. See [what Arizona roof insurance covers](/blog/roof-damage-insurance-coverage-arizona) for more detail.
+It depends on your policy. Some Arizona homeowner policies include cosmetic damage exclusions for metal or tile roofing. Review your policy endorsements carefully, a cosmetic exclusion can significantly reduce the payout on an otherwise covered hail event. See [what Arizona roof insurance covers](/blog/roof-damage-insurance-coverage-arizona) for more detail.

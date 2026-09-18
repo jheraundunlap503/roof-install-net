@@ -146,3 +146,11 @@ DIFI can investigate certain insurance complaints and require an insurer respons
 Cashing an initial payment usually does not end the claim by itself, but read every document carefully. Do not sign a release or final settlement agreement unless you understand what rights you are giving up.
 
 [Use the free roof cost estimator before you accept a settlement](https://www.gaf.com/en-us/plan-design/homeowner-education/roof-cost/calculator) so you have a realistic local replacement range in hand.
+
+---
+
+*Related reading on RoofInstall.net:*
+
+- [What to Do If Your Roof Insurance Claim Is Denied](/blog/what-to-do-if-roof-insurance-claim-denied/)
+- [How to Negotiate a Roof Insurance Claim and Get What You're Owed](/blog/negotiate-roof-insurance-claim/)
+- [How to File a Roof Insurance Claim Step by Step in Arizona](/blog/how-to-file-roof-insurance-claim/)

@@ -129,7 +129,7 @@ Additional vetting steps:
 
 Storm-chasing contractors flood West Valley neighborhoods after monsoon events. If someone knocks on your door offering to file your insurance claim on your behalf, that is a violation of Arizona law. Report aggressive storm chasers to the [Arizona Department of Insurance and Financial Institutions](https://difi.az.gov/).
 
-For more on avoiding common scams, see our [roofing contractor red flags guide](/blog/roofing-contractor-red-flags/).
+For more on avoiding common scams, see our [roofing contractor red flags guide](/blog/roofing-contractor-red-flags-reddit/).
 
 ---
 
@@ -161,7 +161,7 @@ Avondale pricing is generally 5 to 10 percent below central Phoenix rates and co
 | Chandler (East Valley) | 5-8% higher |
 | Buckeye | 3-5% lower |
 
-These are rough estimates based on contractor overhead and market competition. Always get local bids rather than applying metro-wide averages to your specific project. Our [Phoenix metro roofing cost overview](/services/phoenix-roof-replacement/) covers the full regional picture.
+These are rough estimates based on contractor overhead and market competition. Always get local bids rather than applying metro-wide averages to your specific project. Our Phoenix metro roofing cost overview covers the full regional picture.
 
 ---
 
@@ -202,7 +202,7 @@ It can. Some Arizona insurers offer discounts for newer roofs, impact-resistant 
 
 ### How do I know if hail actually damaged my Avondale roof after a monsoon?
 
-Look for dents or bruises on soft metals like gutters, downspouts, and AC condenser fins. These show impact without requiring you to get on the roof. Inside the attic, look for light coming through or fresh staining on the decking. A licensed inspector or roofing contractor can perform a formal inspection. For more detail, see our [monsoon roof damage checklist](/blog/monsoon-roof-damage-checklist/).
+Look for dents or bruises on soft metals like gutters, downspouts, and AC condenser fins. These show impact without requiring you to get on the roof. Inside the attic, look for light coming through or fresh staining on the decking. A licensed inspector or roofing contractor can perform a formal inspection. For more detail, see our [monsoon roof damage checklist](/blog/monsoon-roof-damage-arizona-2026/).
 
 ### Can I put a new roof over my existing roof in Avondale?
 
