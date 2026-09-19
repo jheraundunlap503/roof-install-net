@@ -3,7 +3,7 @@ title: "Foam Roofing Reddit: What Homeowners Actually Say (Plus Arizona Facts)"
 slug: foam-roofing-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-09-23
 meta_title: "Foam Roofing Reddit: Real Homeowner Q&A"
 meta_description: "Reddit loves debating foam roofing. We sort the good advice from the myths and add Arizona-specific facts every Phoenix homeowner needs."
 primary_keyword: foam roofing reddit

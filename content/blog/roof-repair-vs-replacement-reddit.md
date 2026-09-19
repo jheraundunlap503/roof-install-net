@@ -3,7 +3,7 @@ title: "Roof Repair vs Replacement: What Reddit Gets Right (and Wrong)"
 slug: roof-repair-vs-replacement-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-10-01
 meta_title: "Roof Repair vs Replacement: Reddit Advice Reviewed"
 meta_description: "Phoenix homeowner? Here's what Reddit gets right and wrong about roof repair vs replacement, with verified facts for Arizona's climate."
 primary_keyword: roof repair vs replacement reddit

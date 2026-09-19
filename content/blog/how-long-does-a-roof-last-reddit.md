@@ -3,7 +3,7 @@ title: "How Long Does a Roof Last? What Reddit Gets Right (and Wrong)"
 slug: how-long-does-a-roof-last-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-09-24
 meta_title: "How Long Does a Roof Last? Reddit vs. Reality"
 meta_description: "Redditors debate roof lifespan constantly. Here's what the data actually says, plus why Arizona roofs age faster than the national average."
 primary_keyword: how long does a roof last reddit

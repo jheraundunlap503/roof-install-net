@@ -3,7 +3,7 @@ title: "Roofing Contractor Red Flags Reddit Homeowners Keep Posting About"
 slug: roofing-contractor-red-flags-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-10-06
 meta_title: "Roofing Contractor Red Flags Reddit Warns About"
 meta_description: "Reddit keeps flagging the same roofing contractor scams. Here's what Phoenix-area homeowners need to watch for before signing anything."
 primary_keyword: roofing contractor red flags reddit

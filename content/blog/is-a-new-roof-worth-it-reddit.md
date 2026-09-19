@@ -3,7 +3,7 @@ title: "Is a New Roof Worth It? What Reddit Gets Right (and Wrong)"
 slug: is-a-new-roof-worth-it-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-09-26
 meta_title: "Is a New Roof Worth It? Reddit + Real Data"
 meta_description: "Reddit says yes, but the real answer depends on your roof's age, condition, and local climate. Here's what Arizona homeowners need to know."
 primary_keyword: is a new roof worth it reddit

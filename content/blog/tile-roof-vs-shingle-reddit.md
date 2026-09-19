@@ -3,7 +3,7 @@ title: "Tile Roof vs Shingle: What Reddit Gets Right (and Wrong)"
 slug: tile-roof-vs-shingle-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-10-09
 meta_title: "Tile Roof vs Shingle: Reddit Advice Fact-Checked"
 meta_description: "Reddit debates tile vs shingle roofs constantly. We fact-check the top claims for Arizona homeowners and tell you which roof wins in the Phoenix heat."
 primary_keyword: tile roof vs shingle reddit

@@ -3,7 +3,7 @@ title: "Roof Replacement Cost 2026: What Reddit Gets Right (and Wrong)"
 slug: roof-replacement-cost-2026-reddit
 date: 2026-09-15
 published: false
-scheduled_date:
+scheduled_date: 2026-10-02
 meta_title: "Roof Replacement Cost 2026: Reddit vs. Reality"
 meta_description: "What does roof replacement actually cost in 2026? We fact-check Reddit's most common claims with real data for Phoenix and Arizona homeowners."
 primary_keyword: roof replacement cost 2026 reddit

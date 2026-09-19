@@ -3,7 +3,7 @@ title: "Roof Insurance Claim Denied: What Reddit Gets Right (and Wrong)"
 slug: roof-insurance-claim-denied-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-09-29
 meta_title: "Roof Insurance Claim Denied? Here's What to Do Next"
 meta_description: "Your roof insurance claim was denied. Learn what Reddit misses, how to appeal in Arizona, and when a denial is actually correct."
 primary_keyword: roof insurance claim denied reddit

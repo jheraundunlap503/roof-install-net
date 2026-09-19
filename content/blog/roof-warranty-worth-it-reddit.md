@@ -3,7 +3,7 @@ title: "Is a Roof Warranty Worth It? What Reddit Gets Right (and Wrong)"
 slug: roof-warranty-worth-it-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-10-05
 meta_title: "Is a Roof Warranty Worth It? Reddit + Real Facts"
 meta_description: "Reddit debates roof warranties constantly. Here's what Arizona homeowners actually need to know before paying extra for extended coverage."
 primary_keyword: roof warranty worth it reddit

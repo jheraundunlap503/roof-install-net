@@ -3,7 +3,7 @@ title: "Roofing Quotes Too High? What Reddit Gets Right (and Wrong)"
 slug: roofing-quotes-too-high-reddit
 date: 2026-09-17
 published: false
-scheduled_date:
+scheduled_date: 2026-10-07
 meta_title: "Roofing Quotes Too High? A Phoenix Homeowner's Guide"
 meta_description: "Getting roofing quotes too high? Learn what Reddit misses about Arizona pricing, what drives costs up, and how to spot a fair bid in the Phoenix metro."
 primary_keyword: roofing quotes too high reddit
