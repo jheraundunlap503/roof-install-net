@@ -2,7 +2,7 @@
 title: "Arizona Roofing Reddit: What Real Homeowners Are Actually Asking"
 slug: arizona-roofing-reddit
 date: 2026-09-17
-published: false
+published: true
 scheduled_date: 2026-09-20
 meta_title: "Arizona Roofing Reddit: Real Answers for AZ Homeowners"
 meta_description: "What Arizona homeowners ask on roofing Reddit, answered with local context: costs, permits, contractor licensing, and when you don't need a new roof."
