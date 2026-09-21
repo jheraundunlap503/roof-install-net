@@ -2,7 +2,7 @@
 title: "Best Roofing Contractor Reddit: What Homeowners Actually Need to Know"
 slug: best-roofing-contractor-reddit
 date: 2026-09-15
-published: false
+published: true
 scheduled_date: 2026-09-21
 meta_title: "Best Roofing Contractor Reddit: Real Advice"
 meta_description: "Reddit says 'get three bids.' Here's how to actually vet a roofer in Arizona using licenses, certifications, and BBB records."
