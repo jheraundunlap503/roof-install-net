@@ -2,7 +2,7 @@
 title: "DIY Roof Replacement Reddit: What Arizona Homeowners Actually Need to Know"
 slug: diy-roof-replacement-reddit
 date: 2026-09-17
-published: false
+published: true
 scheduled_date: 2026-09-22
 meta_title: "DIY Roof Replacement Reddit: AZ Homeowner Guide"
 meta_description: "Reddit loves DIY roofing. But in Arizona's UV-11+ climate, permits, ROC law, and monsoon risk change the math. Read before you climb."
