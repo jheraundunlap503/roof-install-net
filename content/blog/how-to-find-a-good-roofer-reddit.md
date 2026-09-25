@@ -2,7 +2,7 @@
 title: "How to Find a Good Roofer: What Reddit Gets Right (and Wrong)"
 slug: how-to-find-a-good-roofer-reddit
 date: 2026-09-17
-published: false
+published: true
 scheduled_date: 2026-09-25
 meta_title: "How to Find a Good Roofer: Reddit Tips + What Actually Works"
 meta_description: "Reddit advice on finding a good roofer is a starting point, not a finish line. Here's what Arizona homeowners actually need to verify before signing."
