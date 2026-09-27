@@ -2,7 +2,7 @@
 title: "Metal Roof vs Shingles Reddit: What Homeowners Actually Say"
 slug: metal-roof-vs-shingles-reddit
 date: 2026-09-17
-published: false
+published: true
 scheduled_date: 2026-09-27
 meta_title: "Metal Roof vs Shingles: Reddit Advice Fact-Checked"
 meta_description: "Reddit debates metal roof vs shingles constantly. We fact-check the top claims with real Arizona data: costs, lifespan, and heat performance."
