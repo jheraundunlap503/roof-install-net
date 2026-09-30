@@ -2,7 +2,7 @@
 title: "Roof Insurance Claim Tips: What Reddit Gets Right (and Wrong)"
 slug: roof-insurance-claim-tips-reddit
 date: 2026-09-17
-published: false
+published: true
 scheduled_date: 2026-09-30
 meta_title: "Roof Insurance Claim Tips: Reddit Advice Verified"
 meta_description: "Sorting real roof insurance claim tips from Reddit myths. Arizona homeowner guidance on documentation, adjusters, and avoiding claim denials."
