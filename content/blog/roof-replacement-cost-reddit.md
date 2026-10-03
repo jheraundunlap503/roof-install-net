@@ -2,7 +2,7 @@
 title: "Roof Replacement Cost Reddit: What Homeowners Actually Pay"
 slug: roof-replacement-cost-reddit
 date: 2026-09-15
-published: false
+published: true
 scheduled_date: 2026-10-03
 meta_title: "Roof Replacement Cost: Reddit vs. Real Numbers"
 meta_description: "What Reddit gets right and wrong about roof replacement cost. Real numbers, Arizona-specific pricing, and how to vet a contractor before you sign."
