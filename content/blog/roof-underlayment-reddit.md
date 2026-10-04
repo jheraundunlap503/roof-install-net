@@ -2,7 +2,7 @@
 title: "Roof Underlayment Reddit: What Homeowners Actually Get Right (and Wrong)"
 slug: roof-underlayment-reddit
 date: 2026-09-17
-published: false
+published: true
 scheduled_date: 2026-10-04
 meta_title: "Roof Underlayment Reddit: What's Real vs. Myth"
 meta_description: "Reddit roof underlayment threads get some things right. Here's what Arizona homeowners need to know about felt, synthetic, and code requirements."
